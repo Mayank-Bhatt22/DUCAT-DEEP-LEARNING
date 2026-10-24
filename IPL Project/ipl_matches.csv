@@ -1,0 +1,1001 @@
+id,date,venue,city,toss_winner,toss_decision,batting_first,winner,win_by_runs,win_by_wickets,player_of_match,umpire1,umpire2,result,dl_applied
+1,2018-10-13,Rajiv Gandhi International Stadium,Hyderabad,Rajasthan Royals,field,Gujarat Titans,Rajasthan Royals,0,8,Jos Buttler,Nitish Menon,Sunil Kumar,normal,0
+2,2021-08-12,Arun Jaitley Stadium,Delhi,Delhi Capitals,field,Mumbai Indians,Mumbai Indians,67,0,Virat Kohli,Sunil Kumar,Nitish Menon,normal,0
+3,2018-05-18,Narendra Modi Stadium,Ahmedabad,Rajasthan Royals,bat,Rajasthan Royals,Rajasthan Royals,52,0,Rishabh Pant,Sunil Kumar,Richard Illingworth,normal,0
+4,2024-07-24,M. Chinnaswamy Stadium,Bangalore,Mumbai Indians,bat,Mumbai Indians,Mumbai Indians,93,0,Shubman Gill,Richard Illingworth,Richard Illingworth,normal,0
+5,2021-04-05,Eden Gardens,Kolkata,Sunrisers Hyderabad,field,Lucknow Super Giants,Sunrisers Hyderabad,0,4,KL Rahul,Kumar Dharmasena,Richard Illingworth,normal,0
+6,2022-06-24,Eden Gardens,Kolkata,Gujarat Titans,bat,Gujarat Titans,Gujarat Titans,54,0,Shubman Gill,Richard Illingworth,Nitish Menon,normal,0
+7,2020-02-02,Eden Gardens,Kolkata,Gujarat Titans,bat,Gujarat Titans,Gujarat Titans,51,0,Hardik Pandya,Nitish Menon,Nitish Menon,normal,0
+8,2022-07-25,Eden Gardens,Kolkata,Gujarat Titans,field,Kolkata Knight Riders,Gujarat Titans,0,4,Rohit Sharma,Sunil Kumar,Kumar Dharmasena,normal,0
+9,2018-10-01,Punjab Cricket Association Stadium,Mohali,Royal Challengers Bangalore,field,Chennai Super Kings,Chennai Super Kings,99,0,Virat Kohli,Chris Gaffaney,Sunil Kumar,normal,0
+10,2025-01-23,Rajiv Gandhi International Stadium,Hyderabad,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,Kolkata Knight Riders,0,3,Shubman Gill,Richard Illingworth,Kumar Dharmasena,normal,0
+11,2024-07-16,Arun Jaitley Stadium,Delhi,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,Sunrisers Hyderabad,45,0,Rishabh Pant,Kumar Dharmasena,Chris Gaffaney,normal,0
+12,2019-06-22,Arun Jaitley Stadium,Delhi,Punjab Kings,field,Chennai Super Kings,Punjab Kings,0,6,Rohit Sharma,Sunil Kumar,Richard Illingworth,tie,0
+13,2022-08-29,Wankhede Stadium,Mumbai,Royal Challengers Bangalore,field,Delhi Capitals,Royal Challengers Bangalore,0,2,Rohit Sharma,Richard Illingworth,Kumar Dharmasena,normal,1
+14,2018-05-29,BRSABV Ekana Stadium,Lucknow,Chennai Super Kings,bat,Chennai Super Kings,Gujarat Titans,0,6,Hardik Pandya,Chris Gaffaney,Kumar Dharmasena,normal,0
+15,2025-04-07,M. Chinnaswamy Stadium,Bangalore,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,Chennai Super Kings,0,8,Rishabh Pant,Kumar Dharmasena,Sunil Kumar,normal,0
+16,2022-08-10,Punjab Cricket Association Stadium,Mohali,Delhi Capitals,bat,Delhi Capitals,Punjab Kings,0,5,Shubman Gill,Kumar Dharmasena,Chris Gaffaney,normal,0
+17,2023-09-09,Narendra Modi Stadium,Ahmedabad,Rajasthan Royals,field,Sunrisers Hyderabad,Sunrisers Hyderabad,20,0,Shubman Gill,Nitish Menon,Nitish Menon,normal,0
+18,2022-06-05,Arun Jaitley Stadium,Delhi,Chennai Super Kings,bat,Chennai Super Kings,Chennai Super Kings,23,0,Jos Buttler,Sunil Kumar,Sunil Kumar,normal,0
+19,2024-04-18,Arun Jaitley Stadium,Delhi,Kolkata Knight Riders,field,Rajasthan Royals,Rajasthan Royals,93,0,Andre Russell,Sunil Kumar,Nitish Menon,normal,0
+20,2021-03-09,M. Chinnaswamy Stadium,Bangalore,Lucknow Super Giants,field,Chennai Super Kings,Lucknow Super Giants,0,7,David Warner,Nitish Menon,Chris Gaffaney,normal,0
+21,2024-03-01,Arun Jaitley Stadium,Delhi,Lucknow Super Giants,bat,Lucknow Super Giants,Gujarat Titans,0,7,Virat Kohli,Richard Illingworth,Kumar Dharmasena,normal,0
+22,2018-09-12,Punjab Cricket Association Stadium,Mohali,Delhi Capitals,field,Gujarat Titans,Gujarat Titans,77,0,David Warner,Chris Gaffaney,Sunil Kumar,normal,1
+23,2021-04-04,Arun Jaitley Stadium,Delhi,Kolkata Knight Riders,bat,Kolkata Knight Riders,Kolkata Knight Riders,93,0,MS Dhoni,Sunil Kumar,Nitish Menon,normal,0
+24,2022-03-08,M. Chinnaswamy Stadium,Bangalore,Gujarat Titans,field,Kolkata Knight Riders,Gujarat Titans,0,9,KL Rahul,Kumar Dharmasena,Sunil Kumar,normal,0
+25,2023-02-14,M. Chinnaswamy Stadium,Bangalore,Lucknow Super Giants,field,Mumbai Indians,Mumbai Indians,45,0,David Warner,Sunil Kumar,Nitish Menon,normal,0
+26,2024-10-12,Wankhede Stadium,Mumbai,Royal Challengers Bangalore,field,Rajasthan Royals,Royal Challengers Bangalore,0,4,Ravindra Jadeja,Richard Illingworth,Kumar Dharmasena,normal,0
+27,2023-06-01,Wankhede Stadium,Mumbai,Mumbai Indians,field,Lucknow Super Giants,Mumbai Indians,0,4,Rohit Sharma,Kumar Dharmasena,Richard Illingworth,normal,0
+28,2020-10-30,M. Chinnaswamy Stadium,Bangalore,Sunrisers Hyderabad,field,Royal Challengers Bangalore,Sunrisers Hyderabad,0,1,MS Dhoni,Chris Gaffaney,Kumar Dharmasena,normal,0
+29,2019-08-11,Sawai Mansingh Stadium,Jaipur,Mumbai Indians,field,Royal Challengers Bangalore,Royal Challengers Bangalore,70,0,MS Dhoni,Richard Illingworth,Richard Illingworth,normal,0
+30,2024-09-10,Arun Jaitley Stadium,Delhi,Delhi Capitals,field,Chennai Super Kings,Delhi Capitals,0,9,Jasprit Bumrah,Richard Illingworth,Kumar Dharmasena,normal,0
+31,2023-01-05,Narendra Modi Stadium,Ahmedabad,Gujarat Titans,bat,Gujarat Titans,Gujarat Titans,89,0,MS Dhoni,Sunil Kumar,Chris Gaffaney,normal,0
+32,2020-06-12,Narendra Modi Stadium,Ahmedabad,Royal Challengers Bangalore,field,Chennai Super Kings,Chennai Super Kings,62,0,Shubman Gill,Nitish Menon,Richard Illingworth,normal,0
+33,2019-03-19,M. Chinnaswamy Stadium,Bangalore,Rajasthan Royals,bat,Rajasthan Royals,Rajasthan Royals,9,0,Jos Buttler,Kumar Dharmasena,Sunil Kumar,normal,0
+34,2019-08-13,M. Chinnaswamy Stadium,Bangalore,Lucknow Super Giants,bat,Lucknow Super Giants,Chennai Super Kings,0,3,MS Dhoni,Sunil Kumar,Chris Gaffaney,normal,0
+35,2018-11-15,Wankhede Stadium,Mumbai,Punjab Kings,bat,Punjab Kings,Sunrisers Hyderabad,0,7,Jasprit Bumrah,Kumar Dharmasena,Sunil Kumar,normal,0
+36,2024-01-31,BRSABV Ekana Stadium,Lucknow,Lucknow Super Giants,bat,Lucknow Super Giants,Kolkata Knight Riders,0,7,MS Dhoni,Sunil Kumar,Kumar Dharmasena,normal,0
+37,2020-08-11,Arun Jaitley Stadium,Delhi,Punjab Kings,field,Gujarat Titans,Punjab Kings,0,8,Shubman Gill,Chris Gaffaney,Sunil Kumar,normal,0
+38,2021-03-14,Eden Gardens,Kolkata,Mumbai Indians,field,Royal Challengers Bangalore,Mumbai Indians,0,6,Ravindra Jadeja,Nitish Menon,Sunil Kumar,tie,1
+39,2021-06-23,Arun Jaitley Stadium,Delhi,Delhi Capitals,field,Mumbai Indians,Mumbai Indians,73,0,Suryakumar Yadav,Sunil Kumar,Nitish Menon,normal,0
+40,2019-01-01,Sawai Mansingh Stadium,Jaipur,Punjab Kings,bat,Punjab Kings,Lucknow Super Giants,0,8,MS Dhoni,Sunil Kumar,Chris Gaffaney,normal,0
+41,2020-12-22,M. Chinnaswamy Stadium,Bangalore,Delhi Capitals,field,Gujarat Titans,Gujarat Titans,28,0,Rohit Sharma,Kumar Dharmasena,Richard Illingworth,normal,0
+42,2020-02-16,Sawai Mansingh Stadium,Jaipur,Gujarat Titans,bat,Gujarat Titans,Kolkata Knight Riders,0,1,Sanju Samson,Nitish Menon,Kumar Dharmasena,normal,0
+43,2025-05-20,Punjab Cricket Association Stadium,Mohali,Rajasthan Royals,field,Delhi Capitals,Rajasthan Royals,0,3,Shubman Gill,Nitish Menon,Chris Gaffaney,normal,1
+44,2023-09-24,Sawai Mansingh Stadium,Jaipur,Mumbai Indians,field,Punjab Kings,Punjab Kings,86,0,Rishabh Pant,Sunil Kumar,Nitish Menon,normal,0
+45,2020-07-03,Wankhede Stadium,Mumbai,Mumbai Indians,field,Sunrisers Hyderabad,Sunrisers Hyderabad,100,0,Virat Kohli,Kumar Dharmasena,Kumar Dharmasena,normal,0
+46,2019-03-30,Narendra Modi Stadium,Ahmedabad,Punjab Kings,bat,Punjab Kings,Punjab Kings,26,0,Hardik Pandya,Chris Gaffaney,Kumar Dharmasena,normal,0
+47,2019-10-12,BRSABV Ekana Stadium,Lucknow,Punjab Kings,field,Kolkata Knight Riders,Punjab Kings,0,5,Rashid Khan,Chris Gaffaney,Chris Gaffaney,normal,0
+48,2018-04-06,BRSABV Ekana Stadium,Lucknow,Rajasthan Royals,field,Lucknow Super Giants,Lucknow Super Giants,95,0,Shubman Gill,Sunil Kumar,Richard Illingworth,normal,0
+49,2020-11-12,Punjab Cricket Association Stadium,Mohali,Gujarat Titans,field,Sunrisers Hyderabad,Sunrisers Hyderabad,48,0,Rashid Khan,Nitish Menon,Chris Gaffaney,normal,0
+50,2022-08-18,Rajiv Gandhi International Stadium,Hyderabad,Rajasthan Royals,field,Sunrisers Hyderabad,Rajasthan Royals,0,7,Hardik Pandya,Richard Illingworth,Richard Illingworth,normal,0
+51,2021-01-03,M. Chinnaswamy Stadium,Bangalore,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,Delhi Capitals,0,2,KL Rahul,Kumar Dharmasena,Nitish Menon,normal,0
+52,2018-08-11,Arun Jaitley Stadium,Delhi,Sunrisers Hyderabad,field,Delhi Capitals,Sunrisers Hyderabad,0,3,David Warner,Sunil Kumar,Nitish Menon,normal,0
+53,2020-06-12,M. Chinnaswamy Stadium,Bangalore,Gujarat Titans,bat,Gujarat Titans,Gujarat Titans,49,0,Virat Kohli,Richard Illingworth,Sunil Kumar,normal,0
+54,2020-07-06,Eden Gardens,Kolkata,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,Chennai Super Kings,0,9,Hardik Pandya,Kumar Dharmasena,Kumar Dharmasena,normal,0
+55,2021-08-30,Arun Jaitley Stadium,Delhi,Kolkata Knight Riders,field,Mumbai Indians,Mumbai Indians,52,0,Hardik Pandya,Kumar Dharmasena,Kumar Dharmasena,normal,0
+56,2020-07-09,Eden Gardens,Kolkata,Rajasthan Royals,field,Mumbai Indians,Mumbai Indians,38,0,Andre Russell,Sunil Kumar,Sunil Kumar,normal,0
+57,2020-07-29,Rajiv Gandhi International Stadium,Hyderabad,Mumbai Indians,field,Punjab Kings,Mumbai Indians,0,1,Hardik Pandya,Chris Gaffaney,Nitish Menon,normal,0
+58,2024-06-27,BRSABV Ekana Stadium,Lucknow,Lucknow Super Giants,field,Chennai Super Kings,Chennai Super Kings,71,0,Jasprit Bumrah,Sunil Kumar,Chris Gaffaney,normal,0
+59,2022-09-07,BRSABV Ekana Stadium,Lucknow,Mumbai Indians,field,Chennai Super Kings,Chennai Super Kings,97,0,David Warner,Richard Illingworth,Kumar Dharmasena,normal,0
+60,2018-12-26,Wankhede Stadium,Mumbai,Mumbai Indians,bat,Mumbai Indians,Mumbai Indians,74,0,Rishabh Pant,Nitish Menon,Kumar Dharmasena,normal,0
+61,2019-08-12,Punjab Cricket Association Stadium,Mohali,Lucknow Super Giants,field,Mumbai Indians,Mumbai Indians,33,0,Shubman Gill,Chris Gaffaney,Sunil Kumar,normal,0
+62,2024-01-29,Sawai Mansingh Stadium,Jaipur,Mumbai Indians,bat,Mumbai Indians,Chennai Super Kings,0,1,KL Rahul,Sunil Kumar,Sunil Kumar,normal,0
+63,2023-11-24,M. Chinnaswamy Stadium,Bangalore,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,Sunrisers Hyderabad,89,0,Ravindra Jadeja,Nitish Menon,Sunil Kumar,normal,0
+64,2018-08-30,Eden Gardens,Kolkata,Kolkata Knight Riders,field,Mumbai Indians,Mumbai Indians,63,0,Rohit Sharma,Nitish Menon,Kumar Dharmasena,normal,0
+65,2022-04-30,Sawai Mansingh Stadium,Jaipur,Royal Challengers Bangalore,field,Rajasthan Royals,Royal Challengers Bangalore,0,7,Rishabh Pant,Richard Illingworth,Sunil Kumar,normal,0
+66,2022-03-20,Arun Jaitley Stadium,Delhi,Chennai Super Kings,field,Lucknow Super Giants,Chennai Super Kings,0,6,Rohit Sharma,Kumar Dharmasena,Richard Illingworth,normal,0
+67,2021-03-22,Sawai Mansingh Stadium,Jaipur,Kolkata Knight Riders,bat,Kolkata Knight Riders,Kolkata Knight Riders,84,0,David Warner,Nitish Menon,Chris Gaffaney,normal,0
+68,2019-06-21,M. Chinnaswamy Stadium,Bangalore,Gujarat Titans,field,Delhi Capitals,Gujarat Titans,0,5,MS Dhoni,Nitish Menon,Chris Gaffaney,normal,0
+69,2023-01-24,Sawai Mansingh Stadium,Jaipur,Mumbai Indians,field,Lucknow Super Giants,Lucknow Super Giants,46,0,Suryakumar Yadav,Sunil Kumar,Kumar Dharmasena,normal,0
+70,2024-04-05,Narendra Modi Stadium,Ahmedabad,Sunrisers Hyderabad,field,Delhi Capitals,Sunrisers Hyderabad,0,7,Ravindra Jadeja,Richard Illingworth,Nitish Menon,normal,0
+71,2022-02-12,Punjab Cricket Association Stadium,Mohali,Lucknow Super Giants,field,Punjab Kings,Punjab Kings,14,0,Rashid Khan,Nitish Menon,Nitish Menon,normal,0
+72,2023-07-06,Rajiv Gandhi International Stadium,Hyderabad,Rajasthan Royals,bat,Rajasthan Royals,Rajasthan Royals,91,0,Suryakumar Yadav,Chris Gaffaney,Nitish Menon,normal,0
+73,2023-06-02,BRSABV Ekana Stadium,Lucknow,Mumbai Indians,bat,Mumbai Indians,Gujarat Titans,0,7,MS Dhoni,Sunil Kumar,Nitish Menon,normal,1
+74,2019-11-07,Sawai Mansingh Stadium,Jaipur,Kolkata Knight Riders,bat,Kolkata Knight Riders,Royal Challengers Bangalore,0,1,Rohit Sharma,Chris Gaffaney,Kumar Dharmasena,normal,1
+75,2020-09-08,Wankhede Stadium,Mumbai,Sunrisers Hyderabad,field,Delhi Capitals,Sunrisers Hyderabad,0,9,Rohit Sharma,Nitish Menon,Richard Illingworth,normal,0
+76,2021-04-26,Punjab Cricket Association Stadium,Mohali,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,Sunrisers Hyderabad,62,0,Rohit Sharma,Sunil Kumar,Nitish Menon,normal,1
+77,2024-03-20,Arun Jaitley Stadium,Delhi,Gujarat Titans,bat,Gujarat Titans,Gujarat Titans,84,0,Andre Russell,Nitish Menon,Sunil Kumar,normal,0
+78,2020-10-09,Arun Jaitley Stadium,Delhi,Mumbai Indians,bat,Mumbai Indians,Mumbai Indians,7,0,Rishabh Pant,Sunil Kumar,Nitish Menon,normal,0
+79,2023-09-23,Punjab Cricket Association Stadium,Mohali,Punjab Kings,bat,Punjab Kings,Rajasthan Royals,0,5,Hardik Pandya,Sunil Kumar,Richard Illingworth,tie,0
+80,2019-08-19,Rajiv Gandhi International Stadium,Hyderabad,Delhi Capitals,bat,Delhi Capitals,Delhi Capitals,42,0,MS Dhoni,Kumar Dharmasena,Richard Illingworth,normal,0
+81,2024-08-12,Arun Jaitley Stadium,Delhi,Rajasthan Royals,bat,Rajasthan Royals,Rajasthan Royals,57,0,David Warner,Kumar Dharmasena,Sunil Kumar,normal,0
+82,2025-02-21,Rajiv Gandhi International Stadium,Hyderabad,Delhi Capitals,bat,Delhi Capitals,Delhi Capitals,24,0,Jasprit Bumrah,Richard Illingworth,Sunil Kumar,tie,0
+83,2019-02-01,Punjab Cricket Association Stadium,Mohali,Mumbai Indians,field,Delhi Capitals,Mumbai Indians,0,3,Hardik Pandya,Chris Gaffaney,Richard Illingworth,normal,0
+84,2024-04-17,Arun Jaitley Stadium,Delhi,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,Royal Challengers Bangalore,61,0,Hardik Pandya,Richard Illingworth,Nitish Menon,normal,0
+85,2018-04-01,Wankhede Stadium,Mumbai,Punjab Kings,field,Royal Challengers Bangalore,Royal Challengers Bangalore,17,0,Suryakumar Yadav,Chris Gaffaney,Kumar Dharmasena,tie,0
+86,2018-07-19,Eden Gardens,Kolkata,Kolkata Knight Riders,field,Lucknow Super Giants,Kolkata Knight Riders,0,7,Jasprit Bumrah,Kumar Dharmasena,Kumar Dharmasena,normal,1
+87,2020-08-31,Punjab Cricket Association Stadium,Mohali,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,Sunrisers Hyderabad,32,0,Jasprit Bumrah,Richard Illingworth,Nitish Menon,normal,0
+88,2020-08-07,Narendra Modi Stadium,Ahmedabad,Gujarat Titans,field,Kolkata Knight Riders,Gujarat Titans,0,7,Rohit Sharma,Kumar Dharmasena,Sunil Kumar,normal,1
+89,2024-12-20,M. Chinnaswamy Stadium,Bangalore,Gujarat Titans,bat,Gujarat Titans,Gujarat Titans,92,0,Rishabh Pant,Chris Gaffaney,Chris Gaffaney,normal,0
+90,2022-01-11,Sawai Mansingh Stadium,Jaipur,Punjab Kings,bat,Punjab Kings,Punjab Kings,59,0,Rohit Sharma,Chris Gaffaney,Chris Gaffaney,normal,0
+91,2024-07-25,Arun Jaitley Stadium,Delhi,Lucknow Super Giants,field,Punjab Kings,Punjab Kings,55,0,David Warner,Richard Illingworth,Kumar Dharmasena,normal,0
+92,2018-07-17,Eden Gardens,Kolkata,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,Sunrisers Hyderabad,58,0,Jasprit Bumrah,Richard Illingworth,Kumar Dharmasena,normal,1
+93,2018-12-02,Rajiv Gandhi International Stadium,Hyderabad,Mumbai Indians,bat,Mumbai Indians,Gujarat Titans,0,4,Jasprit Bumrah,Chris Gaffaney,Sunil Kumar,normal,0
+94,2023-08-29,Wankhede Stadium,Mumbai,Rajasthan Royals,bat,Rajasthan Royals,Delhi Capitals,0,7,Andre Russell,Chris Gaffaney,Nitish Menon,normal,0
+95,2019-09-07,Eden Gardens,Kolkata,Sunrisers Hyderabad,field,Punjab Kings,Sunrisers Hyderabad,0,2,Sanju Samson,Sunil Kumar,Richard Illingworth,normal,0
+96,2018-07-25,Narendra Modi Stadium,Ahmedabad,Mumbai Indians,field,Lucknow Super Giants,Mumbai Indians,0,8,Jasprit Bumrah,Richard Illingworth,Chris Gaffaney,normal,0
+97,2023-11-15,Eden Gardens,Kolkata,Mumbai Indians,field,Sunrisers Hyderabad,Sunrisers Hyderabad,38,0,Virat Kohli,Richard Illingworth,Richard Illingworth,normal,0
+98,2019-07-06,Eden Gardens,Kolkata,Kolkata Knight Riders,field,Sunrisers Hyderabad,Sunrisers Hyderabad,71,0,Sanju Samson,Richard Illingworth,Chris Gaffaney,normal,0
+99,2023-03-17,BRSABV Ekana Stadium,Lucknow,Kolkata Knight Riders,field,Delhi Capitals,Kolkata Knight Riders,0,7,Rishabh Pant,Richard Illingworth,Chris Gaffaney,normal,0
+100,2018-04-20,BRSABV Ekana Stadium,Lucknow,Rajasthan Royals,bat,Rajasthan Royals,Delhi Capitals,0,8,Virat Kohli,Nitish Menon,Kumar Dharmasena,normal,0
+101,2025-05-25,BRSABV Ekana Stadium,Lucknow,Lucknow Super Giants,bat,Lucknow Super Giants,Royal Challengers Bangalore,0,7,Hardik Pandya,Kumar Dharmasena,Richard Illingworth,normal,0
+102,2019-03-12,Narendra Modi Stadium,Ahmedabad,Mumbai Indians,field,Punjab Kings,Mumbai Indians,0,6,Jasprit Bumrah,Sunil Kumar,Sunil Kumar,normal,0
+103,2022-07-14,BRSABV Ekana Stadium,Lucknow,Rajasthan Royals,field,Sunrisers Hyderabad,Rajasthan Royals,0,5,Rohit Sharma,Kumar Dharmasena,Chris Gaffaney,normal,0
+104,2023-12-01,Sawai Mansingh Stadium,Jaipur,Royal Challengers Bangalore,field,Kolkata Knight Riders,Royal Challengers Bangalore,0,6,Rohit Sharma,Richard Illingworth,Sunil Kumar,normal,0
+105,2022-06-23,Wankhede Stadium,Mumbai,Rajasthan Royals,field,Lucknow Super Giants,Lucknow Super Giants,50,0,Virat Kohli,Kumar Dharmasena,Sunil Kumar,normal,0
+106,2023-03-19,BRSABV Ekana Stadium,Lucknow,Kolkata Knight Riders,bat,Kolkata Knight Riders,Delhi Capitals,0,3,Sanju Samson,Nitish Menon,Nitish Menon,normal,0
+107,2021-03-27,Narendra Modi Stadium,Ahmedabad,Royal Challengers Bangalore,field,Gujarat Titans,Royal Challengers Bangalore,0,9,Rishabh Pant,Sunil Kumar,Richard Illingworth,normal,1
+108,2020-03-19,Rajiv Gandhi International Stadium,Hyderabad,Lucknow Super Giants,bat,Lucknow Super Giants,Lucknow Super Giants,97,0,Rohit Sharma,Richard Illingworth,Kumar Dharmasena,normal,1
+109,2023-06-23,BRSABV Ekana Stadium,Lucknow,Chennai Super Kings,field,Royal Challengers Bangalore,Chennai Super Kings,0,2,Jasprit Bumrah,Nitish Menon,Chris Gaffaney,normal,1
+110,2024-05-11,BRSABV Ekana Stadium,Lucknow,Mumbai Indians,field,Chennai Super Kings,Mumbai Indians,0,7,Sanju Samson,Chris Gaffaney,Nitish Menon,normal,0
+111,2023-04-05,Punjab Cricket Association Stadium,Mohali,Kolkata Knight Riders,bat,Kolkata Knight Riders,Kolkata Knight Riders,47,0,MS Dhoni,Richard Illingworth,Chris Gaffaney,normal,0
+112,2022-06-03,Punjab Cricket Association Stadium,Mohali,Lucknow Super Giants,bat,Lucknow Super Giants,Lucknow Super Giants,73,0,Sanju Samson,Richard Illingworth,Chris Gaffaney,normal,0
+113,2020-10-06,Narendra Modi Stadium,Ahmedabad,Lucknow Super Giants,bat,Lucknow Super Giants,Lucknow Super Giants,32,0,Jos Buttler,Kumar Dharmasena,Chris Gaffaney,normal,0
+114,2024-05-05,Arun Jaitley Stadium,Delhi,Punjab Kings,field,Kolkata Knight Riders,Punjab Kings,0,3,Suryakumar Yadav,Richard Illingworth,Nitish Menon,tie,0
+115,2024-11-21,Rajiv Gandhi International Stadium,Hyderabad,Rajasthan Royals,bat,Rajasthan Royals,Rajasthan Royals,95,0,Ravindra Jadeja,Sunil Kumar,Richard Illingworth,normal,0
+116,2018-12-12,BRSABV Ekana Stadium,Lucknow,Gujarat Titans,field,Kolkata Knight Riders,Kolkata Knight Riders,10,0,Rohit Sharma,Kumar Dharmasena,Nitish Menon,normal,0
+117,2019-04-30,Rajiv Gandhi International Stadium,Hyderabad,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,Sunrisers Hyderabad,65,0,Rishabh Pant,Nitish Menon,Richard Illingworth,normal,0
+118,2021-06-05,Eden Gardens,Kolkata,Sunrisers Hyderabad,field,Punjab Kings,Sunrisers Hyderabad,0,7,KL Rahul,Kumar Dharmasena,Sunil Kumar,normal,0
+119,2024-03-11,M. Chinnaswamy Stadium,Bangalore,Chennai Super Kings,field,Delhi Capitals,Delhi Capitals,19,0,Rishabh Pant,Richard Illingworth,Kumar Dharmasena,normal,0
+120,2023-09-03,Rajiv Gandhi International Stadium,Hyderabad,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,Royal Challengers Bangalore,56,0,Rishabh Pant,Sunil Kumar,Sunil Kumar,normal,0
+121,2021-04-29,Wankhede Stadium,Mumbai,Royal Challengers Bangalore,field,Chennai Super Kings,Royal Challengers Bangalore,0,5,KL Rahul,Richard Illingworth,Kumar Dharmasena,normal,1
+122,2025-03-30,M. Chinnaswamy Stadium,Bangalore,Sunrisers Hyderabad,field,Mumbai Indians,Sunrisers Hyderabad,0,7,Jos Buttler,Richard Illingworth,Richard Illingworth,normal,0
+123,2021-03-13,Sawai Mansingh Stadium,Jaipur,Mumbai Indians,field,Chennai Super Kings,Chennai Super Kings,63,0,Suryakumar Yadav,Kumar Dharmasena,Richard Illingworth,normal,0
+124,2021-11-03,BRSABV Ekana Stadium,Lucknow,Chennai Super Kings,bat,Chennai Super Kings,Chennai Super Kings,87,0,Suryakumar Yadav,Sunil Kumar,Sunil Kumar,normal,0
+125,2019-10-14,Punjab Cricket Association Stadium,Mohali,Mumbai Indians,field,Gujarat Titans,Gujarat Titans,64,0,Rashid Khan,Nitish Menon,Sunil Kumar,normal,0
+126,2019-04-27,Rajiv Gandhi International Stadium,Hyderabad,Sunrisers Hyderabad,field,Royal Challengers Bangalore,Sunrisers Hyderabad,0,8,Sanju Samson,Nitish Menon,Sunil Kumar,normal,0
+127,2020-06-25,Arun Jaitley Stadium,Delhi,Lucknow Super Giants,field,Chennai Super Kings,Chennai Super Kings,49,0,MS Dhoni,Chris Gaffaney,Nitish Menon,normal,0
+128,2024-12-23,Narendra Modi Stadium,Ahmedabad,Sunrisers Hyderabad,field,Delhi Capitals,Sunrisers Hyderabad,0,8,Rohit Sharma,Richard Illingworth,Nitish Menon,normal,0
+129,2022-09-08,Eden Gardens,Kolkata,Kolkata Knight Riders,field,Rajasthan Royals,Kolkata Knight Riders,0,2,KL Rahul,Sunil Kumar,Kumar Dharmasena,normal,0
+130,2022-03-29,Eden Gardens,Kolkata,Gujarat Titans,bat,Gujarat Titans,Delhi Capitals,0,3,Jos Buttler,Richard Illingworth,Chris Gaffaney,normal,0
+131,2019-07-11,Punjab Cricket Association Stadium,Mohali,Kolkata Knight Riders,field,Rajasthan Royals,Kolkata Knight Riders,0,7,Virat Kohli,Richard Illingworth,Nitish Menon,normal,0
+132,2022-08-20,Punjab Cricket Association Stadium,Mohali,Kolkata Knight Riders,field,Sunrisers Hyderabad,Kolkata Knight Riders,0,7,Hardik Pandya,Sunil Kumar,Kumar Dharmasena,normal,1
+133,2024-09-17,Punjab Cricket Association Stadium,Mohali,Punjab Kings,bat,Punjab Kings,Punjab Kings,79,0,Rohit Sharma,Nitish Menon,Sunil Kumar,normal,0
+134,2018-07-18,Eden Gardens,Kolkata,Rajasthan Royals,field,Mumbai Indians,Rajasthan Royals,0,1,KL Rahul,Chris Gaffaney,Kumar Dharmasena,normal,0
+135,2022-11-26,Eden Gardens,Kolkata,Sunrisers Hyderabad,field,Mumbai Indians,Sunrisers Hyderabad,0,5,Jos Buttler,Richard Illingworth,Sunil Kumar,normal,0
+136,2019-03-23,Arun Jaitley Stadium,Delhi,Lucknow Super Giants,bat,Lucknow Super Giants,Chennai Super Kings,0,7,Ravindra Jadeja,Chris Gaffaney,Nitish Menon,normal,0
+137,2025-01-02,Eden Gardens,Kolkata,Rajasthan Royals,bat,Rajasthan Royals,Sunrisers Hyderabad,0,8,Hardik Pandya,Richard Illingworth,Chris Gaffaney,normal,0
+138,2022-07-12,Eden Gardens,Kolkata,Delhi Capitals,field,Rajasthan Royals,Delhi Capitals,0,6,Jos Buttler,Chris Gaffaney,Richard Illingworth,normal,0
+139,2022-01-29,BRSABV Ekana Stadium,Lucknow,Chennai Super Kings,bat,Chennai Super Kings,Chennai Super Kings,32,0,Rashid Khan,Sunil Kumar,Sunil Kumar,normal,0
+140,2023-03-01,Punjab Cricket Association Stadium,Mohali,Mumbai Indians,bat,Mumbai Indians,Lucknow Super Giants,0,8,Suryakumar Yadav,Chris Gaffaney,Richard Illingworth,normal,0
+141,2019-02-11,Narendra Modi Stadium,Ahmedabad,Chennai Super Kings,bat,Chennai Super Kings,Lucknow Super Giants,0,5,Rohit Sharma,Sunil Kumar,Chris Gaffaney,normal,0
+142,2021-09-06,Rajiv Gandhi International Stadium,Hyderabad,Rajasthan Royals,bat,Rajasthan Royals,Rajasthan Royals,73,0,David Warner,Chris Gaffaney,Richard Illingworth,normal,0
+143,2020-05-20,Wankhede Stadium,Mumbai,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,Royal Challengers Bangalore,22,0,Andre Russell,Nitish Menon,Nitish Menon,normal,0
+144,2024-06-06,Sawai Mansingh Stadium,Jaipur,Punjab Kings,field,Royal Challengers Bangalore,Royal Challengers Bangalore,14,0,Virat Kohli,Chris Gaffaney,Richard Illingworth,normal,0
+145,2024-05-03,Rajiv Gandhi International Stadium,Hyderabad,Rajasthan Royals,bat,Rajasthan Royals,Gujarat Titans,0,5,Jos Buttler,Sunil Kumar,Sunil Kumar,normal,1
+146,2023-02-25,Rajiv Gandhi International Stadium,Hyderabad,Lucknow Super Giants,bat,Lucknow Super Giants,Mumbai Indians,0,8,David Warner,Richard Illingworth,Kumar Dharmasena,normal,0
+147,2018-09-05,BRSABV Ekana Stadium,Lucknow,Chennai Super Kings,bat,Chennai Super Kings,Chennai Super Kings,63,0,David Warner,Kumar Dharmasena,Nitish Menon,normal,0
+148,2023-11-28,Rajiv Gandhi International Stadium,Hyderabad,Punjab Kings,field,Gujarat Titans,Gujarat Titans,99,0,Rohit Sharma,Sunil Kumar,Chris Gaffaney,normal,0
+149,2020-04-15,Narendra Modi Stadium,Ahmedabad,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,Kolkata Knight Riders,0,2,Ravindra Jadeja,Kumar Dharmasena,Nitish Menon,normal,0
+150,2021-08-28,Narendra Modi Stadium,Ahmedabad,Delhi Capitals,bat,Delhi Capitals,Delhi Capitals,69,0,Suryakumar Yadav,Chris Gaffaney,Nitish Menon,normal,0
+151,2023-05-09,M. Chinnaswamy Stadium,Bangalore,Delhi Capitals,field,Mumbai Indians,Mumbai Indians,50,0,Rashid Khan,Chris Gaffaney,Chris Gaffaney,normal,0
+152,2024-06-28,Narendra Modi Stadium,Ahmedabad,Lucknow Super Giants,bat,Lucknow Super Giants,Delhi Capitals,0,9,Rishabh Pant,Nitish Menon,Nitish Menon,normal,0
+153,2025-04-23,Sawai Mansingh Stadium,Jaipur,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,Lucknow Super Giants,0,9,Jos Buttler,Kumar Dharmasena,Nitish Menon,normal,0
+154,2021-02-05,Wankhede Stadium,Mumbai,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,Mumbai Indians,0,3,Rashid Khan,Chris Gaffaney,Nitish Menon,normal,0
+155,2025-02-24,Arun Jaitley Stadium,Delhi,Royal Challengers Bangalore,field,Gujarat Titans,Gujarat Titans,69,0,Suryakumar Yadav,Richard Illingworth,Sunil Kumar,normal,0
+156,2022-04-29,Wankhede Stadium,Mumbai,Gujarat Titans,bat,Gujarat Titans,Chennai Super Kings,0,6,Sanju Samson,Kumar Dharmasena,Sunil Kumar,normal,0
+157,2025-03-17,Wankhede Stadium,Mumbai,Lucknow Super Giants,field,Punjab Kings,Lucknow Super Giants,0,1,Andre Russell,Chris Gaffaney,Sunil Kumar,normal,0
+158,2020-04-25,Rajiv Gandhi International Stadium,Hyderabad,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,Sunrisers Hyderabad,7,0,KL Rahul,Sunil Kumar,Kumar Dharmasena,normal,1
+159,2019-08-04,Sawai Mansingh Stadium,Jaipur,Gujarat Titans,field,Sunrisers Hyderabad,Gujarat Titans,0,3,Andre Russell,Kumar Dharmasena,Sunil Kumar,normal,0
+160,2020-03-29,BRSABV Ekana Stadium,Lucknow,Chennai Super Kings,bat,Chennai Super Kings,Chennai Super Kings,33,0,Suryakumar Yadav,Richard Illingworth,Kumar Dharmasena,normal,0
+161,2024-06-26,Narendra Modi Stadium,Ahmedabad,Mumbai Indians,bat,Mumbai Indians,Mumbai Indians,23,0,Hardik Pandya,Sunil Kumar,Sunil Kumar,normal,0
+162,2024-07-06,Narendra Modi Stadium,Ahmedabad,Punjab Kings,bat,Punjab Kings,Kolkata Knight Riders,0,1,Andre Russell,Richard Illingworth,Sunil Kumar,normal,0
+163,2020-03-23,Punjab Cricket Association Stadium,Mohali,Kolkata Knight Riders,field,Gujarat Titans,Kolkata Knight Riders,0,3,Hardik Pandya,Richard Illingworth,Chris Gaffaney,normal,0
+164,2024-03-30,Punjab Cricket Association Stadium,Mohali,Kolkata Knight Riders,bat,Kolkata Knight Riders,Kolkata Knight Riders,84,0,Andre Russell,Richard Illingworth,Sunil Kumar,normal,0
+165,2018-11-03,Narendra Modi Stadium,Ahmedabad,Delhi Capitals,bat,Delhi Capitals,Lucknow Super Giants,0,8,Ravindra Jadeja,Chris Gaffaney,Chris Gaffaney,normal,0
+166,2023-04-24,Punjab Cricket Association Stadium,Mohali,Lucknow Super Giants,bat,Lucknow Super Giants,Lucknow Super Giants,27,0,Rashid Khan,Richard Illingworth,Kumar Dharmasena,normal,0
+167,2018-11-22,Arun Jaitley Stadium,Delhi,Lucknow Super Giants,field,Rajasthan Royals,Lucknow Super Giants,0,7,KL Rahul,Kumar Dharmasena,Kumar Dharmasena,normal,0
+168,2023-08-29,Sawai Mansingh Stadium,Jaipur,Gujarat Titans,bat,Gujarat Titans,Kolkata Knight Riders,0,4,Ravindra Jadeja,Chris Gaffaney,Richard Illingworth,tie,0
+169,2018-10-31,Punjab Cricket Association Stadium,Mohali,Chennai Super Kings,field,Lucknow Super Giants,Chennai Super Kings,0,6,Andre Russell,Chris Gaffaney,Richard Illingworth,normal,0
+170,2020-06-07,Arun Jaitley Stadium,Delhi,Sunrisers Hyderabad,field,Lucknow Super Giants,Lucknow Super Giants,12,0,Rashid Khan,Sunil Kumar,Richard Illingworth,normal,0
+171,2022-01-23,Arun Jaitley Stadium,Delhi,Lucknow Super Giants,field,Sunrisers Hyderabad,Lucknow Super Giants,0,6,David Warner,Nitish Menon,Sunil Kumar,normal,0
+172,2021-02-14,Rajiv Gandhi International Stadium,Hyderabad,Kolkata Knight Riders,bat,Kolkata Knight Riders,Kolkata Knight Riders,90,0,KL Rahul,Richard Illingworth,Kumar Dharmasena,normal,0
+173,2019-05-14,Eden Gardens,Kolkata,Delhi Capitals,bat,Delhi Capitals,Rajasthan Royals,0,2,Jos Buttler,Chris Gaffaney,Sunil Kumar,normal,0
+174,2022-09-20,Eden Gardens,Kolkata,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,Royal Challengers Bangalore,82,0,Andre Russell,Richard Illingworth,Kumar Dharmasena,normal,0
+175,2025-02-21,Wankhede Stadium,Mumbai,Mumbai Indians,bat,Mumbai Indians,Mumbai Indians,11,0,Shubman Gill,Sunil Kumar,Nitish Menon,normal,1
+176,2018-06-18,Wankhede Stadium,Mumbai,Gujarat Titans,bat,Gujarat Titans,Gujarat Titans,28,0,Shubman Gill,Chris Gaffaney,Kumar Dharmasena,normal,0
+177,2021-10-15,M. Chinnaswamy Stadium,Bangalore,Punjab Kings,bat,Punjab Kings,Royal Challengers Bangalore,0,8,KL Rahul,Sunil Kumar,Chris Gaffaney,normal,0
+178,2019-08-11,M. Chinnaswamy Stadium,Bangalore,Gujarat Titans,bat,Gujarat Titans,Mumbai Indians,0,6,Ravindra Jadeja,Richard Illingworth,Richard Illingworth,normal,1
+179,2022-04-13,Arun Jaitley Stadium,Delhi,Gujarat Titans,bat,Gujarat Titans,Punjab Kings,0,6,KL Rahul,Richard Illingworth,Kumar Dharmasena,normal,0
+180,2018-05-02,Sawai Mansingh Stadium,Jaipur,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,Punjab Kings,0,5,Jasprit Bumrah,Sunil Kumar,Kumar Dharmasena,normal,0
+181,2022-09-13,Wankhede Stadium,Mumbai,Kolkata Knight Riders,field,Lucknow Super Giants,Lucknow Super Giants,29,0,Hardik Pandya,Kumar Dharmasena,Kumar Dharmasena,tie,0
+182,2023-03-09,Narendra Modi Stadium,Ahmedabad,Mumbai Indians,field,Kolkata Knight Riders,Mumbai Indians,0,5,Virat Kohli,Nitish Menon,Nitish Menon,normal,0
+183,2019-12-22,Arun Jaitley Stadium,Delhi,Royal Challengers Bangalore,field,Gujarat Titans,Royal Challengers Bangalore,0,9,Jasprit Bumrah,Kumar Dharmasena,Richard Illingworth,normal,0
+184,2018-10-26,Eden Gardens,Kolkata,Kolkata Knight Riders,field,Sunrisers Hyderabad,Kolkata Knight Riders,0,4,Rishabh Pant,Chris Gaffaney,Kumar Dharmasena,normal,1
+185,2022-08-02,Punjab Cricket Association Stadium,Mohali,Lucknow Super Giants,bat,Lucknow Super Giants,Lucknow Super Giants,42,0,Hardik Pandya,Chris Gaffaney,Richard Illingworth,normal,0
+186,2022-11-08,Narendra Modi Stadium,Ahmedabad,Punjab Kings,bat,Punjab Kings,Punjab Kings,55,0,David Warner,Sunil Kumar,Sunil Kumar,normal,0
+187,2021-12-17,Rajiv Gandhi International Stadium,Hyderabad,Kolkata Knight Riders,field,Delhi Capitals,Delhi Capitals,85,0,MS Dhoni,Kumar Dharmasena,Chris Gaffaney,normal,0
+188,2022-08-19,M. Chinnaswamy Stadium,Bangalore,Chennai Super Kings,bat,Chennai Super Kings,Chennai Super Kings,77,0,Jasprit Bumrah,Nitish Menon,Richard Illingworth,normal,0
+189,2021-03-08,Punjab Cricket Association Stadium,Mohali,Kolkata Knight Riders,bat,Kolkata Knight Riders,Kolkata Knight Riders,11,0,Sanju Samson,Nitish Menon,Nitish Menon,normal,0
+190,2024-02-17,Rajiv Gandhi International Stadium,Hyderabad,Gujarat Titans,bat,Gujarat Titans,Gujarat Titans,67,0,Rohit Sharma,Nitish Menon,Kumar Dharmasena,normal,0
+191,2022-08-09,Rajiv Gandhi International Stadium,Hyderabad,Royal Challengers Bangalore,field,Rajasthan Royals,Royal Challengers Bangalore,0,5,Hardik Pandya,Sunil Kumar,Kumar Dharmasena,normal,0
+192,2022-05-01,Sawai Mansingh Stadium,Jaipur,Kolkata Knight Riders,bat,Kolkata Knight Riders,Lucknow Super Giants,0,1,Jos Buttler,Nitish Menon,Sunil Kumar,tie,0
+193,2021-12-06,Sawai Mansingh Stadium,Jaipur,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,Royal Challengers Bangalore,54,0,Hardik Pandya,Nitish Menon,Richard Illingworth,normal,1
+194,2022-12-19,Arun Jaitley Stadium,Delhi,Sunrisers Hyderabad,field,Punjab Kings,Punjab Kings,91,0,Sanju Samson,Kumar Dharmasena,Chris Gaffaney,normal,0
+195,2021-02-01,M. Chinnaswamy Stadium,Bangalore,Punjab Kings,bat,Punjab Kings,Lucknow Super Giants,0,4,Rashid Khan,Nitish Menon,Nitish Menon,normal,0
+196,2022-11-16,Narendra Modi Stadium,Ahmedabad,Lucknow Super Giants,field,Sunrisers Hyderabad,Sunrisers Hyderabad,66,0,Rohit Sharma,Nitish Menon,Kumar Dharmasena,normal,0
+197,2018-03-27,Arun Jaitley Stadium,Delhi,Kolkata Knight Riders,field,Punjab Kings,Punjab Kings,29,0,David Warner,Nitish Menon,Nitish Menon,normal,0
+198,2023-11-12,Rajiv Gandhi International Stadium,Hyderabad,Kolkata Knight Riders,bat,Kolkata Knight Riders,Kolkata Knight Riders,80,0,Shubman Gill,Sunil Kumar,Richard Illingworth,normal,0
+199,2019-09-02,Punjab Cricket Association Stadium,Mohali,Mumbai Indians,field,Gujarat Titans,Mumbai Indians,0,3,Suryakumar Yadav,Richard Illingworth,Kumar Dharmasena,normal,0
+200,2021-06-20,Punjab Cricket Association Stadium,Mohali,Chennai Super Kings,field,Lucknow Super Giants,Chennai Super Kings,0,6,Jos Buttler,Nitish Menon,Kumar Dharmasena,normal,0
+201,2021-01-20,Narendra Modi Stadium,Ahmedabad,Sunrisers Hyderabad,field,Gujarat Titans,Sunrisers Hyderabad,0,8,Rohit Sharma,Kumar Dharmasena,Kumar Dharmasena,normal,0
+202,2021-12-06,Sawai Mansingh Stadium,Jaipur,Royal Challengers Bangalore,field,Chennai Super Kings,Royal Challengers Bangalore,0,7,Rohit Sharma,Richard Illingworth,Richard Illingworth,normal,1
+203,2021-04-24,Eden Gardens,Kolkata,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,Kolkata Knight Riders,0,3,Jasprit Bumrah,Nitish Menon,Sunil Kumar,normal,0
+204,2022-01-11,BRSABV Ekana Stadium,Lucknow,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,Royal Challengers Bangalore,79,0,KL Rahul,Sunil Kumar,Richard Illingworth,normal,0
+205,2020-07-25,M. Chinnaswamy Stadium,Bangalore,Mumbai Indians,field,Punjab Kings,Punjab Kings,24,0,Shubman Gill,Sunil Kumar,Nitish Menon,normal,0
+206,2021-02-19,Eden Gardens,Kolkata,Mumbai Indians,bat,Mumbai Indians,Mumbai Indians,79,0,Jos Buttler,Nitish Menon,Sunil Kumar,normal,0
+207,2018-11-01,BRSABV Ekana Stadium,Lucknow,Delhi Capitals,bat,Delhi Capitals,Kolkata Knight Riders,0,3,Andre Russell,Chris Gaffaney,Sunil Kumar,normal,0
+208,2022-06-06,Sawai Mansingh Stadium,Jaipur,Gujarat Titans,bat,Gujarat Titans,Delhi Capitals,0,5,Andre Russell,Nitish Menon,Richard Illingworth,normal,0
+209,2019-05-21,Punjab Cricket Association Stadium,Mohali,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,Sunrisers Hyderabad,71,0,Shubman Gill,Kumar Dharmasena,Sunil Kumar,normal,0
+210,2022-07-12,Sawai Mansingh Stadium,Jaipur,Rajasthan Royals,bat,Rajasthan Royals,Rajasthan Royals,18,0,Rishabh Pant,Sunil Kumar,Chris Gaffaney,normal,0
+211,2019-08-07,Punjab Cricket Association Stadium,Mohali,Delhi Capitals,bat,Delhi Capitals,Chennai Super Kings,0,9,Suryakumar Yadav,Sunil Kumar,Sunil Kumar,normal,0
+212,2019-08-06,Narendra Modi Stadium,Ahmedabad,Punjab Kings,field,Delhi Capitals,Punjab Kings,0,1,Rohit Sharma,Chris Gaffaney,Richard Illingworth,normal,0
+213,2021-07-20,Wankhede Stadium,Mumbai,Lucknow Super Giants,bat,Lucknow Super Giants,Lucknow Super Giants,40,0,Sanju Samson,Sunil Kumar,Chris Gaffaney,normal,0
+214,2018-07-05,Rajiv Gandhi International Stadium,Hyderabad,Rajasthan Royals,bat,Rajasthan Royals,Rajasthan Royals,14,0,Andre Russell,Chris Gaffaney,Chris Gaffaney,normal,0
+215,2024-12-20,Sawai Mansingh Stadium,Jaipur,Kolkata Knight Riders,bat,Kolkata Knight Riders,Kolkata Knight Riders,69,0,Virat Kohli,Nitish Menon,Nitish Menon,normal,0
+216,2019-09-14,Eden Gardens,Kolkata,Mumbai Indians,bat,Mumbai Indians,Mumbai Indians,89,0,Andre Russell,Sunil Kumar,Chris Gaffaney,normal,1
+217,2022-10-16,Rajiv Gandhi International Stadium,Hyderabad,Lucknow Super Giants,bat,Lucknow Super Giants,Lucknow Super Giants,82,0,Sanju Samson,Sunil Kumar,Chris Gaffaney,normal,0
+218,2021-03-02,Arun Jaitley Stadium,Delhi,Mumbai Indians,field,Kolkata Knight Riders,Kolkata Knight Riders,19,0,MS Dhoni,Nitish Menon,Sunil Kumar,normal,0
+219,2021-09-19,Punjab Cricket Association Stadium,Mohali,Kolkata Knight Riders,bat,Kolkata Knight Riders,Kolkata Knight Riders,80,0,David Warner,Sunil Kumar,Kumar Dharmasena,normal,1
+220,2024-12-17,Sawai Mansingh Stadium,Jaipur,Rajasthan Royals,bat,Rajasthan Royals,Rajasthan Royals,74,0,Virat Kohli,Kumar Dharmasena,Richard Illingworth,normal,0
+221,2019-05-25,Arun Jaitley Stadium,Delhi,Kolkata Knight Riders,field,Royal Challengers Bangalore,Kolkata Knight Riders,0,6,Jos Buttler,Sunil Kumar,Richard Illingworth,normal,0
+222,2023-11-02,BRSABV Ekana Stadium,Lucknow,Mumbai Indians,bat,Mumbai Indians,Mumbai Indians,5,0,Rashid Khan,Nitish Menon,Richard Illingworth,normal,0
+223,2018-11-27,Arun Jaitley Stadium,Delhi,Lucknow Super Giants,field,Royal Challengers Bangalore,Lucknow Super Giants,0,1,Ravindra Jadeja,Nitish Menon,Richard Illingworth,normal,0
+224,2023-02-04,BRSABV Ekana Stadium,Lucknow,Royal Challengers Bangalore,field,Lucknow Super Giants,Lucknow Super Giants,52,0,Jasprit Bumrah,Richard Illingworth,Kumar Dharmasena,normal,0
+225,2025-01-29,Narendra Modi Stadium,Ahmedabad,Kolkata Knight Riders,bat,Kolkata Knight Riders,Gujarat Titans,0,8,Shubman Gill,Nitish Menon,Kumar Dharmasena,normal,0
+226,2024-09-11,BRSABV Ekana Stadium,Lucknow,Punjab Kings,bat,Punjab Kings,Kolkata Knight Riders,0,8,David Warner,Nitish Menon,Nitish Menon,normal,0
+227,2022-10-18,Punjab Cricket Association Stadium,Mohali,Rajasthan Royals,bat,Rajasthan Royals,Lucknow Super Giants,0,9,MS Dhoni,Chris Gaffaney,Sunil Kumar,normal,0
+228,2023-07-19,BRSABV Ekana Stadium,Lucknow,Punjab Kings,field,Sunrisers Hyderabad,Punjab Kings,0,3,Virat Kohli,Sunil Kumar,Kumar Dharmasena,normal,0
+229,2024-07-16,M. Chinnaswamy Stadium,Bangalore,Royal Challengers Bangalore,field,Rajasthan Royals,Rajasthan Royals,25,0,Suryakumar Yadav,Richard Illingworth,Kumar Dharmasena,normal,0
+230,2019-08-17,BRSABV Ekana Stadium,Lucknow,Punjab Kings,field,Sunrisers Hyderabad,Punjab Kings,0,4,Jos Buttler,Nitish Menon,Kumar Dharmasena,tie,1
+231,2019-02-28,M. Chinnaswamy Stadium,Bangalore,Gujarat Titans,field,Kolkata Knight Riders,Gujarat Titans,0,5,Jasprit Bumrah,Nitish Menon,Nitish Menon,normal,0
+232,2018-03-31,Wankhede Stadium,Mumbai,Kolkata Knight Riders,bat,Kolkata Knight Riders,Kolkata Knight Riders,45,0,Rishabh Pant,Nitish Menon,Richard Illingworth,normal,0
+233,2019-07-28,Rajiv Gandhi International Stadium,Hyderabad,Kolkata Knight Riders,bat,Kolkata Knight Riders,Royal Challengers Bangalore,0,3,Rashid Khan,Chris Gaffaney,Richard Illingworth,normal,0
+234,2024-07-27,Rajiv Gandhi International Stadium,Hyderabad,Lucknow Super Giants,bat,Lucknow Super Giants,Mumbai Indians,0,1,Andre Russell,Richard Illingworth,Richard Illingworth,normal,0
+235,2022-07-05,BRSABV Ekana Stadium,Lucknow,Lucknow Super Giants,field,Kolkata Knight Riders,Lucknow Super Giants,0,4,Rishabh Pant,Nitish Menon,Richard Illingworth,tie,0
+236,2021-01-22,Sawai Mansingh Stadium,Jaipur,Lucknow Super Giants,field,Gujarat Titans,Lucknow Super Giants,0,8,Suryakumar Yadav,Chris Gaffaney,Chris Gaffaney,normal,0
+237,2021-02-17,BRSABV Ekana Stadium,Lucknow,Punjab Kings,field,Rajasthan Royals,Rajasthan Royals,80,0,David Warner,Kumar Dharmasena,Nitish Menon,normal,1
+238,2023-05-13,Wankhede Stadium,Mumbai,Mumbai Indians,field,Gujarat Titans,Gujarat Titans,17,0,David Warner,Chris Gaffaney,Nitish Menon,normal,0
+239,2025-03-03,Arun Jaitley Stadium,Delhi,Gujarat Titans,field,Kolkata Knight Riders,Gujarat Titans,0,8,Andre Russell,Nitish Menon,Kumar Dharmasena,normal,0
+240,2021-04-12,Sawai Mansingh Stadium,Jaipur,Gujarat Titans,field,Rajasthan Royals,Rajasthan Royals,49,0,MS Dhoni,Nitish Menon,Nitish Menon,normal,0
+241,2021-08-20,Sawai Mansingh Stadium,Jaipur,Gujarat Titans,field,Sunrisers Hyderabad,Sunrisers Hyderabad,58,0,Sanju Samson,Chris Gaffaney,Richard Illingworth,normal,0
+242,2019-06-01,M. Chinnaswamy Stadium,Bangalore,Royal Challengers Bangalore,field,Chennai Super Kings,Royal Challengers Bangalore,0,9,Virat Kohli,Chris Gaffaney,Kumar Dharmasena,normal,1
+243,2019-05-14,Eden Gardens,Kolkata,Kolkata Knight Riders,bat,Kolkata Knight Riders,Punjab Kings,0,8,Rishabh Pant,Kumar Dharmasena,Kumar Dharmasena,normal,1
+244,2018-09-11,Punjab Cricket Association Stadium,Mohali,Gujarat Titans,field,Kolkata Knight Riders,Kolkata Knight Riders,53,0,KL Rahul,Richard Illingworth,Richard Illingworth,normal,0
+245,2023-09-20,Wankhede Stadium,Mumbai,Gujarat Titans,field,Kolkata Knight Riders,Gujarat Titans,0,5,Shubman Gill,Richard Illingworth,Chris Gaffaney,normal,0
+246,2025-01-26,Arun Jaitley Stadium,Delhi,Gujarat Titans,field,Royal Challengers Bangalore,Gujarat Titans,0,8,Jos Buttler,Nitish Menon,Richard Illingworth,normal,0
+247,2024-09-30,Punjab Cricket Association Stadium,Mohali,Gujarat Titans,bat,Gujarat Titans,Royal Challengers Bangalore,0,4,Virat Kohli,Nitish Menon,Richard Illingworth,normal,0
+248,2018-10-13,Eden Gardens,Kolkata,Delhi Capitals,bat,Delhi Capitals,Delhi Capitals,83,0,Shubman Gill,Sunil Kumar,Sunil Kumar,normal,0
+249,2021-05-11,Wankhede Stadium,Mumbai,Mumbai Indians,field,Delhi Capitals,Mumbai Indians,0,8,Andre Russell,Richard Illingworth,Sunil Kumar,normal,0
+250,2024-08-12,Arun Jaitley Stadium,Delhi,Chennai Super Kings,field,Lucknow Super Giants,Lucknow Super Giants,49,0,Jasprit Bumrah,Chris Gaffaney,Sunil Kumar,normal,0
+251,2019-07-27,Punjab Cricket Association Stadium,Mohali,Gujarat Titans,bat,Gujarat Titans,Chennai Super Kings,0,9,Rashid Khan,Richard Illingworth,Richard Illingworth,normal,0
+252,2020-06-13,Rajiv Gandhi International Stadium,Hyderabad,Chennai Super Kings,field,Rajasthan Royals,Chennai Super Kings,0,4,Jasprit Bumrah,Richard Illingworth,Richard Illingworth,normal,1
+253,2021-10-07,Sawai Mansingh Stadium,Jaipur,Lucknow Super Giants,field,Royal Challengers Bangalore,Royal Challengers Bangalore,60,0,Virat Kohli,Sunil Kumar,Sunil Kumar,normal,0
+254,2023-10-12,Sawai Mansingh Stadium,Jaipur,Punjab Kings,field,Sunrisers Hyderabad,Sunrisers Hyderabad,72,0,Rashid Khan,Richard Illingworth,Nitish Menon,normal,0
+255,2020-02-04,Eden Gardens,Kolkata,Chennai Super Kings,field,Royal Challengers Bangalore,Chennai Super Kings,0,8,Andre Russell,Nitish Menon,Chris Gaffaney,normal,0
+256,2021-02-15,BRSABV Ekana Stadium,Lucknow,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,Mumbai Indians,0,2,Suryakumar Yadav,Chris Gaffaney,Chris Gaffaney,normal,0
+257,2023-01-07,Arun Jaitley Stadium,Delhi,Royal Challengers Bangalore,field,Kolkata Knight Riders,Royal Challengers Bangalore,0,3,Sanju Samson,Kumar Dharmasena,Kumar Dharmasena,normal,0
+258,2023-04-10,Narendra Modi Stadium,Ahmedabad,Rajasthan Royals,field,Royal Challengers Bangalore,Rajasthan Royals,0,2,Jasprit Bumrah,Sunil Kumar,Nitish Menon,normal,0
+259,2024-11-27,Punjab Cricket Association Stadium,Mohali,Chennai Super Kings,field,Gujarat Titans,Gujarat Titans,32,0,Sanju Samson,Kumar Dharmasena,Kumar Dharmasena,normal,0
+260,2020-09-22,Arun Jaitley Stadium,Delhi,Royal Challengers Bangalore,field,Mumbai Indians,Mumbai Indians,56,0,KL Rahul,Sunil Kumar,Nitish Menon,normal,1
+261,2023-02-28,BRSABV Ekana Stadium,Lucknow,Sunrisers Hyderabad,field,Punjab Kings,Punjab Kings,30,0,Sanju Samson,Richard Illingworth,Kumar Dharmasena,normal,1
+262,2021-02-08,Wankhede Stadium,Mumbai,Gujarat Titans,field,Rajasthan Royals,Gujarat Titans,0,8,Rashid Khan,Sunil Kumar,Chris Gaffaney,normal,0
+263,2018-10-27,Eden Gardens,Kolkata,Rajasthan Royals,field,Lucknow Super Giants,Lucknow Super Giants,48,0,Shubman Gill,Richard Illingworth,Nitish Menon,normal,0
+264,2019-03-19,Sawai Mansingh Stadium,Jaipur,Delhi Capitals,field,Rajasthan Royals,Rajasthan Royals,58,0,Rohit Sharma,Kumar Dharmasena,Nitish Menon,normal,1
+265,2020-08-30,Arun Jaitley Stadium,Delhi,Gujarat Titans,bat,Gujarat Titans,Lucknow Super Giants,0,9,Jasprit Bumrah,Nitish Menon,Nitish Menon,normal,0
+266,2019-11-23,Eden Gardens,Kolkata,Chennai Super Kings,field,Kolkata Knight Riders,Chennai Super Kings,0,8,Sanju Samson,Kumar Dharmasena,Sunil Kumar,normal,1
+267,2021-03-26,Eden Gardens,Kolkata,Punjab Kings,bat,Punjab Kings,Gujarat Titans,0,1,Virat Kohli,Chris Gaffaney,Chris Gaffaney,normal,1
+268,2021-08-14,Wankhede Stadium,Mumbai,Kolkata Knight Riders,field,Royal Challengers Bangalore,Kolkata Knight Riders,0,1,Suryakumar Yadav,Sunil Kumar,Sunil Kumar,normal,0
+269,2025-01-28,Punjab Cricket Association Stadium,Mohali,Punjab Kings,field,Kolkata Knight Riders,Kolkata Knight Riders,77,0,Jasprit Bumrah,Kumar Dharmasena,Chris Gaffaney,normal,1
+270,2025-01-20,Arun Jaitley Stadium,Delhi,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,Sunrisers Hyderabad,23,0,MS Dhoni,Richard Illingworth,Richard Illingworth,tie,0
+271,2022-12-20,Rajiv Gandhi International Stadium,Hyderabad,Lucknow Super Giants,bat,Lucknow Super Giants,Delhi Capitals,0,5,David Warner,Kumar Dharmasena,Richard Illingworth,normal,0
+272,2024-11-13,Eden Gardens,Kolkata,Gujarat Titans,bat,Gujarat Titans,Gujarat Titans,8,0,Shubman Gill,Nitish Menon,Chris Gaffaney,normal,0
+273,2024-04-18,Narendra Modi Stadium,Ahmedabad,Gujarat Titans,field,Mumbai Indians,Mumbai Indians,69,0,Ravindra Jadeja,Nitish Menon,Nitish Menon,normal,0
+274,2022-04-21,Eden Gardens,Kolkata,Chennai Super Kings,field,Royal Challengers Bangalore,Royal Challengers Bangalore,52,0,Sanju Samson,Sunil Kumar,Kumar Dharmasena,normal,0
+275,2018-11-14,Wankhede Stadium,Mumbai,Mumbai Indians,field,Sunrisers Hyderabad,Mumbai Indians,0,2,Jasprit Bumrah,Chris Gaffaney,Nitish Menon,normal,1
+276,2023-10-26,Sawai Mansingh Stadium,Jaipur,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,Kolkata Knight Riders,0,6,David Warner,Nitish Menon,Chris Gaffaney,normal,0
+277,2020-11-18,Arun Jaitley Stadium,Delhi,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,Royal Challengers Bangalore,84,0,Ravindra Jadeja,Richard Illingworth,Chris Gaffaney,normal,0
+278,2025-03-09,Narendra Modi Stadium,Ahmedabad,Mumbai Indians,field,Gujarat Titans,Mumbai Indians,0,2,MS Dhoni,Richard Illingworth,Richard Illingworth,normal,1
+279,2023-11-04,Narendra Modi Stadium,Ahmedabad,Sunrisers Hyderabad,field,Mumbai Indians,Sunrisers Hyderabad,0,2,Suryakumar Yadav,Kumar Dharmasena,Richard Illingworth,normal,0
+280,2019-02-17,Rajiv Gandhi International Stadium,Hyderabad,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,Sunrisers Hyderabad,80,0,Andre Russell,Sunil Kumar,Sunil Kumar,normal,0
+281,2019-12-07,BRSABV Ekana Stadium,Lucknow,Gujarat Titans,bat,Gujarat Titans,Gujarat Titans,29,0,Virat Kohli,Nitish Menon,Kumar Dharmasena,normal,1
+282,2024-09-05,Arun Jaitley Stadium,Delhi,Punjab Kings,field,Gujarat Titans,Punjab Kings,0,3,Rohit Sharma,Chris Gaffaney,Chris Gaffaney,normal,0
+283,2020-05-30,BRSABV Ekana Stadium,Lucknow,Delhi Capitals,field,Lucknow Super Giants,Delhi Capitals,0,6,MS Dhoni,Richard Illingworth,Sunil Kumar,normal,1
+284,2019-03-07,Punjab Cricket Association Stadium,Mohali,Gujarat Titans,field,Royal Challengers Bangalore,Gujarat Titans,0,9,Ravindra Jadeja,Chris Gaffaney,Sunil Kumar,normal,0
+285,2020-03-08,M. Chinnaswamy Stadium,Bangalore,Chennai Super Kings,bat,Chennai Super Kings,Lucknow Super Giants,0,6,Rishabh Pant,Richard Illingworth,Richard Illingworth,normal,1
+286,2021-06-07,Wankhede Stadium,Mumbai,Sunrisers Hyderabad,field,Delhi Capitals,Sunrisers Hyderabad,0,1,Shubman Gill,Nitish Menon,Sunil Kumar,normal,0
+287,2023-02-05,Narendra Modi Stadium,Ahmedabad,Chennai Super Kings,bat,Chennai Super Kings,Chennai Super Kings,82,0,Andre Russell,Chris Gaffaney,Nitish Menon,normal,0
+288,2023-12-21,Sawai Mansingh Stadium,Jaipur,Rajasthan Royals,field,Kolkata Knight Riders,Kolkata Knight Riders,88,0,Rashid Khan,Sunil Kumar,Nitish Menon,normal,0
+289,2023-06-30,Sawai Mansingh Stadium,Jaipur,Punjab Kings,field,Kolkata Knight Riders,Punjab Kings,0,7,MS Dhoni,Nitish Menon,Chris Gaffaney,normal,0
+290,2021-03-15,Rajiv Gandhi International Stadium,Hyderabad,Lucknow Super Giants,field,Royal Challengers Bangalore,Royal Challengers Bangalore,51,0,Sanju Samson,Richard Illingworth,Richard Illingworth,normal,0
+291,2022-06-10,Narendra Modi Stadium,Ahmedabad,Lucknow Super Giants,field,Mumbai Indians,Lucknow Super Giants,0,3,Jasprit Bumrah,Richard Illingworth,Kumar Dharmasena,normal,0
+292,2024-01-26,Punjab Cricket Association Stadium,Mohali,Delhi Capitals,field,Chennai Super Kings,Chennai Super Kings,47,0,Sanju Samson,Nitish Menon,Kumar Dharmasena,normal,0
+293,2025-05-03,Narendra Modi Stadium,Ahmedabad,Lucknow Super Giants,bat,Lucknow Super Giants,Lucknow Super Giants,9,0,Rishabh Pant,Nitish Menon,Kumar Dharmasena,normal,0
+294,2021-07-04,Narendra Modi Stadium,Ahmedabad,Sunrisers Hyderabad,field,Rajasthan Royals,Rajasthan Royals,11,0,David Warner,Kumar Dharmasena,Kumar Dharmasena,normal,0
+295,2018-03-28,Punjab Cricket Association Stadium,Mohali,Royal Challengers Bangalore,field,Mumbai Indians,Royal Challengers Bangalore,0,2,Shubman Gill,Kumar Dharmasena,Kumar Dharmasena,normal,1
+296,2023-10-17,BRSABV Ekana Stadium,Lucknow,Delhi Capitals,bat,Delhi Capitals,Chennai Super Kings,0,4,Andre Russell,Richard Illingworth,Chris Gaffaney,normal,0
+297,2019-04-21,M. Chinnaswamy Stadium,Bangalore,Mumbai Indians,field,Sunrisers Hyderabad,Mumbai Indians,0,8,Rohit Sharma,Sunil Kumar,Sunil Kumar,normal,0
+298,2022-06-24,Wankhede Stadium,Mumbai,Mumbai Indians,field,Punjab Kings,Mumbai Indians,0,5,Sanju Samson,Nitish Menon,Nitish Menon,normal,0
+299,2024-06-12,Rajiv Gandhi International Stadium,Hyderabad,Gujarat Titans,bat,Gujarat Titans,Chennai Super Kings,0,6,Suryakumar Yadav,Nitish Menon,Chris Gaffaney,normal,0
+300,2021-12-05,Punjab Cricket Association Stadium,Mohali,Chennai Super Kings,bat,Chennai Super Kings,Chennai Super Kings,28,0,Jos Buttler,Richard Illingworth,Richard Illingworth,normal,0
+301,2020-07-02,Rajiv Gandhi International Stadium,Hyderabad,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,Sunrisers Hyderabad,93,0,Rohit Sharma,Richard Illingworth,Sunil Kumar,tie,0
+302,2024-11-18,M. Chinnaswamy Stadium,Bangalore,Kolkata Knight Riders,bat,Kolkata Knight Riders,Kolkata Knight Riders,77,0,David Warner,Richard Illingworth,Sunil Kumar,normal,0
+303,2022-09-30,Arun Jaitley Stadium,Delhi,Lucknow Super Giants,field,Sunrisers Hyderabad,Sunrisers Hyderabad,82,0,Andre Russell,Kumar Dharmasena,Nitish Menon,normal,0
+304,2022-04-29,Arun Jaitley Stadium,Delhi,Lucknow Super Giants,bat,Lucknow Super Giants,Lucknow Super Giants,51,0,Rohit Sharma,Nitish Menon,Nitish Menon,normal,0
+305,2025-03-01,BRSABV Ekana Stadium,Lucknow,Sunrisers Hyderabad,field,Royal Challengers Bangalore,Sunrisers Hyderabad,0,2,MS Dhoni,Sunil Kumar,Kumar Dharmasena,normal,0
+306,2022-12-29,Eden Gardens,Kolkata,Sunrisers Hyderabad,field,Lucknow Super Giants,Lucknow Super Giants,51,0,Andre Russell,Kumar Dharmasena,Nitish Menon,normal,0
+307,2018-07-08,Narendra Modi Stadium,Ahmedabad,Gujarat Titans,field,Royal Challengers Bangalore,Gujarat Titans,0,3,Rishabh Pant,Nitish Menon,Chris Gaffaney,normal,0
+308,2020-01-16,Rajiv Gandhi International Stadium,Hyderabad,Kolkata Knight Riders,field,Delhi Capitals,Kolkata Knight Riders,0,1,Jos Buttler,Kumar Dharmasena,Nitish Menon,normal,1
+309,2025-04-22,Arun Jaitley Stadium,Delhi,Delhi Capitals,bat,Delhi Capitals,Delhi Capitals,79,0,MS Dhoni,Richard Illingworth,Kumar Dharmasena,normal,0
+310,2018-07-06,Narendra Modi Stadium,Ahmedabad,Lucknow Super Giants,bat,Lucknow Super Giants,Sunrisers Hyderabad,0,2,Rishabh Pant,Nitish Menon,Sunil Kumar,normal,0
+311,2024-09-07,Eden Gardens,Kolkata,Delhi Capitals,field,Kolkata Knight Riders,Kolkata Knight Riders,13,0,Suryakumar Yadav,Sunil Kumar,Nitish Menon,normal,0
+312,2023-12-06,BRSABV Ekana Stadium,Lucknow,Mumbai Indians,bat,Mumbai Indians,Chennai Super Kings,0,2,Ravindra Jadeja,Kumar Dharmasena,Richard Illingworth,normal,0
+313,2023-01-02,Sawai Mansingh Stadium,Jaipur,Chennai Super Kings,bat,Chennai Super Kings,Chennai Super Kings,36,0,Rishabh Pant,Richard Illingworth,Chris Gaffaney,normal,0
+314,2018-04-13,Wankhede Stadium,Mumbai,Mumbai Indians,bat,Mumbai Indians,Kolkata Knight Riders,0,8,David Warner,Chris Gaffaney,Sunil Kumar,normal,0
+315,2022-11-20,Wankhede Stadium,Mumbai,Sunrisers Hyderabad,field,Chennai Super Kings,Chennai Super Kings,9,0,Rishabh Pant,Nitish Menon,Richard Illingworth,normal,0
+316,2022-12-18,Narendra Modi Stadium,Ahmedabad,Rajasthan Royals,bat,Rajasthan Royals,Rajasthan Royals,38,0,Hardik Pandya,Nitish Menon,Richard Illingworth,normal,1
+317,2021-11-05,Wankhede Stadium,Mumbai,Lucknow Super Giants,bat,Lucknow Super Giants,Mumbai Indians,0,2,David Warner,Richard Illingworth,Nitish Menon,normal,0
+318,2024-12-07,Punjab Cricket Association Stadium,Mohali,Rajasthan Royals,field,Sunrisers Hyderabad,Rajasthan Royals,0,3,Jasprit Bumrah,Sunil Kumar,Richard Illingworth,normal,0
+319,2020-03-07,Wankhede Stadium,Mumbai,Gujarat Titans,field,Lucknow Super Giants,Lucknow Super Giants,63,0,Rohit Sharma,Richard Illingworth,Sunil Kumar,normal,0
+320,2020-08-07,Punjab Cricket Association Stadium,Mohali,Sunrisers Hyderabad,field,Chennai Super Kings,Sunrisers Hyderabad,0,6,Rishabh Pant,Richard Illingworth,Chris Gaffaney,normal,0
+321,2020-02-24,Sawai Mansingh Stadium,Jaipur,Rajasthan Royals,bat,Rajasthan Royals,Delhi Capitals,0,7,Suryakumar Yadav,Nitish Menon,Chris Gaffaney,normal,0
+322,2018-03-09,Punjab Cricket Association Stadium,Mohali,Lucknow Super Giants,bat,Lucknow Super Giants,Chennai Super Kings,0,7,KL Rahul,Nitish Menon,Richard Illingworth,normal,0
+323,2018-04-30,Rajiv Gandhi International Stadium,Hyderabad,Gujarat Titans,field,Royal Challengers Bangalore,Royal Challengers Bangalore,56,0,Jasprit Bumrah,Sunil Kumar,Chris Gaffaney,normal,0
+324,2020-11-18,Rajiv Gandhi International Stadium,Hyderabad,Lucknow Super Giants,field,Rajasthan Royals,Rajasthan Royals,82,0,Shubman Gill,Nitish Menon,Chris Gaffaney,normal,0
+325,2019-01-08,M. Chinnaswamy Stadium,Bangalore,Delhi Capitals,bat,Delhi Capitals,Delhi Capitals,53,0,Virat Kohli,Richard Illingworth,Chris Gaffaney,normal,0
+326,2021-10-25,Eden Gardens,Kolkata,Punjab Kings,field,Sunrisers Hyderabad,Punjab Kings,0,6,MS Dhoni,Chris Gaffaney,Chris Gaffaney,normal,0
+327,2025-05-21,Sawai Mansingh Stadium,Jaipur,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,Lucknow Super Giants,0,6,Andre Russell,Richard Illingworth,Sunil Kumar,tie,0
+328,2023-04-25,BRSABV Ekana Stadium,Lucknow,Lucknow Super Giants,bat,Lucknow Super Giants,Lucknow Super Giants,71,0,Rohit Sharma,Nitish Menon,Chris Gaffaney,normal,1
+329,2021-08-06,Punjab Cricket Association Stadium,Mohali,Chennai Super Kings,bat,Chennai Super Kings,Chennai Super Kings,96,0,Rishabh Pant,Richard Illingworth,Sunil Kumar,normal,0
+330,2019-08-20,Punjab Cricket Association Stadium,Mohali,Chennai Super Kings,field,Rajasthan Royals,Rajasthan Royals,50,0,Hardik Pandya,Richard Illingworth,Chris Gaffaney,normal,0
+331,2024-04-04,Sawai Mansingh Stadium,Jaipur,Mumbai Indians,field,Gujarat Titans,Gujarat Titans,76,0,Jos Buttler,Kumar Dharmasena,Nitish Menon,normal,0
+332,2021-10-04,M. Chinnaswamy Stadium,Bangalore,Royal Challengers Bangalore,field,Mumbai Indians,Mumbai Indians,21,0,Suryakumar Yadav,Chris Gaffaney,Kumar Dharmasena,normal,0
+333,2024-04-10,M. Chinnaswamy Stadium,Bangalore,Punjab Kings,bat,Punjab Kings,Chennai Super Kings,0,1,Hardik Pandya,Kumar Dharmasena,Sunil Kumar,normal,0
+334,2023-08-17,Narendra Modi Stadium,Ahmedabad,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,Royal Challengers Bangalore,88,0,Rashid Khan,Nitish Menon,Sunil Kumar,normal,0
+335,2022-08-05,Narendra Modi Stadium,Ahmedabad,Rajasthan Royals,field,Kolkata Knight Riders,Rajasthan Royals,0,4,David Warner,Sunil Kumar,Nitish Menon,normal,0
+336,2023-12-02,Sawai Mansingh Stadium,Jaipur,Rajasthan Royals,field,Punjab Kings,Rajasthan Royals,0,3,Jos Buttler,Chris Gaffaney,Nitish Menon,normal,0
+337,2021-07-01,BRSABV Ekana Stadium,Lucknow,Chennai Super Kings,bat,Chennai Super Kings,Royal Challengers Bangalore,0,8,Suryakumar Yadav,Kumar Dharmasena,Kumar Dharmasena,normal,0
+338,2024-03-17,Rajiv Gandhi International Stadium,Hyderabad,Delhi Capitals,field,Kolkata Knight Riders,Delhi Capitals,0,7,KL Rahul,Sunil Kumar,Sunil Kumar,normal,0
+339,2018-06-07,Arun Jaitley Stadium,Delhi,Lucknow Super Giants,field,Mumbai Indians,Mumbai Indians,78,0,Rishabh Pant,Chris Gaffaney,Sunil Kumar,normal,0
+340,2018-09-18,Punjab Cricket Association Stadium,Mohali,Lucknow Super Giants,bat,Lucknow Super Giants,Chennai Super Kings,0,9,David Warner,Chris Gaffaney,Nitish Menon,normal,0
+341,2022-06-15,M. Chinnaswamy Stadium,Bangalore,Mumbai Indians,field,Gujarat Titans,Gujarat Titans,76,0,Rashid Khan,Chris Gaffaney,Sunil Kumar,tie,0
+342,2021-01-16,Eden Gardens,Kolkata,Kolkata Knight Riders,bat,Kolkata Knight Riders,Chennai Super Kings,0,4,Jasprit Bumrah,Sunil Kumar,Nitish Menon,normal,0
+343,2023-06-27,Eden Gardens,Kolkata,Lucknow Super Giants,bat,Lucknow Super Giants,Lucknow Super Giants,86,0,Shubman Gill,Sunil Kumar,Kumar Dharmasena,normal,0
+344,2023-10-05,Rajiv Gandhi International Stadium,Hyderabad,Mumbai Indians,bat,Mumbai Indians,Punjab Kings,0,8,Ravindra Jadeja,Nitish Menon,Richard Illingworth,normal,0
+345,2020-11-06,Eden Gardens,Kolkata,Sunrisers Hyderabad,field,Lucknow Super Giants,Sunrisers Hyderabad,0,3,Andre Russell,Richard Illingworth,Chris Gaffaney,normal,0
+346,2024-07-08,Punjab Cricket Association Stadium,Mohali,Sunrisers Hyderabad,field,Mumbai Indians,Sunrisers Hyderabad,0,3,Hardik Pandya,Richard Illingworth,Chris Gaffaney,normal,0
+347,2023-04-17,BRSABV Ekana Stadium,Lucknow,Punjab Kings,bat,Punjab Kings,Kolkata Knight Riders,0,4,MS Dhoni,Sunil Kumar,Sunil Kumar,normal,0
+348,2024-06-09,Sawai Mansingh Stadium,Jaipur,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,Royal Challengers Bangalore,22,0,Shubman Gill,Richard Illingworth,Chris Gaffaney,normal,1
+349,2023-08-15,BRSABV Ekana Stadium,Lucknow,Delhi Capitals,bat,Delhi Capitals,Delhi Capitals,89,0,Rashid Khan,Richard Illingworth,Kumar Dharmasena,normal,0
+350,2025-03-22,Arun Jaitley Stadium,Delhi,Punjab Kings,bat,Punjab Kings,Punjab Kings,30,0,Hardik Pandya,Chris Gaffaney,Kumar Dharmasena,normal,0
+351,2025-02-23,Arun Jaitley Stadium,Delhi,Sunrisers Hyderabad,field,Kolkata Knight Riders,Kolkata Knight Riders,59,0,MS Dhoni,Chris Gaffaney,Chris Gaffaney,normal,0
+352,2022-09-13,Punjab Cricket Association Stadium,Mohali,Punjab Kings,field,Chennai Super Kings,Punjab Kings,0,8,KL Rahul,Richard Illingworth,Richard Illingworth,normal,1
+353,2020-02-08,Rajiv Gandhi International Stadium,Hyderabad,Chennai Super Kings,field,Rajasthan Royals,Chennai Super Kings,0,7,Rashid Khan,Chris Gaffaney,Chris Gaffaney,normal,0
+354,2020-04-04,BRSABV Ekana Stadium,Lucknow,Rajasthan Royals,field,Delhi Capitals,Delhi Capitals,43,0,MS Dhoni,Chris Gaffaney,Chris Gaffaney,normal,0
+355,2024-03-21,Sawai Mansingh Stadium,Jaipur,Rajasthan Royals,field,Chennai Super Kings,Chennai Super Kings,88,0,Rashid Khan,Kumar Dharmasena,Sunil Kumar,normal,0
+356,2020-01-25,Rajiv Gandhi International Stadium,Hyderabad,Delhi Capitals,field,Kolkata Knight Riders,Kolkata Knight Riders,34,0,Jos Buttler,Kumar Dharmasena,Sunil Kumar,normal,0
+357,2020-08-06,Punjab Cricket Association Stadium,Mohali,Delhi Capitals,bat,Delhi Capitals,Delhi Capitals,93,0,KL Rahul,Kumar Dharmasena,Nitish Menon,normal,0
+358,2020-09-17,Sawai Mansingh Stadium,Jaipur,Gujarat Titans,field,Mumbai Indians,Mumbai Indians,44,0,MS Dhoni,Kumar Dharmasena,Chris Gaffaney,normal,0
+359,2025-02-21,M. Chinnaswamy Stadium,Bangalore,Rajasthan Royals,bat,Rajasthan Royals,Kolkata Knight Riders,0,3,KL Rahul,Sunil Kumar,Sunil Kumar,normal,0
+360,2019-01-28,Sawai Mansingh Stadium,Jaipur,Lucknow Super Giants,field,Kolkata Knight Riders,Kolkata Knight Riders,57,0,MS Dhoni,Chris Gaffaney,Sunil Kumar,normal,0
+361,2019-07-22,Eden Gardens,Kolkata,Sunrisers Hyderabad,field,Royal Challengers Bangalore,Sunrisers Hyderabad,0,9,Ravindra Jadeja,Chris Gaffaney,Sunil Kumar,normal,1
+362,2021-10-30,Wankhede Stadium,Mumbai,Royal Challengers Bangalore,field,Kolkata Knight Riders,Royal Challengers Bangalore,0,5,MS Dhoni,Richard Illingworth,Richard Illingworth,normal,0
+363,2025-02-03,Sawai Mansingh Stadium,Jaipur,Mumbai Indians,field,Punjab Kings,Punjab Kings,42,0,KL Rahul,Kumar Dharmasena,Kumar Dharmasena,normal,0
+364,2018-06-13,Punjab Cricket Association Stadium,Mohali,Lucknow Super Giants,bat,Lucknow Super Giants,Lucknow Super Giants,75,0,KL Rahul,Richard Illingworth,Richard Illingworth,tie,0
+365,2019-10-09,Rajiv Gandhi International Stadium,Hyderabad,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,Rajasthan Royals,0,5,MS Dhoni,Nitish Menon,Kumar Dharmasena,normal,0
+366,2024-10-23,Arun Jaitley Stadium,Delhi,Lucknow Super Giants,field,Kolkata Knight Riders,Kolkata Knight Riders,43,0,Rohit Sharma,Chris Gaffaney,Sunil Kumar,normal,0
+367,2025-05-13,Rajiv Gandhi International Stadium,Hyderabad,Mumbai Indians,bat,Mumbai Indians,Mumbai Indians,12,0,Hardik Pandya,Richard Illingworth,Nitish Menon,normal,0
+368,2020-10-28,BRSABV Ekana Stadium,Lucknow,Rajasthan Royals,field,Sunrisers Hyderabad,Rajasthan Royals,0,8,Rohit Sharma,Sunil Kumar,Richard Illingworth,normal,0
+369,2019-03-07,BRSABV Ekana Stadium,Lucknow,Lucknow Super Giants,bat,Lucknow Super Giants,Mumbai Indians,0,8,David Warner,Richard Illingworth,Kumar Dharmasena,normal,0
+370,2022-01-31,Sawai Mansingh Stadium,Jaipur,Gujarat Titans,bat,Gujarat Titans,Gujarat Titans,16,0,MS Dhoni,Richard Illingworth,Chris Gaffaney,normal,0
+371,2022-03-25,Arun Jaitley Stadium,Delhi,Lucknow Super Giants,bat,Lucknow Super Giants,Kolkata Knight Riders,0,5,Hardik Pandya,Sunil Kumar,Richard Illingworth,normal,1
+372,2021-07-14,M. Chinnaswamy Stadium,Bangalore,Royal Challengers Bangalore,field,Mumbai Indians,Royal Challengers Bangalore,0,8,Suryakumar Yadav,Richard Illingworth,Chris Gaffaney,tie,1
+373,2020-04-20,Arun Jaitley Stadium,Delhi,Lucknow Super Giants,field,Rajasthan Royals,Rajasthan Royals,89,0,David Warner,Chris Gaffaney,Nitish Menon,normal,0
+374,2021-05-05,Wankhede Stadium,Mumbai,Mumbai Indians,bat,Mumbai Indians,Mumbai Indians,78,0,Rashid Khan,Chris Gaffaney,Chris Gaffaney,normal,0
+375,2021-06-25,M. Chinnaswamy Stadium,Bangalore,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,Sunrisers Hyderabad,53,0,Rashid Khan,Richard Illingworth,Kumar Dharmasena,normal,0
+376,2020-06-05,Sawai Mansingh Stadium,Jaipur,Gujarat Titans,bat,Gujarat Titans,Gujarat Titans,25,0,Ravindra Jadeja,Kumar Dharmasena,Sunil Kumar,normal,0
+377,2023-12-18,Arun Jaitley Stadium,Delhi,Punjab Kings,bat,Punjab Kings,Punjab Kings,43,0,Jasprit Bumrah,Chris Gaffaney,Sunil Kumar,normal,0
+378,2019-01-25,Arun Jaitley Stadium,Delhi,Rajasthan Royals,bat,Rajasthan Royals,Rajasthan Royals,91,0,Suryakumar Yadav,Sunil Kumar,Nitish Menon,normal,0
+379,2020-09-21,Eden Gardens,Kolkata,Rajasthan Royals,field,Delhi Capitals,Rajasthan Royals,0,6,Andre Russell,Chris Gaffaney,Richard Illingworth,normal,0
+380,2020-12-29,Rajiv Gandhi International Stadium,Hyderabad,Mumbai Indians,field,Rajasthan Royals,Mumbai Indians,0,2,Jos Buttler,Richard Illingworth,Sunil Kumar,normal,0
+381,2021-07-19,Arun Jaitley Stadium,Delhi,Chennai Super Kings,bat,Chennai Super Kings,Chennai Super Kings,47,0,MS Dhoni,Nitish Menon,Chris Gaffaney,tie,0
+382,2021-08-09,Arun Jaitley Stadium,Delhi,Lucknow Super Giants,bat,Lucknow Super Giants,Lucknow Super Giants,21,0,Andre Russell,Sunil Kumar,Richard Illingworth,normal,0
+383,2024-07-09,Punjab Cricket Association Stadium,Mohali,Mumbai Indians,field,Gujarat Titans,Mumbai Indians,0,6,Rishabh Pant,Chris Gaffaney,Kumar Dharmasena,normal,0
+384,2023-01-14,Punjab Cricket Association Stadium,Mohali,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,Chennai Super Kings,0,6,Rashid Khan,Chris Gaffaney,Kumar Dharmasena,normal,0
+385,2019-12-16,Arun Jaitley Stadium,Delhi,Sunrisers Hyderabad,field,Royal Challengers Bangalore,Royal Challengers Bangalore,32,0,Virat Kohli,Sunil Kumar,Richard Illingworth,normal,0
+386,2020-05-01,Arun Jaitley Stadium,Delhi,Royal Challengers Bangalore,field,Rajasthan Royals,Rajasthan Royals,38,0,David Warner,Nitish Menon,Richard Illingworth,normal,0
+387,2022-08-14,M. Chinnaswamy Stadium,Bangalore,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,Chennai Super Kings,0,5,Ravindra Jadeja,Kumar Dharmasena,Sunil Kumar,normal,0
+388,2021-03-09,M. Chinnaswamy Stadium,Bangalore,Kolkata Knight Riders,field,Delhi Capitals,Kolkata Knight Riders,0,3,Hardik Pandya,Chris Gaffaney,Richard Illingworth,normal,0
+389,2024-12-13,Wankhede Stadium,Mumbai,Gujarat Titans,bat,Gujarat Titans,Rajasthan Royals,0,6,Rashid Khan,Richard Illingworth,Richard Illingworth,normal,0
+390,2022-04-26,Narendra Modi Stadium,Ahmedabad,Delhi Capitals,field,Mumbai Indians,Mumbai Indians,97,0,Rashid Khan,Kumar Dharmasena,Chris Gaffaney,normal,0
+391,2019-11-22,Wankhede Stadium,Mumbai,Gujarat Titans,field,Rajasthan Royals,Gujarat Titans,0,8,David Warner,Sunil Kumar,Kumar Dharmasena,normal,0
+392,2022-05-07,Arun Jaitley Stadium,Delhi,Sunrisers Hyderabad,field,Gujarat Titans,Gujarat Titans,81,0,Hardik Pandya,Sunil Kumar,Chris Gaffaney,normal,0
+393,2019-11-01,Punjab Cricket Association Stadium,Mohali,Rajasthan Royals,bat,Rajasthan Royals,Rajasthan Royals,41,0,KL Rahul,Nitish Menon,Chris Gaffaney,normal,0
+394,2021-12-29,Arun Jaitley Stadium,Delhi,Punjab Kings,field,Chennai Super Kings,Chennai Super Kings,74,0,Jos Buttler,Nitish Menon,Kumar Dharmasena,normal,0
+395,2023-10-26,Wankhede Stadium,Mumbai,Chennai Super Kings,bat,Chennai Super Kings,Gujarat Titans,0,7,Suryakumar Yadav,Chris Gaffaney,Kumar Dharmasena,normal,0
+396,2020-02-28,Narendra Modi Stadium,Ahmedabad,Sunrisers Hyderabad,field,Punjab Kings,Punjab Kings,52,0,KL Rahul,Richard Illingworth,Chris Gaffaney,normal,0
+397,2023-04-05,Narendra Modi Stadium,Ahmedabad,Chennai Super Kings,field,Rajasthan Royals,Rajasthan Royals,56,0,Suryakumar Yadav,Kumar Dharmasena,Sunil Kumar,normal,0
+398,2022-08-27,M. Chinnaswamy Stadium,Bangalore,Lucknow Super Giants,field,Punjab Kings,Lucknow Super Giants,0,4,Hardik Pandya,Chris Gaffaney,Kumar Dharmasena,normal,0
+399,2023-04-23,Narendra Modi Stadium,Ahmedabad,Sunrisers Hyderabad,field,Delhi Capitals,Delhi Capitals,28,0,Shubman Gill,Richard Illingworth,Richard Illingworth,normal,0
+400,2023-08-17,Eden Gardens,Kolkata,Delhi Capitals,bat,Delhi Capitals,Mumbai Indians,0,6,Rishabh Pant,Sunil Kumar,Sunil Kumar,normal,0
+401,2023-03-30,Eden Gardens,Kolkata,Kolkata Knight Riders,bat,Kolkata Knight Riders,Lucknow Super Giants,0,8,Suryakumar Yadav,Richard Illingworth,Richard Illingworth,normal,0
+402,2020-02-18,BRSABV Ekana Stadium,Lucknow,Rajasthan Royals,field,Kolkata Knight Riders,Rajasthan Royals,0,3,MS Dhoni,Sunil Kumar,Chris Gaffaney,normal,0
+403,2018-08-16,Eden Gardens,Kolkata,Rajasthan Royals,field,Delhi Capitals,Rajasthan Royals,0,7,Jos Buttler,Sunil Kumar,Richard Illingworth,normal,0
+404,2022-08-09,Rajiv Gandhi International Stadium,Hyderabad,Gujarat Titans,field,Kolkata Knight Riders,Gujarat Titans,0,1,Hardik Pandya,Nitish Menon,Chris Gaffaney,normal,0
+405,2023-05-30,BRSABV Ekana Stadium,Lucknow,Kolkata Knight Riders,field,Royal Challengers Bangalore,Kolkata Knight Riders,0,3,Jasprit Bumrah,Kumar Dharmasena,Kumar Dharmasena,normal,0
+406,2020-05-05,BRSABV Ekana Stadium,Lucknow,Gujarat Titans,field,Kolkata Knight Riders,Gujarat Titans,0,2,Suryakumar Yadav,Nitish Menon,Richard Illingworth,normal,1
+407,2022-12-08,Punjab Cricket Association Stadium,Mohali,Rajasthan Royals,field,Kolkata Knight Riders,Kolkata Knight Riders,100,0,MS Dhoni,Kumar Dharmasena,Kumar Dharmasena,normal,0
+408,2019-08-04,BRSABV Ekana Stadium,Lucknow,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,Gujarat Titans,0,6,Sanju Samson,Nitish Menon,Nitish Menon,normal,0
+409,2025-03-14,Narendra Modi Stadium,Ahmedabad,Gujarat Titans,bat,Gujarat Titans,Gujarat Titans,72,0,Suryakumar Yadav,Chris Gaffaney,Nitish Menon,tie,0
+410,2019-06-07,Wankhede Stadium,Mumbai,Sunrisers Hyderabad,field,Mumbai Indians,Mumbai Indians,59,0,Suryakumar Yadav,Kumar Dharmasena,Kumar Dharmasena,tie,1
+411,2019-02-05,Punjab Cricket Association Stadium,Mohali,Delhi Capitals,field,Lucknow Super Giants,Delhi Capitals,0,5,Sanju Samson,Kumar Dharmasena,Richard Illingworth,normal,0
+412,2021-01-04,Sawai Mansingh Stadium,Jaipur,Gujarat Titans,bat,Gujarat Titans,Gujarat Titans,32,0,Jos Buttler,Nitish Menon,Richard Illingworth,normal,0
+413,2023-01-27,Sawai Mansingh Stadium,Jaipur,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,Sunrisers Hyderabad,53,0,Suryakumar Yadav,Richard Illingworth,Richard Illingworth,normal,0
+414,2024-06-28,Sawai Mansingh Stadium,Jaipur,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,Royal Challengers Bangalore,19,0,Ravindra Jadeja,Chris Gaffaney,Sunil Kumar,normal,0
+415,2021-08-07,BRSABV Ekana Stadium,Lucknow,Mumbai Indians,bat,Mumbai Indians,Sunrisers Hyderabad,0,2,Andre Russell,Sunil Kumar,Kumar Dharmasena,normal,0
+416,2022-05-08,Eden Gardens,Kolkata,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,Royal Challengers Bangalore,61,0,Sanju Samson,Richard Illingworth,Richard Illingworth,normal,0
+417,2025-01-16,Narendra Modi Stadium,Ahmedabad,Chennai Super Kings,field,Punjab Kings,Punjab Kings,56,0,Ravindra Jadeja,Sunil Kumar,Sunil Kumar,normal,0
+418,2024-01-31,BRSABV Ekana Stadium,Lucknow,Lucknow Super Giants,field,Gujarat Titans,Gujarat Titans,24,0,Suryakumar Yadav,Kumar Dharmasena,Richard Illingworth,normal,0
+419,2019-06-03,Sawai Mansingh Stadium,Jaipur,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,Royal Challengers Bangalore,13,0,Jasprit Bumrah,Sunil Kumar,Chris Gaffaney,normal,0
+420,2023-07-31,M. Chinnaswamy Stadium,Bangalore,Chennai Super Kings,field,Delhi Capitals,Delhi Capitals,46,0,David Warner,Sunil Kumar,Sunil Kumar,normal,0
+421,2018-12-20,Rajiv Gandhi International Stadium,Hyderabad,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,Kolkata Knight Riders,0,9,Rohit Sharma,Nitish Menon,Nitish Menon,normal,1
+422,2019-06-06,Eden Gardens,Kolkata,Gujarat Titans,bat,Gujarat Titans,Rajasthan Royals,0,6,Jos Buttler,Kumar Dharmasena,Sunil Kumar,normal,0
+423,2022-02-02,Sawai Mansingh Stadium,Jaipur,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,Gujarat Titans,0,6,Suryakumar Yadav,Richard Illingworth,Kumar Dharmasena,normal,0
+424,2024-02-15,Rajiv Gandhi International Stadium,Hyderabad,Gujarat Titans,field,Royal Challengers Bangalore,Royal Challengers Bangalore,48,0,Virat Kohli,Nitish Menon,Kumar Dharmasena,normal,0
+425,2018-06-17,Rajiv Gandhi International Stadium,Hyderabad,Mumbai Indians,field,Sunrisers Hyderabad,Mumbai Indians,0,6,KL Rahul,Kumar Dharmasena,Sunil Kumar,normal,0
+426,2020-09-20,Punjab Cricket Association Stadium,Mohali,Mumbai Indians,bat,Mumbai Indians,Lucknow Super Giants,0,4,Jos Buttler,Nitish Menon,Richard Illingworth,normal,1
+427,2021-09-01,Arun Jaitley Stadium,Delhi,Gujarat Titans,field,Rajasthan Royals,Gujarat Titans,0,2,Sanju Samson,Kumar Dharmasena,Chris Gaffaney,tie,0
+428,2020-10-05,Rajiv Gandhi International Stadium,Hyderabad,Mumbai Indians,field,Sunrisers Hyderabad,Sunrisers Hyderabad,48,0,Hardik Pandya,Sunil Kumar,Richard Illingworth,normal,0
+429,2022-02-03,Arun Jaitley Stadium,Delhi,Mumbai Indians,bat,Mumbai Indians,Mumbai Indians,77,0,Hardik Pandya,Chris Gaffaney,Kumar Dharmasena,normal,0
+430,2022-01-30,Narendra Modi Stadium,Ahmedabad,Chennai Super Kings,field,Sunrisers Hyderabad,Chennai Super Kings,0,3,Sanju Samson,Nitish Menon,Sunil Kumar,normal,0
+431,2022-11-27,Sawai Mansingh Stadium,Jaipur,Mumbai Indians,bat,Mumbai Indians,Delhi Capitals,0,6,Suryakumar Yadav,Richard Illingworth,Nitish Menon,normal,0
+432,2025-04-10,Punjab Cricket Association Stadium,Mohali,Lucknow Super Giants,bat,Lucknow Super Giants,Punjab Kings,0,4,Virat Kohli,Richard Illingworth,Nitish Menon,normal,0
+433,2020-10-24,Eden Gardens,Kolkata,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,Royal Challengers Bangalore,0,8,Sanju Samson,Richard Illingworth,Sunil Kumar,normal,1
+434,2018-07-13,Punjab Cricket Association Stadium,Mohali,Rajasthan Royals,field,Delhi Capitals,Rajasthan Royals,0,4,Jos Buttler,Nitish Menon,Kumar Dharmasena,normal,0
+435,2022-10-27,BRSABV Ekana Stadium,Lucknow,Kolkata Knight Riders,bat,Kolkata Knight Riders,Punjab Kings,0,4,MS Dhoni,Sunil Kumar,Richard Illingworth,normal,0
+436,2019-09-03,Arun Jaitley Stadium,Delhi,Sunrisers Hyderabad,field,Mumbai Indians,Sunrisers Hyderabad,0,5,Rishabh Pant,Kumar Dharmasena,Kumar Dharmasena,normal,0
+437,2023-08-25,Punjab Cricket Association Stadium,Mohali,Delhi Capitals,bat,Delhi Capitals,Delhi Capitals,57,0,Virat Kohli,Richard Illingworth,Richard Illingworth,normal,0
+438,2018-10-02,M. Chinnaswamy Stadium,Bangalore,Delhi Capitals,bat,Delhi Capitals,Sunrisers Hyderabad,0,7,Virat Kohli,Nitish Menon,Sunil Kumar,normal,0
+439,2022-12-08,Punjab Cricket Association Stadium,Mohali,Mumbai Indians,field,Rajasthan Royals,Mumbai Indians,0,5,David Warner,Nitish Menon,Nitish Menon,normal,0
+440,2022-06-15,Rajiv Gandhi International Stadium,Hyderabad,Delhi Capitals,bat,Delhi Capitals,Delhi Capitals,30,0,Hardik Pandya,Sunil Kumar,Richard Illingworth,normal,0
+441,2023-01-17,M. Chinnaswamy Stadium,Bangalore,Delhi Capitals,bat,Delhi Capitals,Royal Challengers Bangalore,0,7,Jos Buttler,Chris Gaffaney,Sunil Kumar,normal,0
+442,2019-02-02,Rajiv Gandhi International Stadium,Hyderabad,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,Punjab Kings,0,2,Andre Russell,Nitish Menon,Sunil Kumar,normal,0
+443,2024-06-07,BRSABV Ekana Stadium,Lucknow,Mumbai Indians,field,Chennai Super Kings,Mumbai Indians,0,9,Hardik Pandya,Chris Gaffaney,Richard Illingworth,normal,0
+444,2022-09-03,Rajiv Gandhi International Stadium,Hyderabad,Kolkata Knight Riders,field,Royal Challengers Bangalore,Kolkata Knight Riders,0,6,Sanju Samson,Chris Gaffaney,Chris Gaffaney,normal,0
+445,2022-11-24,BRSABV Ekana Stadium,Lucknow,Rajasthan Royals,bat,Rajasthan Royals,Rajasthan Royals,51,0,Ravindra Jadeja,Chris Gaffaney,Chris Gaffaney,normal,0
+446,2020-08-30,Narendra Modi Stadium,Ahmedabad,Punjab Kings,field,Royal Challengers Bangalore,Punjab Kings,0,3,Andre Russell,Kumar Dharmasena,Richard Illingworth,normal,0
+447,2024-10-02,BRSABV Ekana Stadium,Lucknow,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,Royal Challengers Bangalore,85,0,David Warner,Nitish Menon,Richard Illingworth,normal,0
+448,2021-02-07,Punjab Cricket Association Stadium,Mohali,Kolkata Knight Riders,bat,Kolkata Knight Riders,Kolkata Knight Riders,83,0,KL Rahul,Kumar Dharmasena,Nitish Menon,normal,0
+449,2020-04-16,Narendra Modi Stadium,Ahmedabad,Delhi Capitals,field,Sunrisers Hyderabad,Delhi Capitals,0,5,Hardik Pandya,Richard Illingworth,Nitish Menon,normal,0
+450,2018-10-19,Eden Gardens,Kolkata,Punjab Kings,field,Gujarat Titans,Punjab Kings,0,8,Jasprit Bumrah,Nitish Menon,Richard Illingworth,normal,0
+451,2020-02-23,Punjab Cricket Association Stadium,Mohali,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,Royal Challengers Bangalore,35,0,Hardik Pandya,Richard Illingworth,Sunil Kumar,normal,0
+452,2024-08-11,Eden Gardens,Kolkata,Royal Challengers Bangalore,field,Sunrisers Hyderabad,Royal Challengers Bangalore,0,6,Andre Russell,Richard Illingworth,Nitish Menon,normal,0
+453,2019-03-10,Eden Gardens,Kolkata,Lucknow Super Giants,field,Sunrisers Hyderabad,Sunrisers Hyderabad,64,0,Andre Russell,Chris Gaffaney,Nitish Menon,normal,0
+454,2021-07-12,Punjab Cricket Association Stadium,Mohali,Mumbai Indians,field,Kolkata Knight Riders,Mumbai Indians,0,4,MS Dhoni,Nitish Menon,Chris Gaffaney,normal,0
+455,2020-07-24,Narendra Modi Stadium,Ahmedabad,Lucknow Super Giants,bat,Lucknow Super Giants,Gujarat Titans,0,5,Rashid Khan,Nitish Menon,Chris Gaffaney,normal,0
+456,2021-12-02,Wankhede Stadium,Mumbai,Rajasthan Royals,bat,Rajasthan Royals,Rajasthan Royals,79,0,Rohit Sharma,Sunil Kumar,Richard Illingworth,normal,0
+457,2020-09-28,Rajiv Gandhi International Stadium,Hyderabad,Delhi Capitals,bat,Delhi Capitals,Delhi Capitals,60,0,Rishabh Pant,Kumar Dharmasena,Sunil Kumar,tie,0
+458,2021-05-12,Punjab Cricket Association Stadium,Mohali,Kolkata Knight Riders,field,Sunrisers Hyderabad,Sunrisers Hyderabad,44,0,Andre Russell,Richard Illingworth,Nitish Menon,normal,0
+459,2019-01-04,Eden Gardens,Kolkata,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,Royal Challengers Bangalore,18,0,Hardik Pandya,Nitish Menon,Nitish Menon,normal,0
+460,2021-09-14,Arun Jaitley Stadium,Delhi,Gujarat Titans,bat,Gujarat Titans,Gujarat Titans,65,0,Ravindra Jadeja,Sunil Kumar,Chris Gaffaney,normal,0
+461,2023-05-06,Sawai Mansingh Stadium,Jaipur,Royal Challengers Bangalore,field,Rajasthan Royals,Rajasthan Royals,43,0,Andre Russell,Chris Gaffaney,Kumar Dharmasena,normal,0
+462,2021-06-24,Arun Jaitley Stadium,Delhi,Chennai Super Kings,field,Punjab Kings,Chennai Super Kings,0,7,Sanju Samson,Sunil Kumar,Kumar Dharmasena,normal,1
+463,2022-10-17,M. Chinnaswamy Stadium,Bangalore,Punjab Kings,field,Sunrisers Hyderabad,Sunrisers Hyderabad,57,0,Jos Buttler,Richard Illingworth,Chris Gaffaney,normal,0
+464,2020-10-27,M. Chinnaswamy Stadium,Bangalore,Mumbai Indians,field,Rajasthan Royals,Mumbai Indians,0,7,Hardik Pandya,Sunil Kumar,Chris Gaffaney,normal,0
+465,2021-01-11,M. Chinnaswamy Stadium,Bangalore,Royal Challengers Bangalore,field,Chennai Super Kings,Chennai Super Kings,69,0,David Warner,Kumar Dharmasena,Kumar Dharmasena,normal,0
+466,2020-04-14,Arun Jaitley Stadium,Delhi,Kolkata Knight Riders,bat,Kolkata Knight Riders,Chennai Super Kings,0,2,Rohit Sharma,Chris Gaffaney,Kumar Dharmasena,normal,0
+467,2022-07-24,Rajiv Gandhi International Stadium,Hyderabad,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,Lucknow Super Giants,0,3,Ravindra Jadeja,Kumar Dharmasena,Kumar Dharmasena,normal,0
+468,2023-09-27,Arun Jaitley Stadium,Delhi,Kolkata Knight Riders,bat,Kolkata Knight Riders,Kolkata Knight Riders,24,0,Rohit Sharma,Richard Illingworth,Chris Gaffaney,normal,0
+469,2024-10-22,Narendra Modi Stadium,Ahmedabad,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,Royal Challengers Bangalore,48,0,Sanju Samson,Chris Gaffaney,Chris Gaffaney,normal,0
+470,2020-01-16,BRSABV Ekana Stadium,Lucknow,Chennai Super Kings,bat,Chennai Super Kings,Sunrisers Hyderabad,0,3,MS Dhoni,Sunil Kumar,Kumar Dharmasena,normal,0
+471,2023-12-19,Sawai Mansingh Stadium,Jaipur,Rajasthan Royals,bat,Rajasthan Royals,Royal Challengers Bangalore,0,2,Virat Kohli,Chris Gaffaney,Richard Illingworth,normal,0
+472,2023-02-18,BRSABV Ekana Stadium,Lucknow,Chennai Super Kings,field,Punjab Kings,Punjab Kings,77,0,Rishabh Pant,Kumar Dharmasena,Richard Illingworth,normal,0
+473,2018-11-10,Arun Jaitley Stadium,Delhi,Delhi Capitals,field,Kolkata Knight Riders,Delhi Capitals,0,6,Rishabh Pant,Nitish Menon,Chris Gaffaney,normal,0
+474,2022-03-19,M. Chinnaswamy Stadium,Bangalore,Sunrisers Hyderabad,field,Chennai Super Kings,Sunrisers Hyderabad,0,9,Rishabh Pant,Nitish Menon,Kumar Dharmasena,normal,0
+475,2018-05-24,Sawai Mansingh Stadium,Jaipur,Chennai Super Kings,bat,Chennai Super Kings,Gujarat Titans,0,3,MS Dhoni,Nitish Menon,Chris Gaffaney,normal,0
+476,2025-04-26,M. Chinnaswamy Stadium,Bangalore,Punjab Kings,field,Gujarat Titans,Punjab Kings,0,7,Suryakumar Yadav,Kumar Dharmasena,Kumar Dharmasena,normal,0
+477,2018-06-19,Rajiv Gandhi International Stadium,Hyderabad,Gujarat Titans,bat,Gujarat Titans,Chennai Super Kings,0,9,Shubman Gill,Richard Illingworth,Nitish Menon,normal,0
+478,2024-05-11,Sawai Mansingh Stadium,Jaipur,Kolkata Knight Riders,bat,Kolkata Knight Riders,Punjab Kings,0,5,Andre Russell,Nitish Menon,Chris Gaffaney,normal,1
+479,2021-05-27,Punjab Cricket Association Stadium,Mohali,Punjab Kings,field,Mumbai Indians,Mumbai Indians,24,0,Ravindra Jadeja,Nitish Menon,Richard Illingworth,normal,0
+480,2020-04-16,Arun Jaitley Stadium,Delhi,Kolkata Knight Riders,bat,Kolkata Knight Riders,Kolkata Knight Riders,22,0,Jasprit Bumrah,Kumar Dharmasena,Nitish Menon,normal,0
+481,2024-04-24,Wankhede Stadium,Mumbai,Kolkata Knight Riders,field,Royal Challengers Bangalore,Kolkata Knight Riders,0,9,Sanju Samson,Chris Gaffaney,Kumar Dharmasena,normal,0
+482,2018-06-27,Arun Jaitley Stadium,Delhi,Lucknow Super Giants,bat,Lucknow Super Giants,Lucknow Super Giants,13,0,MS Dhoni,Sunil Kumar,Richard Illingworth,normal,0
+483,2024-10-06,Rajiv Gandhi International Stadium,Hyderabad,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,Sunrisers Hyderabad,61,0,Rishabh Pant,Chris Gaffaney,Chris Gaffaney,tie,0
+484,2023-05-18,Sawai Mansingh Stadium,Jaipur,Mumbai Indians,field,Delhi Capitals,Mumbai Indians,0,1,Rashid Khan,Richard Illingworth,Kumar Dharmasena,normal,0
+485,2018-05-07,Rajiv Gandhi International Stadium,Hyderabad,Punjab Kings,field,Rajasthan Royals,Rajasthan Royals,85,0,Jos Buttler,Nitish Menon,Sunil Kumar,normal,1
+486,2022-12-05,M. Chinnaswamy Stadium,Bangalore,Mumbai Indians,bat,Mumbai Indians,Mumbai Indians,15,0,Jos Buttler,Nitish Menon,Richard Illingworth,normal,0
+487,2020-03-20,Arun Jaitley Stadium,Delhi,Chennai Super Kings,bat,Chennai Super Kings,Rajasthan Royals,0,7,KL Rahul,Kumar Dharmasena,Sunil Kumar,normal,1
+488,2024-09-05,Punjab Cricket Association Stadium,Mohali,Chennai Super Kings,field,Royal Challengers Bangalore,Chennai Super Kings,0,4,Suryakumar Yadav,Kumar Dharmasena,Nitish Menon,normal,0
+489,2025-05-04,Rajiv Gandhi International Stadium,Hyderabad,Lucknow Super Giants,bat,Lucknow Super Giants,Rajasthan Royals,0,3,MS Dhoni,Sunil Kumar,Richard Illingworth,normal,1
+490,2020-02-29,Punjab Cricket Association Stadium,Mohali,Lucknow Super Giants,field,Sunrisers Hyderabad,Lucknow Super Giants,0,6,Andre Russell,Sunil Kumar,Chris Gaffaney,normal,0
+491,2020-07-17,Wankhede Stadium,Mumbai,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,Chennai Super Kings,0,2,Jos Buttler,Richard Illingworth,Chris Gaffaney,normal,0
+492,2022-12-19,Rajiv Gandhi International Stadium,Hyderabad,Mumbai Indians,bat,Mumbai Indians,Mumbai Indians,91,0,Rohit Sharma,Sunil Kumar,Nitish Menon,normal,0
+493,2019-06-02,Arun Jaitley Stadium,Delhi,Mumbai Indians,field,Royal Challengers Bangalore,Royal Challengers Bangalore,45,0,Andre Russell,Chris Gaffaney,Nitish Menon,normal,0
+494,2024-02-20,M. Chinnaswamy Stadium,Bangalore,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,Royal Challengers Bangalore,10,0,MS Dhoni,Chris Gaffaney,Richard Illingworth,normal,0
+495,2023-12-29,Punjab Cricket Association Stadium,Mohali,Sunrisers Hyderabad,field,Delhi Capitals,Delhi Capitals,16,0,Sanju Samson,Chris Gaffaney,Richard Illingworth,normal,0
+496,2025-03-03,Wankhede Stadium,Mumbai,Rajasthan Royals,field,Sunrisers Hyderabad,Rajasthan Royals,0,7,Jasprit Bumrah,Richard Illingworth,Chris Gaffaney,normal,0
+497,2024-03-31,Eden Gardens,Kolkata,Delhi Capitals,bat,Delhi Capitals,Kolkata Knight Riders,0,1,Hardik Pandya,Chris Gaffaney,Richard Illingworth,normal,0
+498,2021-03-21,Rajiv Gandhi International Stadium,Hyderabad,Rajasthan Royals,bat,Rajasthan Royals,Rajasthan Royals,75,0,Rohit Sharma,Chris Gaffaney,Kumar Dharmasena,normal,0
+499,2024-01-07,Punjab Cricket Association Stadium,Mohali,Delhi Capitals,bat,Delhi Capitals,Lucknow Super Giants,0,6,Hardik Pandya,Richard Illingworth,Sunil Kumar,normal,0
+500,2018-09-22,Eden Gardens,Kolkata,Royal Challengers Bangalore,field,Lucknow Super Giants,Lucknow Super Giants,11,0,Rashid Khan,Kumar Dharmasena,Chris Gaffaney,normal,1
+501,2022-08-29,Punjab Cricket Association Stadium,Mohali,Punjab Kings,field,Delhi Capitals,Punjab Kings,0,7,Rohit Sharma,Sunil Kumar,Nitish Menon,normal,0
+502,2021-02-18,Arun Jaitley Stadium,Delhi,Royal Challengers Bangalore,field,Punjab Kings,Punjab Kings,63,0,Sanju Samson,Sunil Kumar,Chris Gaffaney,normal,0
+503,2022-07-31,Sawai Mansingh Stadium,Jaipur,Punjab Kings,bat,Punjab Kings,Punjab Kings,95,0,Rashid Khan,Richard Illingworth,Chris Gaffaney,normal,0
+504,2024-02-02,BRSABV Ekana Stadium,Lucknow,Punjab Kings,bat,Punjab Kings,Rajasthan Royals,0,9,Jasprit Bumrah,Kumar Dharmasena,Richard Illingworth,normal,0
+505,2019-04-30,Eden Gardens,Kolkata,Rajasthan Royals,bat,Rajasthan Royals,Kolkata Knight Riders,0,8,Andre Russell,Kumar Dharmasena,Nitish Menon,normal,1
+506,2021-08-30,Rajiv Gandhi International Stadium,Hyderabad,Kolkata Knight Riders,bat,Kolkata Knight Riders,Sunrisers Hyderabad,0,6,Ravindra Jadeja,Sunil Kumar,Kumar Dharmasena,tie,0
+507,2019-04-12,BRSABV Ekana Stadium,Lucknow,Delhi Capitals,field,Punjab Kings,Delhi Capitals,0,1,Shubman Gill,Nitish Menon,Chris Gaffaney,normal,0
+508,2019-06-28,M. Chinnaswamy Stadium,Bangalore,Chennai Super Kings,bat,Chennai Super Kings,Rajasthan Royals,0,4,Jasprit Bumrah,Kumar Dharmasena,Richard Illingworth,normal,0
+509,2019-09-04,M. Chinnaswamy Stadium,Bangalore,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,Rajasthan Royals,0,4,Jos Buttler,Sunil Kumar,Chris Gaffaney,normal,0
+510,2020-04-10,Narendra Modi Stadium,Ahmedabad,Chennai Super Kings,field,Kolkata Knight Riders,Chennai Super Kings,0,4,Jos Buttler,Sunil Kumar,Richard Illingworth,normal,0
+511,2020-03-20,BRSABV Ekana Stadium,Lucknow,Gujarat Titans,bat,Gujarat Titans,Royal Challengers Bangalore,0,4,Shubman Gill,Nitish Menon,Richard Illingworth,normal,0
+512,2023-07-02,Eden Gardens,Kolkata,Mumbai Indians,bat,Mumbai Indians,Mumbai Indians,63,0,Virat Kohli,Chris Gaffaney,Nitish Menon,normal,0
+513,2019-11-11,Sawai Mansingh Stadium,Jaipur,Lucknow Super Giants,field,Punjab Kings,Lucknow Super Giants,0,5,Ravindra Jadeja,Kumar Dharmasena,Chris Gaffaney,normal,0
+514,2023-11-22,Arun Jaitley Stadium,Delhi,Mumbai Indians,bat,Mumbai Indians,Mumbai Indians,10,0,Virat Kohli,Nitish Menon,Kumar Dharmasena,normal,0
+515,2020-07-04,Rajiv Gandhi International Stadium,Hyderabad,Mumbai Indians,field,Kolkata Knight Riders,Mumbai Indians,0,5,MS Dhoni,Chris Gaffaney,Richard Illingworth,normal,1
+516,2021-01-13,Narendra Modi Stadium,Ahmedabad,Mumbai Indians,field,Punjab Kings,Punjab Kings,31,0,Hardik Pandya,Richard Illingworth,Kumar Dharmasena,normal,0
+517,2018-05-30,Narendra Modi Stadium,Ahmedabad,Chennai Super Kings,field,Royal Challengers Bangalore,Royal Challengers Bangalore,58,0,Ravindra Jadeja,Chris Gaffaney,Richard Illingworth,normal,0
+518,2018-09-04,Rajiv Gandhi International Stadium,Hyderabad,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,Royal Challengers Bangalore,89,0,Jasprit Bumrah,Nitish Menon,Nitish Menon,normal,0
+519,2024-01-04,M. Chinnaswamy Stadium,Bangalore,Mumbai Indians,bat,Mumbai Indians,Mumbai Indians,44,0,David Warner,Richard Illingworth,Sunil Kumar,normal,0
+520,2020-11-17,Punjab Cricket Association Stadium,Mohali,Lucknow Super Giants,bat,Lucknow Super Giants,Lucknow Super Giants,9,0,Shubman Gill,Sunil Kumar,Nitish Menon,normal,0
+521,2024-03-26,BRSABV Ekana Stadium,Lucknow,Delhi Capitals,field,Lucknow Super Giants,Lucknow Super Giants,26,0,Sanju Samson,Nitish Menon,Richard Illingworth,normal,0
+522,2018-04-16,Narendra Modi Stadium,Ahmedabad,Chennai Super Kings,field,Royal Challengers Bangalore,Chennai Super Kings,0,1,Virat Kohli,Nitish Menon,Richard Illingworth,normal,0
+523,2021-08-20,BRSABV Ekana Stadium,Lucknow,Kolkata Knight Riders,field,Delhi Capitals,Kolkata Knight Riders,0,7,Virat Kohli,Kumar Dharmasena,Richard Illingworth,normal,0
+524,2020-08-04,Punjab Cricket Association Stadium,Mohali,Kolkata Knight Riders,field,Delhi Capitals,Kolkata Knight Riders,0,2,Jos Buttler,Nitish Menon,Sunil Kumar,tie,0
+525,2018-08-12,Rajiv Gandhi International Stadium,Hyderabad,Lucknow Super Giants,bat,Lucknow Super Giants,Gujarat Titans,0,5,Shubman Gill,Kumar Dharmasena,Kumar Dharmasena,normal,0
+526,2019-11-28,Narendra Modi Stadium,Ahmedabad,Mumbai Indians,bat,Mumbai Indians,Sunrisers Hyderabad,0,4,Andre Russell,Kumar Dharmasena,Sunil Kumar,normal,1
+527,2025-03-12,Eden Gardens,Kolkata,Delhi Capitals,bat,Delhi Capitals,Mumbai Indians,0,1,David Warner,Kumar Dharmasena,Nitish Menon,normal,0
+528,2024-07-07,Narendra Modi Stadium,Ahmedabad,Lucknow Super Giants,bat,Lucknow Super Giants,Delhi Capitals,0,4,KL Rahul,Sunil Kumar,Richard Illingworth,normal,0
+529,2018-09-12,Sawai Mansingh Stadium,Jaipur,Gujarat Titans,field,Lucknow Super Giants,Gujarat Titans,0,2,Hardik Pandya,Richard Illingworth,Richard Illingworth,normal,0
+530,2019-03-05,Punjab Cricket Association Stadium,Mohali,Delhi Capitals,bat,Delhi Capitals,Delhi Capitals,89,0,Shubman Gill,Nitish Menon,Kumar Dharmasena,normal,0
+531,2021-09-20,Arun Jaitley Stadium,Delhi,Gujarat Titans,bat,Gujarat Titans,Gujarat Titans,40,0,Rishabh Pant,Richard Illingworth,Richard Illingworth,normal,0
+532,2025-02-25,Rajiv Gandhi International Stadium,Hyderabad,Gujarat Titans,field,Punjab Kings,Gujarat Titans,0,7,KL Rahul,Nitish Menon,Kumar Dharmasena,normal,0
+533,2022-03-11,M. Chinnaswamy Stadium,Bangalore,Sunrisers Hyderabad,field,Mumbai Indians,Sunrisers Hyderabad,0,4,Jos Buttler,Kumar Dharmasena,Chris Gaffaney,normal,0
+534,2023-12-05,Rajiv Gandhi International Stadium,Hyderabad,Delhi Capitals,field,Rajasthan Royals,Rajasthan Royals,95,0,Suryakumar Yadav,Nitish Menon,Kumar Dharmasena,tie,0
+535,2020-03-19,Punjab Cricket Association Stadium,Mohali,Delhi Capitals,field,Rajasthan Royals,Delhi Capitals,0,9,Hardik Pandya,Kumar Dharmasena,Nitish Menon,normal,1
+536,2020-02-27,Punjab Cricket Association Stadium,Mohali,Sunrisers Hyderabad,field,Rajasthan Royals,Sunrisers Hyderabad,0,4,Rashid Khan,Chris Gaffaney,Sunil Kumar,normal,0
+537,2021-02-14,Wankhede Stadium,Mumbai,Rajasthan Royals,field,Gujarat Titans,Rajasthan Royals,0,4,Andre Russell,Sunil Kumar,Kumar Dharmasena,normal,0
+538,2021-04-30,Arun Jaitley Stadium,Delhi,Punjab Kings,bat,Punjab Kings,Punjab Kings,9,0,Shubman Gill,Chris Gaffaney,Kumar Dharmasena,normal,0
+539,2023-03-18,Rajiv Gandhi International Stadium,Hyderabad,Kolkata Knight Riders,bat,Kolkata Knight Riders,Chennai Super Kings,0,6,MS Dhoni,Chris Gaffaney,Nitish Menon,normal,1
+540,2022-06-05,Sawai Mansingh Stadium,Jaipur,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,Sunrisers Hyderabad,55,0,Shubman Gill,Chris Gaffaney,Sunil Kumar,normal,0
+541,2019-12-27,M. Chinnaswamy Stadium,Bangalore,Kolkata Knight Riders,field,Sunrisers Hyderabad,Kolkata Knight Riders,0,2,Ravindra Jadeja,Chris Gaffaney,Richard Illingworth,normal,0
+542,2018-10-15,Arun Jaitley Stadium,Delhi,Delhi Capitals,bat,Delhi Capitals,Delhi Capitals,65,0,Jasprit Bumrah,Chris Gaffaney,Nitish Menon,normal,0
+543,2018-06-18,Eden Gardens,Kolkata,Lucknow Super Giants,bat,Lucknow Super Giants,Lucknow Super Giants,38,0,Jasprit Bumrah,Kumar Dharmasena,Kumar Dharmasena,normal,0
+544,2023-10-23,M. Chinnaswamy Stadium,Bangalore,Rajasthan Royals,bat,Rajasthan Royals,Rajasthan Royals,53,0,Sanju Samson,Sunil Kumar,Nitish Menon,normal,0
+545,2020-06-30,Wankhede Stadium,Mumbai,Chennai Super Kings,field,Gujarat Titans,Gujarat Titans,38,0,Virat Kohli,Nitish Menon,Nitish Menon,normal,1
+546,2025-02-08,M. Chinnaswamy Stadium,Bangalore,Rajasthan Royals,field,Sunrisers Hyderabad,Sunrisers Hyderabad,14,0,Jos Buttler,Nitish Menon,Kumar Dharmasena,normal,1
+547,2021-10-28,M. Chinnaswamy Stadium,Bangalore,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,Mumbai Indians,0,7,Virat Kohli,Chris Gaffaney,Richard Illingworth,tie,0
+548,2021-08-06,Wankhede Stadium,Mumbai,Punjab Kings,field,Gujarat Titans,Gujarat Titans,80,0,Andre Russell,Richard Illingworth,Richard Illingworth,normal,0
+549,2019-10-26,Sawai Mansingh Stadium,Jaipur,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,Punjab Kings,0,1,David Warner,Nitish Menon,Sunil Kumar,normal,0
+550,2024-11-29,Wankhede Stadium,Mumbai,Lucknow Super Giants,bat,Lucknow Super Giants,Rajasthan Royals,0,6,Suryakumar Yadav,Sunil Kumar,Richard Illingworth,normal,0
+551,2019-02-26,Wankhede Stadium,Mumbai,Mumbai Indians,field,Gujarat Titans,Gujarat Titans,11,0,Virat Kohli,Richard Illingworth,Sunil Kumar,normal,0
+552,2021-03-21,Wankhede Stadium,Mumbai,Punjab Kings,field,Delhi Capitals,Delhi Capitals,68,0,Hardik Pandya,Kumar Dharmasena,Chris Gaffaney,normal,0
+553,2022-07-08,Sawai Mansingh Stadium,Jaipur,Royal Challengers Bangalore,field,Gujarat Titans,Royal Challengers Bangalore,0,3,MS Dhoni,Nitish Menon,Chris Gaffaney,normal,0
+554,2022-04-01,BRSABV Ekana Stadium,Lucknow,Delhi Capitals,bat,Delhi Capitals,Delhi Capitals,47,0,Hardik Pandya,Kumar Dharmasena,Nitish Menon,normal,0
+555,2022-11-14,Rajiv Gandhi International Stadium,Hyderabad,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,Royal Challengers Bangalore,44,0,Shubman Gill,Sunil Kumar,Nitish Menon,normal,0
+556,2021-07-22,M. Chinnaswamy Stadium,Bangalore,Gujarat Titans,bat,Gujarat Titans,Delhi Capitals,0,3,Hardik Pandya,Richard Illingworth,Kumar Dharmasena,normal,0
+557,2020-03-03,Arun Jaitley Stadium,Delhi,Gujarat Titans,field,Sunrisers Hyderabad,Gujarat Titans,0,4,Ravindra Jadeja,Chris Gaffaney,Kumar Dharmasena,tie,0
+558,2019-12-19,M. Chinnaswamy Stadium,Bangalore,Gujarat Titans,field,Chennai Super Kings,Gujarat Titans,0,2,MS Dhoni,Sunil Kumar,Kumar Dharmasena,normal,0
+559,2025-01-10,Punjab Cricket Association Stadium,Mohali,Gujarat Titans,bat,Gujarat Titans,Gujarat Titans,20,0,MS Dhoni,Richard Illingworth,Richard Illingworth,normal,0
+560,2020-04-30,BRSABV Ekana Stadium,Lucknow,Mumbai Indians,bat,Mumbai Indians,Mumbai Indians,99,0,Shubman Gill,Kumar Dharmasena,Richard Illingworth,normal,0
+561,2023-05-30,Rajiv Gandhi International Stadium,Hyderabad,Rajasthan Royals,field,Chennai Super Kings,Rajasthan Royals,0,1,Jasprit Bumrah,Kumar Dharmasena,Kumar Dharmasena,normal,0
+562,2019-01-31,Wankhede Stadium,Mumbai,Gujarat Titans,field,Kolkata Knight Riders,Kolkata Knight Riders,51,0,Sanju Samson,Chris Gaffaney,Sunil Kumar,normal,0
+563,2019-10-13,Wankhede Stadium,Mumbai,Lucknow Super Giants,field,Chennai Super Kings,Lucknow Super Giants,0,5,KL Rahul,Sunil Kumar,Sunil Kumar,normal,0
+564,2023-01-29,Punjab Cricket Association Stadium,Mohali,Punjab Kings,field,Rajasthan Royals,Punjab Kings,0,2,KL Rahul,Chris Gaffaney,Chris Gaffaney,normal,0
+565,2022-07-03,Wankhede Stadium,Mumbai,Kolkata Knight Riders,bat,Kolkata Knight Riders,Mumbai Indians,0,5,Ravindra Jadeja,Chris Gaffaney,Chris Gaffaney,normal,0
+566,2023-07-03,Sawai Mansingh Stadium,Jaipur,Gujarat Titans,bat,Gujarat Titans,Gujarat Titans,47,0,Virat Kohli,Chris Gaffaney,Chris Gaffaney,normal,0
+567,2023-08-13,Arun Jaitley Stadium,Delhi,Rajasthan Royals,field,Gujarat Titans,Gujarat Titans,27,0,KL Rahul,Kumar Dharmasena,Kumar Dharmasena,normal,0
+568,2022-12-14,Wankhede Stadium,Mumbai,Delhi Capitals,field,Gujarat Titans,Gujarat Titans,43,0,Andre Russell,Chris Gaffaney,Kumar Dharmasena,tie,0
+569,2018-04-13,BRSABV Ekana Stadium,Lucknow,Lucknow Super Giants,field,Gujarat Titans,Lucknow Super Giants,0,8,Hardik Pandya,Sunil Kumar,Sunil Kumar,normal,0
+570,2023-04-09,Rajiv Gandhi International Stadium,Hyderabad,Mumbai Indians,bat,Mumbai Indians,Mumbai Indians,98,0,Andre Russell,Nitish Menon,Chris Gaffaney,normal,1
+571,2021-08-01,Punjab Cricket Association Stadium,Mohali,Gujarat Titans,field,Delhi Capitals,Gujarat Titans,0,9,Andre Russell,Richard Illingworth,Richard Illingworth,normal,0
+572,2024-10-29,M. Chinnaswamy Stadium,Bangalore,Chennai Super Kings,bat,Chennai Super Kings,Chennai Super Kings,74,0,Virat Kohli,Chris Gaffaney,Kumar Dharmasena,normal,0
+573,2024-05-02,Rajiv Gandhi International Stadium,Hyderabad,Lucknow Super Giants,field,Sunrisers Hyderabad,Lucknow Super Giants,0,7,Ravindra Jadeja,Richard Illingworth,Sunil Kumar,normal,0
+574,2023-07-22,Wankhede Stadium,Mumbai,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,Sunrisers Hyderabad,30,0,Jasprit Bumrah,Kumar Dharmasena,Sunil Kumar,normal,0
+575,2020-04-10,Rajiv Gandhi International Stadium,Hyderabad,Punjab Kings,field,Delhi Capitals,Punjab Kings,0,2,MS Dhoni,Richard Illingworth,Chris Gaffaney,normal,0
+576,2022-01-27,Narendra Modi Stadium,Ahmedabad,Gujarat Titans,field,Sunrisers Hyderabad,Sunrisers Hyderabad,62,0,Rishabh Pant,Richard Illingworth,Nitish Menon,normal,0
+577,2019-01-06,Rajiv Gandhi International Stadium,Hyderabad,Delhi Capitals,field,Gujarat Titans,Delhi Capitals,0,4,Ravindra Jadeja,Sunil Kumar,Sunil Kumar,normal,0
+578,2023-02-16,M. Chinnaswamy Stadium,Bangalore,Lucknow Super Giants,field,Chennai Super Kings,Lucknow Super Giants,0,1,Jasprit Bumrah,Chris Gaffaney,Nitish Menon,normal,0
+579,2019-01-07,M. Chinnaswamy Stadium,Bangalore,Lucknow Super Giants,field,Gujarat Titans,Gujarat Titans,70,0,Jasprit Bumrah,Sunil Kumar,Nitish Menon,normal,0
+580,2022-10-17,Narendra Modi Stadium,Ahmedabad,Gujarat Titans,field,Sunrisers Hyderabad,Gujarat Titans,0,8,Andre Russell,Richard Illingworth,Richard Illingworth,tie,0
+581,2020-04-14,Narendra Modi Stadium,Ahmedabad,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,Chennai Super Kings,0,6,Rashid Khan,Kumar Dharmasena,Sunil Kumar,normal,0
+582,2022-03-10,Wankhede Stadium,Mumbai,Kolkata Knight Riders,bat,Kolkata Knight Riders,Kolkata Knight Riders,32,0,Rohit Sharma,Richard Illingworth,Nitish Menon,tie,1
+583,2018-03-10,BRSABV Ekana Stadium,Lucknow,Delhi Capitals,bat,Delhi Capitals,Royal Challengers Bangalore,0,5,Hardik Pandya,Sunil Kumar,Chris Gaffaney,normal,1
+584,2021-11-21,M. Chinnaswamy Stadium,Bangalore,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,Chennai Super Kings,0,9,Suryakumar Yadav,Sunil Kumar,Chris Gaffaney,normal,0
+585,2024-07-18,Eden Gardens,Kolkata,Delhi Capitals,field,Royal Challengers Bangalore,Delhi Capitals,0,5,Jos Buttler,Sunil Kumar,Nitish Menon,normal,0
+586,2018-03-08,M. Chinnaswamy Stadium,Bangalore,Gujarat Titans,bat,Gujarat Titans,Gujarat Titans,30,0,MS Dhoni,Kumar Dharmasena,Sunil Kumar,normal,0
+587,2024-03-12,Rajiv Gandhi International Stadium,Hyderabad,Royal Challengers Bangalore,field,Chennai Super Kings,Chennai Super Kings,27,0,MS Dhoni,Sunil Kumar,Chris Gaffaney,normal,0
+588,2024-05-01,Arun Jaitley Stadium,Delhi,Rajasthan Royals,bat,Rajasthan Royals,Delhi Capitals,0,8,Rashid Khan,Nitish Menon,Kumar Dharmasena,normal,0
+589,2022-09-09,BRSABV Ekana Stadium,Lucknow,Delhi Capitals,field,Rajasthan Royals,Delhi Capitals,0,4,Suryakumar Yadav,Nitish Menon,Sunil Kumar,normal,0
+590,2023-06-03,Sawai Mansingh Stadium,Jaipur,Sunrisers Hyderabad,field,Chennai Super Kings,Chennai Super Kings,91,0,Andre Russell,Sunil Kumar,Sunil Kumar,normal,0
+591,2020-08-02,Punjab Cricket Association Stadium,Mohali,Punjab Kings,bat,Punjab Kings,Punjab Kings,74,0,Rashid Khan,Chris Gaffaney,Chris Gaffaney,normal,0
+592,2023-02-07,Arun Jaitley Stadium,Delhi,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,Lucknow Super Giants,0,1,Jasprit Bumrah,Richard Illingworth,Richard Illingworth,normal,0
+593,2023-09-20,Punjab Cricket Association Stadium,Mohali,Royal Challengers Bangalore,field,Chennai Super Kings,Royal Challengers Bangalore,0,1,David Warner,Sunil Kumar,Chris Gaffaney,normal,0
+594,2018-07-03,Narendra Modi Stadium,Ahmedabad,Kolkata Knight Riders,field,Gujarat Titans,Gujarat Titans,24,0,Andre Russell,Kumar Dharmasena,Richard Illingworth,normal,0
+595,2018-10-23,Wankhede Stadium,Mumbai,Punjab Kings,bat,Punjab Kings,Punjab Kings,35,0,MS Dhoni,Sunil Kumar,Sunil Kumar,normal,1
+596,2021-01-11,BRSABV Ekana Stadium,Lucknow,Lucknow Super Giants,bat,Lucknow Super Giants,Lucknow Super Giants,43,0,MS Dhoni,Kumar Dharmasena,Nitish Menon,normal,0
+597,2022-02-09,Eden Gardens,Kolkata,Punjab Kings,field,Royal Challengers Bangalore,Royal Challengers Bangalore,28,0,Jos Buttler,Richard Illingworth,Chris Gaffaney,normal,0
+598,2019-12-02,Eden Gardens,Kolkata,Chennai Super Kings,bat,Chennai Super Kings,Chennai Super Kings,94,0,Rohit Sharma,Sunil Kumar,Chris Gaffaney,normal,0
+599,2023-02-20,Arun Jaitley Stadium,Delhi,Lucknow Super Giants,field,Rajasthan Royals,Rajasthan Royals,96,0,Sanju Samson,Richard Illingworth,Richard Illingworth,normal,0
+600,2023-05-08,Eden Gardens,Kolkata,Chennai Super Kings,field,Mumbai Indians,Mumbai Indians,42,0,Ravindra Jadeja,Nitish Menon,Chris Gaffaney,normal,1
+601,2021-04-28,Punjab Cricket Association Stadium,Mohali,Delhi Capitals,bat,Delhi Capitals,Delhi Capitals,48,0,Andre Russell,Richard Illingworth,Nitish Menon,normal,0
+602,2019-09-17,Wankhede Stadium,Mumbai,Delhi Capitals,field,Lucknow Super Giants,Delhi Capitals,0,2,Rohit Sharma,Sunil Kumar,Sunil Kumar,normal,0
+603,2020-05-15,Rajiv Gandhi International Stadium,Hyderabad,Gujarat Titans,field,Rajasthan Royals,Rajasthan Royals,100,0,Sanju Samson,Kumar Dharmasena,Kumar Dharmasena,normal,0
+604,2023-11-16,BRSABV Ekana Stadium,Lucknow,Gujarat Titans,field,Royal Challengers Bangalore,Gujarat Titans,0,2,Suryakumar Yadav,Chris Gaffaney,Nitish Menon,normal,0
+605,2022-12-23,Rajiv Gandhi International Stadium,Hyderabad,Kolkata Knight Riders,bat,Kolkata Knight Riders,Kolkata Knight Riders,62,0,MS Dhoni,Sunil Kumar,Richard Illingworth,normal,0
+606,2020-02-17,Arun Jaitley Stadium,Delhi,Gujarat Titans,bat,Gujarat Titans,Gujarat Titans,72,0,Suryakumar Yadav,Richard Illingworth,Kumar Dharmasena,normal,0
+607,2018-06-05,Arun Jaitley Stadium,Delhi,Gujarat Titans,bat,Gujarat Titans,Gujarat Titans,66,0,Virat Kohli,Sunil Kumar,Richard Illingworth,normal,0
+608,2023-10-16,Narendra Modi Stadium,Ahmedabad,Royal Challengers Bangalore,field,Rajasthan Royals,Royal Challengers Bangalore,0,6,David Warner,Sunil Kumar,Sunil Kumar,normal,0
+609,2023-05-08,Rajiv Gandhi International Stadium,Hyderabad,Delhi Capitals,bat,Delhi Capitals,Punjab Kings,0,3,Suryakumar Yadav,Kumar Dharmasena,Kumar Dharmasena,normal,0
+610,2018-12-14,Narendra Modi Stadium,Ahmedabad,Lucknow Super Giants,field,Royal Challengers Bangalore,Lucknow Super Giants,0,3,Rashid Khan,Nitish Menon,Sunil Kumar,normal,0
+611,2021-12-14,Punjab Cricket Association Stadium,Mohali,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,Royal Challengers Bangalore,28,0,MS Dhoni,Chris Gaffaney,Sunil Kumar,normal,1
+612,2018-11-24,Wankhede Stadium,Mumbai,Delhi Capitals,field,Royal Challengers Bangalore,Royal Challengers Bangalore,88,0,Rishabh Pant,Nitish Menon,Richard Illingworth,normal,0
+613,2020-08-31,Wankhede Stadium,Mumbai,Chennai Super Kings,field,Rajasthan Royals,Chennai Super Kings,0,3,Jos Buttler,Nitish Menon,Kumar Dharmasena,normal,0
+614,2022-08-07,Eden Gardens,Kolkata,Kolkata Knight Riders,field,Chennai Super Kings,Kolkata Knight Riders,0,3,Suryakumar Yadav,Sunil Kumar,Kumar Dharmasena,normal,0
+615,2022-02-13,M. Chinnaswamy Stadium,Bangalore,Mumbai Indians,field,Chennai Super Kings,Mumbai Indians,0,1,Rishabh Pant,Nitish Menon,Kumar Dharmasena,normal,0
+616,2023-04-12,Rajiv Gandhi International Stadium,Hyderabad,Royal Challengers Bangalore,field,Mumbai Indians,Mumbai Indians,75,0,Andre Russell,Chris Gaffaney,Nitish Menon,normal,0
+617,2023-09-27,Wankhede Stadium,Mumbai,Lucknow Super Giants,field,Punjab Kings,Lucknow Super Giants,0,2,Hardik Pandya,Nitish Menon,Kumar Dharmasena,normal,0
+618,2023-11-29,Narendra Modi Stadium,Ahmedabad,Lucknow Super Giants,field,Sunrisers Hyderabad,Lucknow Super Giants,0,6,Rishabh Pant,Richard Illingworth,Chris Gaffaney,normal,0
+619,2022-07-14,Rajiv Gandhi International Stadium,Hyderabad,Mumbai Indians,bat,Mumbai Indians,Royal Challengers Bangalore,0,4,MS Dhoni,Richard Illingworth,Richard Illingworth,normal,0
+620,2021-05-29,Narendra Modi Stadium,Ahmedabad,Mumbai Indians,field,Sunrisers Hyderabad,Mumbai Indians,0,3,Rishabh Pant,Richard Illingworth,Sunil Kumar,normal,0
+621,2020-03-28,M. Chinnaswamy Stadium,Bangalore,Mumbai Indians,field,Punjab Kings,Mumbai Indians,0,4,Hardik Pandya,Nitish Menon,Chris Gaffaney,normal,1
+622,2019-02-08,M. Chinnaswamy Stadium,Bangalore,Rajasthan Royals,bat,Rajasthan Royals,Punjab Kings,0,8,Virat Kohli,Nitish Menon,Kumar Dharmasena,tie,0
+623,2023-08-23,Narendra Modi Stadium,Ahmedabad,Delhi Capitals,bat,Delhi Capitals,Delhi Capitals,17,0,Shubman Gill,Sunil Kumar,Kumar Dharmasena,normal,0
+624,2020-07-01,M. Chinnaswamy Stadium,Bangalore,Delhi Capitals,bat,Delhi Capitals,Delhi Capitals,94,0,Ravindra Jadeja,Nitish Menon,Chris Gaffaney,normal,0
+625,2020-09-23,M. Chinnaswamy Stadium,Bangalore,Rajasthan Royals,field,Lucknow Super Giants,Lucknow Super Giants,56,0,Rishabh Pant,Chris Gaffaney,Sunil Kumar,normal,0
+626,2021-01-12,Sawai Mansingh Stadium,Jaipur,Lucknow Super Giants,bat,Lucknow Super Giants,Lucknow Super Giants,33,0,Sanju Samson,Sunil Kumar,Kumar Dharmasena,normal,0
+627,2019-03-08,Eden Gardens,Kolkata,Rajasthan Royals,bat,Rajasthan Royals,Lucknow Super Giants,0,3,MS Dhoni,Nitish Menon,Nitish Menon,normal,0
+628,2024-06-27,Wankhede Stadium,Mumbai,Royal Challengers Bangalore,field,Mumbai Indians,Mumbai Indians,52,0,KL Rahul,Nitish Menon,Sunil Kumar,tie,0
+629,2021-07-04,BRSABV Ekana Stadium,Lucknow,Gujarat Titans,bat,Gujarat Titans,Gujarat Titans,49,0,Sanju Samson,Kumar Dharmasena,Kumar Dharmasena,normal,0
+630,2023-10-17,M. Chinnaswamy Stadium,Bangalore,Delhi Capitals,field,Rajasthan Royals,Rajasthan Royals,92,0,Rashid Khan,Richard Illingworth,Nitish Menon,normal,1
+631,2018-08-17,BRSABV Ekana Stadium,Lucknow,Lucknow Super Giants,bat,Lucknow Super Giants,Lucknow Super Giants,90,0,Rashid Khan,Nitish Menon,Kumar Dharmasena,normal,0
+632,2021-02-14,Eden Gardens,Kolkata,Mumbai Indians,bat,Mumbai Indians,Mumbai Indians,33,0,Rohit Sharma,Chris Gaffaney,Nitish Menon,tie,0
+633,2018-06-25,M. Chinnaswamy Stadium,Bangalore,Lucknow Super Giants,field,Punjab Kings,Lucknow Super Giants,0,7,Jos Buttler,Kumar Dharmasena,Richard Illingworth,normal,0
+634,2024-12-18,Eden Gardens,Kolkata,Lucknow Super Giants,bat,Lucknow Super Giants,Chennai Super Kings,0,5,Hardik Pandya,Richard Illingworth,Richard Illingworth,normal,0
+635,2019-06-10,Rajiv Gandhi International Stadium,Hyderabad,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,Rajasthan Royals,0,6,Jos Buttler,Kumar Dharmasena,Kumar Dharmasena,normal,0
+636,2021-10-20,M. Chinnaswamy Stadium,Bangalore,Sunrisers Hyderabad,field,Kolkata Knight Riders,Sunrisers Hyderabad,0,9,Ravindra Jadeja,Richard Illingworth,Chris Gaffaney,normal,0
+637,2020-07-22,Wankhede Stadium,Mumbai,Lucknow Super Giants,field,Gujarat Titans,Gujarat Titans,65,0,Jasprit Bumrah,Nitish Menon,Nitish Menon,normal,0
+638,2024-05-28,Punjab Cricket Association Stadium,Mohali,Punjab Kings,field,Gujarat Titans,Gujarat Titans,45,0,Shubman Gill,Chris Gaffaney,Nitish Menon,normal,0
+639,2024-08-17,Wankhede Stadium,Mumbai,Lucknow Super Giants,field,Mumbai Indians,Mumbai Indians,97,0,MS Dhoni,Chris Gaffaney,Sunil Kumar,normal,1
+640,2020-04-11,Rajiv Gandhi International Stadium,Hyderabad,Gujarat Titans,bat,Gujarat Titans,Gujarat Titans,40,0,Suryakumar Yadav,Sunil Kumar,Chris Gaffaney,normal,0
+641,2025-04-12,Punjab Cricket Association Stadium,Mohali,Lucknow Super Giants,bat,Lucknow Super Giants,Royal Challengers Bangalore,0,5,Ravindra Jadeja,Nitish Menon,Kumar Dharmasena,normal,0
+642,2021-07-07,Rajiv Gandhi International Stadium,Hyderabad,Mumbai Indians,bat,Mumbai Indians,Mumbai Indians,9,0,Hardik Pandya,Chris Gaffaney,Richard Illingworth,normal,0
+643,2020-02-28,Wankhede Stadium,Mumbai,Gujarat Titans,field,Lucknow Super Giants,Gujarat Titans,0,5,MS Dhoni,Nitish Menon,Kumar Dharmasena,normal,0
+644,2023-06-07,Wankhede Stadium,Mumbai,Delhi Capitals,bat,Delhi Capitals,Delhi Capitals,14,0,Sanju Samson,Richard Illingworth,Sunil Kumar,normal,0
+645,2024-06-02,Narendra Modi Stadium,Ahmedabad,Kolkata Knight Riders,field,Delhi Capitals,Kolkata Knight Riders,0,9,Suryakumar Yadav,Nitish Menon,Richard Illingworth,normal,0
+646,2024-12-12,Rajiv Gandhi International Stadium,Hyderabad,Mumbai Indians,field,Delhi Capitals,Mumbai Indians,0,1,MS Dhoni,Kumar Dharmasena,Kumar Dharmasena,normal,0
+647,2022-08-28,Rajiv Gandhi International Stadium,Hyderabad,Lucknow Super Giants,bat,Lucknow Super Giants,Lucknow Super Giants,41,0,Andre Russell,Kumar Dharmasena,Richard Illingworth,normal,0
+648,2018-06-13,Wankhede Stadium,Mumbai,Lucknow Super Giants,bat,Lucknow Super Giants,Royal Challengers Bangalore,0,4,David Warner,Kumar Dharmasena,Sunil Kumar,normal,0
+649,2021-03-29,Narendra Modi Stadium,Ahmedabad,Lucknow Super Giants,bat,Lucknow Super Giants,Mumbai Indians,0,9,Rishabh Pant,Chris Gaffaney,Nitish Menon,normal,0
+650,2023-06-28,Punjab Cricket Association Stadium,Mohali,Royal Challengers Bangalore,field,Mumbai Indians,Mumbai Indians,28,0,Jos Buttler,Nitish Menon,Chris Gaffaney,normal,0
+651,2019-08-28,Narendra Modi Stadium,Ahmedabad,Punjab Kings,field,Sunrisers Hyderabad,Punjab Kings,0,7,Andre Russell,Chris Gaffaney,Richard Illingworth,normal,0
+652,2022-10-21,Sawai Mansingh Stadium,Jaipur,Kolkata Knight Riders,field,Punjab Kings,Punjab Kings,81,0,Suryakumar Yadav,Kumar Dharmasena,Nitish Menon,normal,0
+653,2025-04-27,Punjab Cricket Association Stadium,Mohali,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,Chennai Super Kings,0,5,Virat Kohli,Richard Illingworth,Kumar Dharmasena,normal,0
+654,2019-06-02,BRSABV Ekana Stadium,Lucknow,Gujarat Titans,field,Kolkata Knight Riders,Kolkata Knight Riders,87,0,Andre Russell,Kumar Dharmasena,Nitish Menon,normal,0
+655,2024-01-21,Rajiv Gandhi International Stadium,Hyderabad,Delhi Capitals,bat,Delhi Capitals,Lucknow Super Giants,0,7,Sanju Samson,Sunil Kumar,Sunil Kumar,normal,0
+656,2020-12-19,Narendra Modi Stadium,Ahmedabad,Punjab Kings,field,Rajasthan Royals,Punjab Kings,0,9,Andre Russell,Kumar Dharmasena,Richard Illingworth,normal,0
+657,2018-09-28,M. Chinnaswamy Stadium,Bangalore,Chennai Super Kings,bat,Chennai Super Kings,Chennai Super Kings,9,0,MS Dhoni,Chris Gaffaney,Chris Gaffaney,normal,0
+658,2021-04-06,Punjab Cricket Association Stadium,Mohali,Kolkata Knight Riders,field,Chennai Super Kings,Chennai Super Kings,24,0,Suryakumar Yadav,Sunil Kumar,Kumar Dharmasena,normal,0
+659,2018-11-13,Arun Jaitley Stadium,Delhi,Lucknow Super Giants,field,Mumbai Indians,Lucknow Super Giants,0,3,Hardik Pandya,Richard Illingworth,Richard Illingworth,normal,0
+660,2018-12-31,Arun Jaitley Stadium,Delhi,Kolkata Knight Riders,bat,Kolkata Knight Riders,Punjab Kings,0,3,KL Rahul,Chris Gaffaney,Sunil Kumar,normal,0
+661,2021-12-18,Wankhede Stadium,Mumbai,Chennai Super Kings,bat,Chennai Super Kings,Chennai Super Kings,22,0,Rohit Sharma,Chris Gaffaney,Chris Gaffaney,normal,0
+662,2021-09-04,M. Chinnaswamy Stadium,Bangalore,Sunrisers Hyderabad,field,Punjab Kings,Punjab Kings,8,0,David Warner,Kumar Dharmasena,Sunil Kumar,normal,0
+663,2020-05-09,Arun Jaitley Stadium,Delhi,Mumbai Indians,bat,Mumbai Indians,Mumbai Indians,45,0,KL Rahul,Richard Illingworth,Sunil Kumar,normal,0
+664,2019-11-01,Rajiv Gandhi International Stadium,Hyderabad,Lucknow Super Giants,bat,Lucknow Super Giants,Sunrisers Hyderabad,0,2,David Warner,Nitish Menon,Kumar Dharmasena,normal,0
+665,2025-01-08,Arun Jaitley Stadium,Delhi,Rajasthan Royals,bat,Rajasthan Royals,Rajasthan Royals,94,0,Jasprit Bumrah,Nitish Menon,Nitish Menon,normal,0
+666,2022-10-30,Wankhede Stadium,Mumbai,Punjab Kings,field,Sunrisers Hyderabad,Punjab Kings,0,6,KL Rahul,Chris Gaffaney,Richard Illingworth,normal,0
+667,2021-06-22,Narendra Modi Stadium,Ahmedabad,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,Mumbai Indians,0,1,Ravindra Jadeja,Sunil Kumar,Kumar Dharmasena,normal,0
+668,2019-10-15,Wankhede Stadium,Mumbai,Chennai Super Kings,field,Delhi Capitals,Delhi Capitals,28,0,Ravindra Jadeja,Kumar Dharmasena,Chris Gaffaney,normal,0
+669,2019-05-21,Sawai Mansingh Stadium,Jaipur,Chennai Super Kings,bat,Chennai Super Kings,Royal Challengers Bangalore,0,9,KL Rahul,Kumar Dharmasena,Richard Illingworth,normal,1
+670,2025-01-26,M. Chinnaswamy Stadium,Bangalore,Rajasthan Royals,field,Sunrisers Hyderabad,Rajasthan Royals,0,4,David Warner,Sunil Kumar,Chris Gaffaney,normal,0
+671,2019-08-08,Sawai Mansingh Stadium,Jaipur,Kolkata Knight Riders,bat,Kolkata Knight Riders,Chennai Super Kings,0,2,Virat Kohli,Richard Illingworth,Sunil Kumar,normal,0
+672,2021-12-09,Sawai Mansingh Stadium,Jaipur,Chennai Super Kings,field,Sunrisers Hyderabad,Sunrisers Hyderabad,60,0,Hardik Pandya,Kumar Dharmasena,Richard Illingworth,normal,0
+673,2025-04-25,Eden Gardens,Kolkata,Kolkata Knight Riders,field,Chennai Super Kings,Kolkata Knight Riders,0,9,Rohit Sharma,Chris Gaffaney,Nitish Menon,normal,0
+674,2024-09-17,Narendra Modi Stadium,Ahmedabad,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,Royal Challengers Bangalore,69,0,Jos Buttler,Nitish Menon,Richard Illingworth,normal,0
+675,2023-02-08,Arun Jaitley Stadium,Delhi,Punjab Kings,field,Delhi Capitals,Delhi Capitals,50,0,David Warner,Richard Illingworth,Richard Illingworth,normal,0
+676,2019-01-23,Eden Gardens,Kolkata,Lucknow Super Giants,bat,Lucknow Super Giants,Sunrisers Hyderabad,0,5,Rohit Sharma,Chris Gaffaney,Nitish Menon,normal,0
+677,2024-03-18,Wankhede Stadium,Mumbai,Kolkata Knight Riders,bat,Kolkata Knight Riders,Kolkata Knight Riders,80,0,Sanju Samson,Richard Illingworth,Kumar Dharmasena,normal,0
+678,2025-04-19,BRSABV Ekana Stadium,Lucknow,Lucknow Super Giants,field,Sunrisers Hyderabad,Lucknow Super Giants,0,9,David Warner,Kumar Dharmasena,Nitish Menon,normal,0
+679,2024-01-21,Narendra Modi Stadium,Ahmedabad,Chennai Super Kings,field,Sunrisers Hyderabad,Chennai Super Kings,0,8,Jasprit Bumrah,Sunil Kumar,Nitish Menon,normal,0
+680,2023-08-05,M. Chinnaswamy Stadium,Bangalore,Lucknow Super Giants,bat,Lucknow Super Giants,Lucknow Super Giants,14,0,Rohit Sharma,Kumar Dharmasena,Nitish Menon,normal,0
+681,2020-10-27,Narendra Modi Stadium,Ahmedabad,Mumbai Indians,field,Rajasthan Royals,Rajasthan Royals,30,0,Jasprit Bumrah,Kumar Dharmasena,Nitish Menon,normal,0
+682,2018-07-25,Wankhede Stadium,Mumbai,Punjab Kings,field,Rajasthan Royals,Rajasthan Royals,81,0,David Warner,Kumar Dharmasena,Nitish Menon,normal,0
+683,2024-05-28,Punjab Cricket Association Stadium,Mohali,Chennai Super Kings,bat,Chennai Super Kings,Mumbai Indians,0,1,Sanju Samson,Kumar Dharmasena,Kumar Dharmasena,normal,1
+684,2024-04-25,Arun Jaitley Stadium,Delhi,Gujarat Titans,bat,Gujarat Titans,Gujarat Titans,78,0,Jasprit Bumrah,Chris Gaffaney,Sunil Kumar,normal,0
+685,2022-12-07,Sawai Mansingh Stadium,Jaipur,Delhi Capitals,bat,Delhi Capitals,Delhi Capitals,36,0,Sanju Samson,Chris Gaffaney,Richard Illingworth,normal,0
+686,2018-05-11,M. Chinnaswamy Stadium,Bangalore,Kolkata Knight Riders,bat,Kolkata Knight Riders,Delhi Capitals,0,4,KL Rahul,Nitish Menon,Nitish Menon,normal,0
+687,2020-11-20,Rajiv Gandhi International Stadium,Hyderabad,Rajasthan Royals,field,Sunrisers Hyderabad,Sunrisers Hyderabad,11,0,Hardik Pandya,Kumar Dharmasena,Nitish Menon,tie,0
+688,2023-07-16,Arun Jaitley Stadium,Delhi,Punjab Kings,bat,Punjab Kings,Punjab Kings,65,0,Suryakumar Yadav,Sunil Kumar,Richard Illingworth,normal,0
+689,2020-10-31,M. Chinnaswamy Stadium,Bangalore,Gujarat Titans,field,Chennai Super Kings,Chennai Super Kings,70,0,Jos Buttler,Nitish Menon,Chris Gaffaney,normal,0
+690,2021-11-26,Narendra Modi Stadium,Ahmedabad,Chennai Super Kings,bat,Chennai Super Kings,Chennai Super Kings,26,0,Sanju Samson,Chris Gaffaney,Sunil Kumar,normal,1
+691,2024-03-10,Rajiv Gandhi International Stadium,Hyderabad,Rajasthan Royals,bat,Rajasthan Royals,Rajasthan Royals,17,0,Hardik Pandya,Nitish Menon,Nitish Menon,normal,0
+692,2020-01-16,Eden Gardens,Kolkata,Sunrisers Hyderabad,field,Chennai Super Kings,Chennai Super Kings,20,0,Shubman Gill,Richard Illingworth,Richard Illingworth,normal,0
+693,2023-02-25,BRSABV Ekana Stadium,Lucknow,Lucknow Super Giants,bat,Lucknow Super Giants,Mumbai Indians,0,4,Rishabh Pant,Sunil Kumar,Chris Gaffaney,normal,0
+694,2020-11-12,Wankhede Stadium,Mumbai,Delhi Capitals,bat,Delhi Capitals,Chennai Super Kings,0,3,Rohit Sharma,Kumar Dharmasena,Richard Illingworth,normal,0
+695,2019-09-24,BRSABV Ekana Stadium,Lucknow,Punjab Kings,bat,Punjab Kings,Gujarat Titans,0,7,Rohit Sharma,Kumar Dharmasena,Nitish Menon,normal,0
+696,2024-08-06,Eden Gardens,Kolkata,Sunrisers Hyderabad,field,Chennai Super Kings,Sunrisers Hyderabad,0,7,Jos Buttler,Kumar Dharmasena,Nitish Menon,normal,0
+697,2020-05-15,Arun Jaitley Stadium,Delhi,Punjab Kings,bat,Punjab Kings,Punjab Kings,56,0,Hardik Pandya,Sunil Kumar,Sunil Kumar,tie,0
+698,2022-11-10,Punjab Cricket Association Stadium,Mohali,Kolkata Knight Riders,field,Punjab Kings,Kolkata Knight Riders,0,4,David Warner,Nitish Menon,Nitish Menon,normal,0
+699,2021-09-18,Rajiv Gandhi International Stadium,Hyderabad,Mumbai Indians,bat,Mumbai Indians,Mumbai Indians,90,0,Sanju Samson,Kumar Dharmasena,Nitish Menon,normal,0
+700,2024-03-21,Punjab Cricket Association Stadium,Mohali,Lucknow Super Giants,bat,Lucknow Super Giants,Lucknow Super Giants,95,0,MS Dhoni,Richard Illingworth,Chris Gaffaney,normal,0
+701,2021-09-14,Punjab Cricket Association Stadium,Mohali,Mumbai Indians,bat,Mumbai Indians,Mumbai Indians,67,0,Shubman Gill,Chris Gaffaney,Richard Illingworth,normal,0
+702,2021-10-04,Arun Jaitley Stadium,Delhi,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,Sunrisers Hyderabad,66,0,Rishabh Pant,Kumar Dharmasena,Sunil Kumar,normal,0
+703,2024-02-06,Punjab Cricket Association Stadium,Mohali,Lucknow Super Giants,field,Kolkata Knight Riders,Kolkata Knight Riders,16,0,Suryakumar Yadav,Sunil Kumar,Chris Gaffaney,normal,0
+704,2022-12-15,Eden Gardens,Kolkata,Gujarat Titans,field,Lucknow Super Giants,Gujarat Titans,0,8,Virat Kohli,Nitish Menon,Kumar Dharmasena,tie,0
+705,2023-03-12,Eden Gardens,Kolkata,Lucknow Super Giants,bat,Lucknow Super Giants,Lucknow Super Giants,47,0,Rashid Khan,Richard Illingworth,Richard Illingworth,normal,0
+706,2019-02-01,Eden Gardens,Kolkata,Lucknow Super Giants,bat,Lucknow Super Giants,Punjab Kings,0,6,Jos Buttler,Sunil Kumar,Chris Gaffaney,normal,0
+707,2022-12-25,Eden Gardens,Kolkata,Delhi Capitals,field,Sunrisers Hyderabad,Sunrisers Hyderabad,90,0,Sanju Samson,Richard Illingworth,Nitish Menon,normal,0
+708,2024-08-26,Sawai Mansingh Stadium,Jaipur,Delhi Capitals,bat,Delhi Capitals,Royal Challengers Bangalore,0,3,Suryakumar Yadav,Sunil Kumar,Nitish Menon,normal,0
+709,2021-07-30,BRSABV Ekana Stadium,Lucknow,Chennai Super Kings,field,Punjab Kings,Punjab Kings,85,0,Jos Buttler,Nitish Menon,Chris Gaffaney,normal,1
+710,2024-04-28,Sawai Mansingh Stadium,Jaipur,Chennai Super Kings,field,Sunrisers Hyderabad,Chennai Super Kings,0,9,Rashid Khan,Nitish Menon,Richard Illingworth,normal,0
+711,2024-08-03,Wankhede Stadium,Mumbai,Sunrisers Hyderabad,field,Kolkata Knight Riders,Sunrisers Hyderabad,0,7,Rashid Khan,Richard Illingworth,Nitish Menon,normal,0
+712,2022-07-27,Punjab Cricket Association Stadium,Mohali,Mumbai Indians,field,Gujarat Titans,Mumbai Indians,0,7,KL Rahul,Richard Illingworth,Sunil Kumar,normal,0
+713,2019-04-15,M. Chinnaswamy Stadium,Bangalore,Delhi Capitals,field,Lucknow Super Giants,Delhi Capitals,0,9,Sanju Samson,Sunil Kumar,Kumar Dharmasena,normal,0
+714,2024-08-26,Arun Jaitley Stadium,Delhi,Delhi Capitals,bat,Delhi Capitals,Delhi Capitals,27,0,Sanju Samson,Richard Illingworth,Nitish Menon,normal,1
+715,2019-04-15,Punjab Cricket Association Stadium,Mohali,Punjab Kings,field,Royal Challengers Bangalore,Royal Challengers Bangalore,6,0,Jos Buttler,Sunil Kumar,Sunil Kumar,normal,0
+716,2022-08-14,Wankhede Stadium,Mumbai,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,Sunrisers Hyderabad,0,3,Suryakumar Yadav,Kumar Dharmasena,Richard Illingworth,normal,0
+717,2019-08-14,Arun Jaitley Stadium,Delhi,Punjab Kings,bat,Punjab Kings,Punjab Kings,99,0,Jos Buttler,Sunil Kumar,Kumar Dharmasena,normal,0
+718,2018-05-23,Narendra Modi Stadium,Ahmedabad,Punjab Kings,bat,Punjab Kings,Mumbai Indians,0,9,Andre Russell,Chris Gaffaney,Nitish Menon,normal,0
+719,2022-06-20,Punjab Cricket Association Stadium,Mohali,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,Mumbai Indians,0,2,KL Rahul,Chris Gaffaney,Chris Gaffaney,normal,0
+720,2020-06-29,Rajiv Gandhi International Stadium,Hyderabad,Royal Challengers Bangalore,field,Lucknow Super Giants,Royal Challengers Bangalore,0,1,Andre Russell,Richard Illingworth,Nitish Menon,tie,0
+721,2022-11-13,BRSABV Ekana Stadium,Lucknow,Punjab Kings,bat,Punjab Kings,Punjab Kings,45,0,Sanju Samson,Richard Illingworth,Kumar Dharmasena,normal,0
+722,2019-12-05,Arun Jaitley Stadium,Delhi,Rajasthan Royals,bat,Rajasthan Royals,Rajasthan Royals,27,0,Hardik Pandya,Richard Illingworth,Kumar Dharmasena,tie,0
+723,2022-05-16,BRSABV Ekana Stadium,Lucknow,Mumbai Indians,bat,Mumbai Indians,Mumbai Indians,54,0,MS Dhoni,Richard Illingworth,Sunil Kumar,normal,0
+724,2024-07-15,Sawai Mansingh Stadium,Jaipur,Rajasthan Royals,field,Kolkata Knight Riders,Rajasthan Royals,0,8,Rohit Sharma,Nitish Menon,Richard Illingworth,normal,0
+725,2023-12-22,M. Chinnaswamy Stadium,Bangalore,Chennai Super Kings,field,Punjab Kings,Chennai Super Kings,0,5,Jos Buttler,Richard Illingworth,Sunil Kumar,normal,0
+726,2025-05-12,Rajiv Gandhi International Stadium,Hyderabad,Delhi Capitals,bat,Delhi Capitals,Delhi Capitals,28,0,KL Rahul,Richard Illingworth,Sunil Kumar,tie,0
+727,2023-04-01,Eden Gardens,Kolkata,Mumbai Indians,field,Chennai Super Kings,Mumbai Indians,0,7,Jos Buttler,Nitish Menon,Chris Gaffaney,normal,0
+728,2024-02-23,Narendra Modi Stadium,Ahmedabad,Kolkata Knight Riders,bat,Kolkata Knight Riders,Kolkata Knight Riders,77,0,Jasprit Bumrah,Nitish Menon,Chris Gaffaney,normal,0
+729,2021-12-14,BRSABV Ekana Stadium,Lucknow,Mumbai Indians,field,Rajasthan Royals,Mumbai Indians,0,1,Rashid Khan,Richard Illingworth,Nitish Menon,normal,0
+730,2020-06-07,Eden Gardens,Kolkata,Chennai Super Kings,bat,Chennai Super Kings,Gujarat Titans,0,5,David Warner,Nitish Menon,Nitish Menon,normal,0
+731,2019-07-20,Arun Jaitley Stadium,Delhi,Punjab Kings,field,Kolkata Knight Riders,Punjab Kings,0,5,Virat Kohli,Kumar Dharmasena,Sunil Kumar,normal,0
+732,2019-12-24,M. Chinnaswamy Stadium,Bangalore,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,Sunrisers Hyderabad,0,4,Shubman Gill,Kumar Dharmasena,Chris Gaffaney,normal,0
+733,2022-05-07,Narendra Modi Stadium,Ahmedabad,Royal Challengers Bangalore,field,Rajasthan Royals,Royal Challengers Bangalore,0,8,Hardik Pandya,Sunil Kumar,Richard Illingworth,normal,0
+734,2025-02-08,Punjab Cricket Association Stadium,Mohali,Sunrisers Hyderabad,field,Delhi Capitals,Delhi Capitals,81,0,Hardik Pandya,Nitish Menon,Richard Illingworth,normal,0
+735,2020-07-19,BRSABV Ekana Stadium,Lucknow,Delhi Capitals,bat,Delhi Capitals,Delhi Capitals,43,0,David Warner,Richard Illingworth,Chris Gaffaney,normal,0
+736,2019-03-18,Wankhede Stadium,Mumbai,Delhi Capitals,bat,Delhi Capitals,Kolkata Knight Riders,0,3,Jos Buttler,Kumar Dharmasena,Chris Gaffaney,normal,0
+737,2018-06-19,M. Chinnaswamy Stadium,Bangalore,Gujarat Titans,field,Mumbai Indians,Gujarat Titans,0,8,David Warner,Nitish Menon,Sunil Kumar,normal,0
+738,2025-02-09,Sawai Mansingh Stadium,Jaipur,Chennai Super Kings,field,Rajasthan Royals,Chennai Super Kings,0,8,Rashid Khan,Chris Gaffaney,Richard Illingworth,normal,0
+739,2021-11-22,Narendra Modi Stadium,Ahmedabad,Delhi Capitals,bat,Delhi Capitals,Delhi Capitals,64,0,Suryakumar Yadav,Sunil Kumar,Chris Gaffaney,normal,0
+740,2023-07-08,BRSABV Ekana Stadium,Lucknow,Delhi Capitals,bat,Delhi Capitals,Delhi Capitals,42,0,Suryakumar Yadav,Nitish Menon,Nitish Menon,normal,0
+741,2024-12-28,M. Chinnaswamy Stadium,Bangalore,Kolkata Knight Riders,bat,Kolkata Knight Riders,Chennai Super Kings,0,4,Rishabh Pant,Nitish Menon,Richard Illingworth,normal,0
+742,2024-12-04,Arun Jaitley Stadium,Delhi,Gujarat Titans,field,Royal Challengers Bangalore,Royal Challengers Bangalore,25,0,Suryakumar Yadav,Sunil Kumar,Richard Illingworth,normal,0
+743,2023-11-11,Punjab Cricket Association Stadium,Mohali,Gujarat Titans,field,Rajasthan Royals,Rajasthan Royals,100,0,Suryakumar Yadav,Chris Gaffaney,Sunil Kumar,normal,0
+744,2018-10-21,Wankhede Stadium,Mumbai,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,Royal Challengers Bangalore,35,0,Andre Russell,Nitish Menon,Sunil Kumar,normal,0
+745,2021-11-21,Arun Jaitley Stadium,Delhi,Punjab Kings,bat,Punjab Kings,Punjab Kings,40,0,Sanju Samson,Chris Gaffaney,Chris Gaffaney,normal,0
+746,2020-11-03,Wankhede Stadium,Mumbai,Sunrisers Hyderabad,field,Mumbai Indians,Sunrisers Hyderabad,0,7,Sanju Samson,Kumar Dharmasena,Sunil Kumar,normal,0
+747,2020-06-07,Sawai Mansingh Stadium,Jaipur,Mumbai Indians,field,Gujarat Titans,Mumbai Indians,0,7,Andre Russell,Kumar Dharmasena,Chris Gaffaney,normal,0
+748,2020-06-02,Eden Gardens,Kolkata,Mumbai Indians,bat,Mumbai Indians,Mumbai Indians,43,0,David Warner,Sunil Kumar,Richard Illingworth,normal,0
+749,2025-01-07,Wankhede Stadium,Mumbai,Mumbai Indians,field,Royal Challengers Bangalore,Mumbai Indians,0,3,Andre Russell,Nitish Menon,Sunil Kumar,normal,1
+750,2020-11-17,Arun Jaitley Stadium,Delhi,Gujarat Titans,field,Kolkata Knight Riders,Gujarat Titans,0,6,KL Rahul,Nitish Menon,Nitish Menon,normal,0
+751,2020-04-18,Eden Gardens,Kolkata,Kolkata Knight Riders,field,Royal Challengers Bangalore,Royal Challengers Bangalore,57,0,Suryakumar Yadav,Chris Gaffaney,Chris Gaffaney,normal,0
+752,2023-06-24,Sawai Mansingh Stadium,Jaipur,Sunrisers Hyderabad,field,Kolkata Knight Riders,Sunrisers Hyderabad,0,1,Hardik Pandya,Kumar Dharmasena,Nitish Menon,normal,0
+753,2021-09-21,Sawai Mansingh Stadium,Jaipur,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,Kolkata Knight Riders,0,2,Jos Buttler,Sunil Kumar,Kumar Dharmasena,normal,0
+754,2022-03-30,Arun Jaitley Stadium,Delhi,Gujarat Titans,bat,Gujarat Titans,Gujarat Titans,13,0,Hardik Pandya,Sunil Kumar,Kumar Dharmasena,normal,0
+755,2018-05-28,Rajiv Gandhi International Stadium,Hyderabad,Gujarat Titans,field,Rajasthan Royals,Gujarat Titans,0,8,Rohit Sharma,Chris Gaffaney,Sunil Kumar,normal,0
+756,2023-06-20,Sawai Mansingh Stadium,Jaipur,Rajasthan Royals,bat,Rajasthan Royals,Rajasthan Royals,48,0,David Warner,Nitish Menon,Nitish Menon,normal,0
+757,2024-09-08,BRSABV Ekana Stadium,Lucknow,Gujarat Titans,bat,Gujarat Titans,Gujarat Titans,13,0,Rohit Sharma,Chris Gaffaney,Nitish Menon,normal,1
+758,2018-04-19,M. Chinnaswamy Stadium,Bangalore,Punjab Kings,bat,Punjab Kings,Punjab Kings,76,0,Suryakumar Yadav,Kumar Dharmasena,Chris Gaffaney,normal,1
+759,2024-11-21,Rajiv Gandhi International Stadium,Hyderabad,Gujarat Titans,field,Sunrisers Hyderabad,Sunrisers Hyderabad,68,0,Rashid Khan,Chris Gaffaney,Chris Gaffaney,normal,0
+760,2022-02-20,Sawai Mansingh Stadium,Jaipur,Mumbai Indians,bat,Mumbai Indians,Mumbai Indians,66,0,Ravindra Jadeja,Kumar Dharmasena,Kumar Dharmasena,normal,1
+761,2019-05-17,Wankhede Stadium,Mumbai,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,Royal Challengers Bangalore,93,0,Ravindra Jadeja,Chris Gaffaney,Chris Gaffaney,normal,1
+762,2019-11-14,Sawai Mansingh Stadium,Jaipur,Sunrisers Hyderabad,field,Lucknow Super Giants,Sunrisers Hyderabad,0,5,MS Dhoni,Sunil Kumar,Sunil Kumar,normal,0
+763,2022-04-10,M. Chinnaswamy Stadium,Bangalore,Punjab Kings,bat,Punjab Kings,Rajasthan Royals,0,4,Rishabh Pant,Nitish Menon,Nitish Menon,normal,0
+764,2022-06-12,Arun Jaitley Stadium,Delhi,Sunrisers Hyderabad,field,Punjab Kings,Punjab Kings,47,0,Suryakumar Yadav,Chris Gaffaney,Richard Illingworth,normal,0
+765,2024-04-28,Narendra Modi Stadium,Ahmedabad,Lucknow Super Giants,bat,Lucknow Super Giants,Lucknow Super Giants,36,0,Sanju Samson,Kumar Dharmasena,Kumar Dharmasena,normal,0
+766,2021-01-03,Narendra Modi Stadium,Ahmedabad,Sunrisers Hyderabad,field,Kolkata Knight Riders,Kolkata Knight Riders,62,0,KL Rahul,Sunil Kumar,Nitish Menon,normal,0
+767,2019-11-05,Sawai Mansingh Stadium,Jaipur,Lucknow Super Giants,bat,Lucknow Super Giants,Lucknow Super Giants,65,0,David Warner,Sunil Kumar,Sunil Kumar,normal,1
+768,2021-04-03,Punjab Cricket Association Stadium,Mohali,Lucknow Super Giants,bat,Lucknow Super Giants,Lucknow Super Giants,37,0,Virat Kohli,Chris Gaffaney,Richard Illingworth,normal,0
+769,2018-11-11,M. Chinnaswamy Stadium,Bangalore,Gujarat Titans,bat,Gujarat Titans,Gujarat Titans,74,0,Suryakumar Yadav,Nitish Menon,Nitish Menon,normal,0
+770,2022-01-23,Narendra Modi Stadium,Ahmedabad,Lucknow Super Giants,field,Rajasthan Royals,Lucknow Super Giants,0,1,Sanju Samson,Richard Illingworth,Chris Gaffaney,normal,0
+771,2018-05-24,Sawai Mansingh Stadium,Jaipur,Gujarat Titans,bat,Gujarat Titans,Gujarat Titans,69,0,Shubman Gill,Nitish Menon,Chris Gaffaney,normal,0
+772,2022-12-04,Eden Gardens,Kolkata,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,Punjab Kings,0,1,Hardik Pandya,Nitish Menon,Sunil Kumar,normal,0
+773,2022-02-09,Narendra Modi Stadium,Ahmedabad,Kolkata Knight Riders,field,Rajasthan Royals,Kolkata Knight Riders,0,5,Rashid Khan,Sunil Kumar,Richard Illingworth,normal,1
+774,2024-01-21,Narendra Modi Stadium,Ahmedabad,Mumbai Indians,bat,Mumbai Indians,Mumbai Indians,73,0,Rishabh Pant,Richard Illingworth,Richard Illingworth,tie,0
+775,2018-12-18,Punjab Cricket Association Stadium,Mohali,Gujarat Titans,field,Rajasthan Royals,Gujarat Titans,0,8,Rohit Sharma,Richard Illingworth,Chris Gaffaney,normal,0
+776,2024-09-19,Eden Gardens,Kolkata,Royal Challengers Bangalore,field,Sunrisers Hyderabad,Royal Challengers Bangalore,0,9,Rohit Sharma,Nitish Menon,Richard Illingworth,normal,0
+777,2025-02-01,Punjab Cricket Association Stadium,Mohali,Royal Challengers Bangalore,field,Mumbai Indians,Mumbai Indians,78,0,KL Rahul,Richard Illingworth,Sunil Kumar,normal,1
+778,2022-04-24,Rajiv Gandhi International Stadium,Hyderabad,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,Lucknow Super Giants,0,4,Shubman Gill,Kumar Dharmasena,Kumar Dharmasena,normal,0
+779,2022-11-14,Rajiv Gandhi International Stadium,Hyderabad,Chennai Super Kings,bat,Chennai Super Kings,Chennai Super Kings,72,0,Shubman Gill,Kumar Dharmasena,Nitish Menon,normal,1
+780,2019-10-09,Wankhede Stadium,Mumbai,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,Sunrisers Hyderabad,17,0,Virat Kohli,Sunil Kumar,Nitish Menon,normal,0
+781,2020-05-05,Narendra Modi Stadium,Ahmedabad,Punjab Kings,field,Chennai Super Kings,Chennai Super Kings,8,0,Suryakumar Yadav,Kumar Dharmasena,Nitish Menon,normal,0
+782,2020-05-16,Arun Jaitley Stadium,Delhi,Rajasthan Royals,bat,Rajasthan Royals,Mumbai Indians,0,5,David Warner,Richard Illingworth,Sunil Kumar,tie,0
+783,2021-06-06,Narendra Modi Stadium,Ahmedabad,Chennai Super Kings,field,Sunrisers Hyderabad,Chennai Super Kings,0,9,MS Dhoni,Chris Gaffaney,Nitish Menon,normal,0
+784,2025-03-22,Sawai Mansingh Stadium,Jaipur,Kolkata Knight Riders,bat,Kolkata Knight Riders,Punjab Kings,0,4,Shubman Gill,Richard Illingworth,Chris Gaffaney,tie,0
+785,2019-11-12,Rajiv Gandhi International Stadium,Hyderabad,Mumbai Indians,bat,Mumbai Indians,Gujarat Titans,0,6,Rishabh Pant,Richard Illingworth,Nitish Menon,normal,0
+786,2024-03-24,Sawai Mansingh Stadium,Jaipur,Delhi Capitals,bat,Delhi Capitals,Royal Challengers Bangalore,0,7,Virat Kohli,Chris Gaffaney,Sunil Kumar,normal,1
+787,2019-01-12,BRSABV Ekana Stadium,Lucknow,Chennai Super Kings,field,Lucknow Super Giants,Chennai Super Kings,0,7,Andre Russell,Chris Gaffaney,Sunil Kumar,normal,0
+788,2024-11-02,BRSABV Ekana Stadium,Lucknow,Punjab Kings,field,Mumbai Indians,Mumbai Indians,53,0,Jasprit Bumrah,Chris Gaffaney,Sunil Kumar,normal,0
+789,2018-04-16,M. Chinnaswamy Stadium,Bangalore,Rajasthan Royals,bat,Rajasthan Royals,Rajasthan Royals,43,0,David Warner,Nitish Menon,Chris Gaffaney,normal,0
+790,2022-07-08,Arun Jaitley Stadium,Delhi,Punjab Kings,bat,Punjab Kings,Lucknow Super Giants,0,1,Shubman Gill,Richard Illingworth,Sunil Kumar,normal,1
+791,2022-01-16,Rajiv Gandhi International Stadium,Hyderabad,Punjab Kings,field,Sunrisers Hyderabad,Sunrisers Hyderabad,60,0,MS Dhoni,Nitish Menon,Chris Gaffaney,normal,0
+792,2023-07-26,Narendra Modi Stadium,Ahmedabad,Mumbai Indians,field,Lucknow Super Giants,Mumbai Indians,0,4,Sanju Samson,Richard Illingworth,Kumar Dharmasena,normal,1
+793,2020-05-20,Narendra Modi Stadium,Ahmedabad,Punjab Kings,field,Lucknow Super Giants,Lucknow Super Giants,71,0,Rishabh Pant,Richard Illingworth,Richard Illingworth,normal,0
+794,2019-02-21,Arun Jaitley Stadium,Delhi,Punjab Kings,field,Gujarat Titans,Gujarat Titans,86,0,Hardik Pandya,Nitish Menon,Kumar Dharmasena,normal,0
+795,2019-05-12,Narendra Modi Stadium,Ahmedabad,Delhi Capitals,bat,Delhi Capitals,Delhi Capitals,50,0,MS Dhoni,Nitish Menon,Nitish Menon,normal,0
+796,2023-01-16,Sawai Mansingh Stadium,Jaipur,Gujarat Titans,field,Lucknow Super Giants,Lucknow Super Giants,89,0,David Warner,Kumar Dharmasena,Chris Gaffaney,normal,0
+797,2021-09-14,Punjab Cricket Association Stadium,Mohali,Lucknow Super Giants,field,Kolkata Knight Riders,Kolkata Knight Riders,68,0,Rishabh Pant,Sunil Kumar,Richard Illingworth,normal,0
+798,2022-08-11,Rajiv Gandhi International Stadium,Hyderabad,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,Royal Challengers Bangalore,14,0,Rishabh Pant,Nitish Menon,Chris Gaffaney,normal,0
+799,2018-03-31,M. Chinnaswamy Stadium,Bangalore,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,Sunrisers Hyderabad,22,0,Suryakumar Yadav,Kumar Dharmasena,Nitish Menon,normal,0
+800,2023-10-29,Eden Gardens,Kolkata,Gujarat Titans,field,Kolkata Knight Riders,Kolkata Knight Riders,79,0,Jasprit Bumrah,Kumar Dharmasena,Nitish Menon,normal,0
+801,2021-10-14,Rajiv Gandhi International Stadium,Hyderabad,Lucknow Super Giants,bat,Lucknow Super Giants,Lucknow Super Giants,56,0,David Warner,Kumar Dharmasena,Chris Gaffaney,normal,0
+802,2022-06-08,Punjab Cricket Association Stadium,Mohali,Punjab Kings,bat,Punjab Kings,Sunrisers Hyderabad,0,3,Rashid Khan,Nitish Menon,Sunil Kumar,normal,0
+803,2018-09-30,M. Chinnaswamy Stadium,Bangalore,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,Royal Challengers Bangalore,64,0,MS Dhoni,Sunil Kumar,Sunil Kumar,normal,0
+804,2019-04-14,Rajiv Gandhi International Stadium,Hyderabad,Rajasthan Royals,bat,Rajasthan Royals,Rajasthan Royals,28,0,Rishabh Pant,Kumar Dharmasena,Nitish Menon,normal,0
+805,2025-05-07,M. Chinnaswamy Stadium,Bangalore,Punjab Kings,field,Rajasthan Royals,Rajasthan Royals,49,0,MS Dhoni,Chris Gaffaney,Nitish Menon,normal,0
+806,2021-09-06,BRSABV Ekana Stadium,Lucknow,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,Sunrisers Hyderabad,0,8,Ravindra Jadeja,Chris Gaffaney,Richard Illingworth,normal,0
+807,2023-07-14,Rajiv Gandhi International Stadium,Hyderabad,Punjab Kings,bat,Punjab Kings,Royal Challengers Bangalore,0,4,Hardik Pandya,Richard Illingworth,Kumar Dharmasena,normal,0
+808,2018-03-06,Sawai Mansingh Stadium,Jaipur,Lucknow Super Giants,bat,Lucknow Super Giants,Lucknow Super Giants,8,0,KL Rahul,Richard Illingworth,Chris Gaffaney,normal,0
+809,2020-09-18,Punjab Cricket Association Stadium,Mohali,Lucknow Super Giants,bat,Lucknow Super Giants,Chennai Super Kings,0,3,Hardik Pandya,Sunil Kumar,Kumar Dharmasena,normal,0
+810,2023-04-20,Arun Jaitley Stadium,Delhi,Rajasthan Royals,bat,Rajasthan Royals,Punjab Kings,0,9,KL Rahul,Nitish Menon,Kumar Dharmasena,normal,0
+811,2021-10-03,Sawai Mansingh Stadium,Jaipur,Mumbai Indians,field,Kolkata Knight Riders,Kolkata Knight Riders,88,0,Jasprit Bumrah,Nitish Menon,Sunil Kumar,normal,0
+812,2020-02-04,M. Chinnaswamy Stadium,Bangalore,Royal Challengers Bangalore,field,Delhi Capitals,Delhi Capitals,33,0,Sanju Samson,Richard Illingworth,Richard Illingworth,normal,0
+813,2022-11-22,Eden Gardens,Kolkata,Lucknow Super Giants,field,Sunrisers Hyderabad,Sunrisers Hyderabad,100,0,David Warner,Sunil Kumar,Chris Gaffaney,normal,0
+814,2025-01-23,Arun Jaitley Stadium,Delhi,Chennai Super Kings,bat,Chennai Super Kings,Sunrisers Hyderabad,0,5,Andre Russell,Chris Gaffaney,Chris Gaffaney,normal,1
+815,2023-12-06,Eden Gardens,Kolkata,Chennai Super Kings,bat,Chennai Super Kings,Punjab Kings,0,8,Shubman Gill,Richard Illingworth,Richard Illingworth,normal,0
+816,2025-05-19,M. Chinnaswamy Stadium,Bangalore,Lucknow Super Giants,bat,Lucknow Super Giants,Rajasthan Royals,0,8,Shubman Gill,Chris Gaffaney,Richard Illingworth,normal,0
+817,2023-03-16,Eden Gardens,Kolkata,Kolkata Knight Riders,bat,Kolkata Knight Riders,Rajasthan Royals,0,5,Virat Kohli,Nitish Menon,Chris Gaffaney,normal,0
+818,2019-09-19,Arun Jaitley Stadium,Delhi,Lucknow Super Giants,bat,Lucknow Super Giants,Lucknow Super Giants,47,0,Rishabh Pant,Kumar Dharmasena,Chris Gaffaney,normal,0
+819,2023-03-26,Arun Jaitley Stadium,Delhi,Gujarat Titans,field,Mumbai Indians,Gujarat Titans,0,4,Ravindra Jadeja,Sunil Kumar,Richard Illingworth,normal,0
+820,2024-09-12,Sawai Mansingh Stadium,Jaipur,Chennai Super Kings,field,Gujarat Titans,Chennai Super Kings,0,2,Suryakumar Yadav,Richard Illingworth,Chris Gaffaney,normal,0
+821,2024-09-06,Eden Gardens,Kolkata,Kolkata Knight Riders,field,Chennai Super Kings,Kolkata Knight Riders,0,6,Ravindra Jadeja,Nitish Menon,Chris Gaffaney,normal,0
+822,2018-11-28,Wankhede Stadium,Mumbai,Delhi Capitals,field,Lucknow Super Giants,Lucknow Super Giants,97,0,MS Dhoni,Chris Gaffaney,Chris Gaffaney,normal,0
+823,2020-01-25,Eden Gardens,Kolkata,Chennai Super Kings,field,Kolkata Knight Riders,Kolkata Knight Riders,59,0,Rashid Khan,Chris Gaffaney,Sunil Kumar,normal,0
+824,2021-07-24,Narendra Modi Stadium,Ahmedabad,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,Sunrisers Hyderabad,33,0,Andre Russell,Kumar Dharmasena,Richard Illingworth,normal,0
+825,2021-05-01,Rajiv Gandhi International Stadium,Hyderabad,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,Punjab Kings,0,2,KL Rahul,Chris Gaffaney,Kumar Dharmasena,normal,0
+826,2020-10-02,Sawai Mansingh Stadium,Jaipur,Kolkata Knight Riders,bat,Kolkata Knight Riders,Sunrisers Hyderabad,0,2,Hardik Pandya,Sunil Kumar,Sunil Kumar,normal,0
+827,2021-01-28,Rajiv Gandhi International Stadium,Hyderabad,Punjab Kings,bat,Punjab Kings,Chennai Super Kings,0,6,Rashid Khan,Chris Gaffaney,Chris Gaffaney,normal,0
+828,2018-05-23,Narendra Modi Stadium,Ahmedabad,Punjab Kings,bat,Punjab Kings,Punjab Kings,29,0,Sanju Samson,Sunil Kumar,Nitish Menon,normal,1
+829,2024-10-14,Eden Gardens,Kolkata,Punjab Kings,bat,Punjab Kings,Lucknow Super Giants,0,8,Rashid Khan,Chris Gaffaney,Kumar Dharmasena,normal,0
+830,2021-12-02,Narendra Modi Stadium,Ahmedabad,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,Royal Challengers Bangalore,51,0,Virat Kohli,Nitish Menon,Sunil Kumar,normal,0
+831,2024-04-09,Punjab Cricket Association Stadium,Mohali,Punjab Kings,field,Rajasthan Royals,Punjab Kings,0,3,Andre Russell,Chris Gaffaney,Chris Gaffaney,normal,0
+832,2018-08-09,BRSABV Ekana Stadium,Lucknow,Rajasthan Royals,bat,Rajasthan Royals,Rajasthan Royals,50,0,Ravindra Jadeja,Chris Gaffaney,Kumar Dharmasena,normal,0
+833,2020-11-12,Eden Gardens,Kolkata,Chennai Super Kings,field,Delhi Capitals,Chennai Super Kings,0,1,Suryakumar Yadav,Kumar Dharmasena,Chris Gaffaney,normal,1
+834,2018-06-26,Eden Gardens,Kolkata,Kolkata Knight Riders,field,Punjab Kings,Kolkata Knight Riders,0,9,Rohit Sharma,Chris Gaffaney,Sunil Kumar,normal,0
+835,2020-02-12,M. Chinnaswamy Stadium,Bangalore,Lucknow Super Giants,field,Punjab Kings,Punjab Kings,84,0,KL Rahul,Kumar Dharmasena,Kumar Dharmasena,normal,0
+836,2019-05-21,Eden Gardens,Kolkata,Delhi Capitals,bat,Delhi Capitals,Mumbai Indians,0,9,Andre Russell,Sunil Kumar,Richard Illingworth,normal,1
+837,2021-01-21,Eden Gardens,Kolkata,Rajasthan Royals,bat,Rajasthan Royals,Rajasthan Royals,92,0,Jos Buttler,Sunil Kumar,Richard Illingworth,normal,0
+838,2022-10-05,Punjab Cricket Association Stadium,Mohali,Kolkata Knight Riders,bat,Kolkata Knight Riders,Delhi Capitals,0,9,Hardik Pandya,Nitish Menon,Chris Gaffaney,normal,0
+839,2023-04-02,Sawai Mansingh Stadium,Jaipur,Punjab Kings,bat,Punjab Kings,Punjab Kings,87,0,Suryakumar Yadav,Richard Illingworth,Kumar Dharmasena,normal,1
+840,2024-08-07,Rajiv Gandhi International Stadium,Hyderabad,Gujarat Titans,field,Sunrisers Hyderabad,Gujarat Titans,0,6,Virat Kohli,Nitish Menon,Kumar Dharmasena,normal,0
+841,2021-02-10,Eden Gardens,Kolkata,Gujarat Titans,field,Delhi Capitals,Delhi Capitals,55,0,Andre Russell,Sunil Kumar,Kumar Dharmasena,normal,0
+842,2020-06-21,Eden Gardens,Kolkata,Gujarat Titans,bat,Gujarat Titans,Royal Challengers Bangalore,0,7,MS Dhoni,Sunil Kumar,Chris Gaffaney,normal,0
+843,2021-08-04,BRSABV Ekana Stadium,Lucknow,Gujarat Titans,field,Delhi Capitals,Gujarat Titans,0,2,David Warner,Richard Illingworth,Richard Illingworth,normal,0
+844,2020-09-30,BRSABV Ekana Stadium,Lucknow,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,Royal Challengers Bangalore,91,0,Rishabh Pant,Kumar Dharmasena,Chris Gaffaney,normal,0
+845,2022-10-21,BRSABV Ekana Stadium,Lucknow,Chennai Super Kings,bat,Chennai Super Kings,Chennai Super Kings,99,0,KL Rahul,Richard Illingworth,Nitish Menon,normal,0
+846,2019-01-20,Eden Gardens,Kolkata,Lucknow Super Giants,bat,Lucknow Super Giants,Chennai Super Kings,0,3,Hardik Pandya,Nitish Menon,Sunil Kumar,normal,0
+847,2020-09-06,Rajiv Gandhi International Stadium,Hyderabad,Punjab Kings,bat,Punjab Kings,Punjab Kings,61,0,Hardik Pandya,Richard Illingworth,Richard Illingworth,normal,0
+848,2021-08-18,M. Chinnaswamy Stadium,Bangalore,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,Sunrisers Hyderabad,36,0,KL Rahul,Chris Gaffaney,Kumar Dharmasena,normal,0
+849,2020-08-26,Punjab Cricket Association Stadium,Mohali,Chennai Super Kings,bat,Chennai Super Kings,Chennai Super Kings,90,0,Jos Buttler,Kumar Dharmasena,Chris Gaffaney,normal,0
+850,2021-12-04,Wankhede Stadium,Mumbai,Lucknow Super Giants,field,Punjab Kings,Punjab Kings,84,0,KL Rahul,Chris Gaffaney,Chris Gaffaney,normal,1
+851,2019-01-04,Wankhede Stadium,Mumbai,Rajasthan Royals,bat,Rajasthan Royals,Rajasthan Royals,91,0,Rishabh Pant,Chris Gaffaney,Kumar Dharmasena,normal,0
+852,2023-01-19,Arun Jaitley Stadium,Delhi,Chennai Super Kings,bat,Chennai Super Kings,Gujarat Titans,0,8,Jasprit Bumrah,Nitish Menon,Richard Illingworth,normal,0
+853,2018-03-12,Arun Jaitley Stadium,Delhi,Gujarat Titans,bat,Gujarat Titans,Mumbai Indians,0,6,Rohit Sharma,Richard Illingworth,Richard Illingworth,normal,0
+854,2020-11-16,Sawai Mansingh Stadium,Jaipur,Gujarat Titans,field,Mumbai Indians,Gujarat Titans,0,1,KL Rahul,Sunil Kumar,Chris Gaffaney,normal,0
+855,2021-08-10,Punjab Cricket Association Stadium,Mohali,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,Chennai Super Kings,0,1,Rishabh Pant,Chris Gaffaney,Chris Gaffaney,normal,0
+856,2018-05-23,M. Chinnaswamy Stadium,Bangalore,Mumbai Indians,bat,Mumbai Indians,Mumbai Indians,47,0,Andre Russell,Richard Illingworth,Kumar Dharmasena,normal,1
+857,2020-05-09,M. Chinnaswamy Stadium,Bangalore,Delhi Capitals,bat,Delhi Capitals,Delhi Capitals,70,0,Suryakumar Yadav,Sunil Kumar,Kumar Dharmasena,normal,0
+858,2024-08-09,Sawai Mansingh Stadium,Jaipur,Kolkata Knight Riders,bat,Kolkata Knight Riders,Kolkata Knight Riders,41,0,Jasprit Bumrah,Kumar Dharmasena,Richard Illingworth,normal,1
+859,2021-03-08,Narendra Modi Stadium,Ahmedabad,Punjab Kings,bat,Punjab Kings,Punjab Kings,53,0,Rohit Sharma,Richard Illingworth,Nitish Menon,normal,1
+860,2022-06-28,Arun Jaitley Stadium,Delhi,Gujarat Titans,field,Royal Challengers Bangalore,Royal Challengers Bangalore,45,0,Jos Buttler,Nitish Menon,Sunil Kumar,normal,0
+861,2024-10-19,Eden Gardens,Kolkata,Mumbai Indians,field,Sunrisers Hyderabad,Mumbai Indians,0,6,KL Rahul,Chris Gaffaney,Richard Illingworth,normal,1
+862,2024-07-02,Narendra Modi Stadium,Ahmedabad,Mumbai Indians,bat,Mumbai Indians,Kolkata Knight Riders,0,3,Rashid Khan,Richard Illingworth,Nitish Menon,normal,0
+863,2019-03-13,Rajiv Gandhi International Stadium,Hyderabad,Sunrisers Hyderabad,field,Punjab Kings,Punjab Kings,86,0,Rishabh Pant,Richard Illingworth,Chris Gaffaney,normal,0
+864,2019-01-04,Rajiv Gandhi International Stadium,Hyderabad,Gujarat Titans,bat,Gujarat Titans,Gujarat Titans,55,0,Hardik Pandya,Richard Illingworth,Chris Gaffaney,normal,0
+865,2019-04-05,BRSABV Ekana Stadium,Lucknow,Lucknow Super Giants,field,Punjab Kings,Lucknow Super Giants,0,9,Rishabh Pant,Richard Illingworth,Sunil Kumar,normal,0
+866,2020-01-03,BRSABV Ekana Stadium,Lucknow,Punjab Kings,field,Royal Challengers Bangalore,Punjab Kings,0,7,Sanju Samson,Sunil Kumar,Richard Illingworth,normal,0
+867,2019-11-28,Wankhede Stadium,Mumbai,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,Sunrisers Hyderabad,62,0,Ravindra Jadeja,Kumar Dharmasena,Chris Gaffaney,normal,0
+868,2019-10-19,Punjab Cricket Association Stadium,Mohali,Gujarat Titans,bat,Gujarat Titans,Gujarat Titans,87,0,MS Dhoni,Chris Gaffaney,Richard Illingworth,normal,0
+869,2024-07-22,M. Chinnaswamy Stadium,Bangalore,Delhi Capitals,bat,Delhi Capitals,Delhi Capitals,19,0,Hardik Pandya,Richard Illingworth,Sunil Kumar,normal,0
+870,2020-02-26,Sawai Mansingh Stadium,Jaipur,Gujarat Titans,field,Rajasthan Royals,Rajasthan Royals,23,0,Hardik Pandya,Sunil Kumar,Chris Gaffaney,normal,0
+871,2024-07-15,Arun Jaitley Stadium,Delhi,Punjab Kings,bat,Punjab Kings,Punjab Kings,82,0,Jasprit Bumrah,Nitish Menon,Kumar Dharmasena,normal,0
+872,2022-06-30,BRSABV Ekana Stadium,Lucknow,Gujarat Titans,bat,Gujarat Titans,Royal Challengers Bangalore,0,6,Jos Buttler,Sunil Kumar,Sunil Kumar,normal,0
+873,2019-02-05,Punjab Cricket Association Stadium,Mohali,Lucknow Super Giants,bat,Lucknow Super Giants,Lucknow Super Giants,11,0,KL Rahul,Richard Illingworth,Nitish Menon,normal,0
+874,2023-09-16,Narendra Modi Stadium,Ahmedabad,Lucknow Super Giants,bat,Lucknow Super Giants,Lucknow Super Giants,84,0,KL Rahul,Kumar Dharmasena,Kumar Dharmasena,normal,0
+875,2023-08-22,Narendra Modi Stadium,Ahmedabad,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,Royal Challengers Bangalore,58,0,Jasprit Bumrah,Kumar Dharmasena,Richard Illingworth,normal,0
+876,2019-03-16,Narendra Modi Stadium,Ahmedabad,Punjab Kings,bat,Punjab Kings,Punjab Kings,5,0,Rohit Sharma,Chris Gaffaney,Nitish Menon,normal,0
+877,2022-03-03,M. Chinnaswamy Stadium,Bangalore,Punjab Kings,field,Rajasthan Royals,Punjab Kings,0,9,Andre Russell,Kumar Dharmasena,Nitish Menon,normal,0
+878,2022-05-21,Rajiv Gandhi International Stadium,Hyderabad,Chennai Super Kings,field,Punjab Kings,Chennai Super Kings,0,8,Rashid Khan,Chris Gaffaney,Richard Illingworth,normal,0
+879,2018-03-04,Punjab Cricket Association Stadium,Mohali,Chennai Super Kings,bat,Chennai Super Kings,Chennai Super Kings,47,0,Andre Russell,Kumar Dharmasena,Kumar Dharmasena,normal,0
+880,2022-01-20,Sawai Mansingh Stadium,Jaipur,Rajasthan Royals,field,Sunrisers Hyderabad,Rajasthan Royals,0,4,Ravindra Jadeja,Chris Gaffaney,Kumar Dharmasena,normal,0
+881,2022-04-25,Punjab Cricket Association Stadium,Mohali,Mumbai Indians,bat,Mumbai Indians,Mumbai Indians,97,0,Virat Kohli,Kumar Dharmasena,Nitish Menon,normal,0
+882,2022-10-15,BRSABV Ekana Stadium,Lucknow,Punjab Kings,bat,Punjab Kings,Royal Challengers Bangalore,0,9,Rohit Sharma,Nitish Menon,Kumar Dharmasena,normal,0
+883,2020-07-21,Sawai Mansingh Stadium,Jaipur,Rajasthan Royals,field,Sunrisers Hyderabad,Rajasthan Royals,0,2,Rishabh Pant,Chris Gaffaney,Kumar Dharmasena,normal,0
+884,2020-07-23,BRSABV Ekana Stadium,Lucknow,Punjab Kings,bat,Punjab Kings,Chennai Super Kings,0,4,Andre Russell,Richard Illingworth,Sunil Kumar,normal,0
+885,2025-05-29,M. Chinnaswamy Stadium,Bangalore,Mumbai Indians,field,Kolkata Knight Riders,Kolkata Knight Riders,10,0,Andre Russell,Nitish Menon,Kumar Dharmasena,normal,0
+886,2021-06-02,Eden Gardens,Kolkata,Royal Challengers Bangalore,field,Punjab Kings,Royal Challengers Bangalore,0,7,KL Rahul,Richard Illingworth,Richard Illingworth,normal,0
+887,2024-01-04,Rajiv Gandhi International Stadium,Hyderabad,Chennai Super Kings,field,Punjab Kings,Punjab Kings,27,0,Sanju Samson,Nitish Menon,Nitish Menon,normal,0
+888,2018-04-19,Arun Jaitley Stadium,Delhi,Kolkata Knight Riders,bat,Kolkata Knight Riders,Kolkata Knight Riders,49,0,Andre Russell,Kumar Dharmasena,Chris Gaffaney,normal,0
+889,2024-12-13,Punjab Cricket Association Stadium,Mohali,Rajasthan Royals,field,Sunrisers Hyderabad,Sunrisers Hyderabad,44,0,Andre Russell,Richard Illingworth,Kumar Dharmasena,normal,0
+890,2022-03-17,Wankhede Stadium,Mumbai,Gujarat Titans,bat,Gujarat Titans,Lucknow Super Giants,0,7,Rashid Khan,Nitish Menon,Kumar Dharmasena,normal,0
+891,2020-06-28,Arun Jaitley Stadium,Delhi,Delhi Capitals,bat,Delhi Capitals,Delhi Capitals,96,0,Rohit Sharma,Kumar Dharmasena,Richard Illingworth,normal,0
+892,2022-08-18,Rajiv Gandhi International Stadium,Hyderabad,Chennai Super Kings,bat,Chennai Super Kings,Delhi Capitals,0,9,Shubman Gill,Sunil Kumar,Chris Gaffaney,normal,0
+893,2020-12-30,Arun Jaitley Stadium,Delhi,Lucknow Super Giants,field,Delhi Capitals,Lucknow Super Giants,0,3,Rishabh Pant,Chris Gaffaney,Richard Illingworth,normal,0
+894,2020-10-29,Punjab Cricket Association Stadium,Mohali,Chennai Super Kings,bat,Chennai Super Kings,Chennai Super Kings,41,0,Rashid Khan,Kumar Dharmasena,Sunil Kumar,normal,1
+895,2021-10-17,M. Chinnaswamy Stadium,Bangalore,Punjab Kings,bat,Punjab Kings,Delhi Capitals,0,6,Hardik Pandya,Chris Gaffaney,Kumar Dharmasena,normal,0
+896,2018-04-21,Eden Gardens,Kolkata,Lucknow Super Giants,bat,Lucknow Super Giants,Lucknow Super Giants,22,0,Rohit Sharma,Richard Illingworth,Kumar Dharmasena,tie,0
+897,2019-11-30,Sawai Mansingh Stadium,Jaipur,Delhi Capitals,field,Chennai Super Kings,Chennai Super Kings,7,0,Sanju Samson,Richard Illingworth,Kumar Dharmasena,normal,0
+898,2023-08-25,Narendra Modi Stadium,Ahmedabad,Rajasthan Royals,bat,Rajasthan Royals,Rajasthan Royals,24,0,Sanju Samson,Richard Illingworth,Sunil Kumar,normal,0
+899,2019-08-27,Punjab Cricket Association Stadium,Mohali,Royal Challengers Bangalore,field,Lucknow Super Giants,Royal Challengers Bangalore,0,3,Shubman Gill,Kumar Dharmasena,Chris Gaffaney,normal,0
+900,2020-07-13,Wankhede Stadium,Mumbai,Chennai Super Kings,field,Mumbai Indians,Chennai Super Kings,0,1,MS Dhoni,Richard Illingworth,Sunil Kumar,normal,0
+901,2019-06-12,Eden Gardens,Kolkata,Lucknow Super Giants,field,Mumbai Indians,Lucknow Super Giants,0,1,Jos Buttler,Richard Illingworth,Chris Gaffaney,normal,0
+902,2019-08-24,Narendra Modi Stadium,Ahmedabad,Chennai Super Kings,field,Kolkata Knight Riders,Chennai Super Kings,0,8,Rashid Khan,Nitish Menon,Chris Gaffaney,normal,0
+903,2018-05-18,Punjab Cricket Association Stadium,Mohali,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,Royal Challengers Bangalore,94,0,Rashid Khan,Nitish Menon,Kumar Dharmasena,normal,0
+904,2024-09-15,Wankhede Stadium,Mumbai,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,Sunrisers Hyderabad,0,5,Jos Buttler,Kumar Dharmasena,Richard Illingworth,normal,0
+905,2020-04-16,BRSABV Ekana Stadium,Lucknow,Delhi Capitals,field,Mumbai Indians,Mumbai Indians,32,0,Rohit Sharma,Chris Gaffaney,Nitish Menon,normal,0
+906,2024-01-01,Eden Gardens,Kolkata,Kolkata Knight Riders,field,Lucknow Super Giants,Kolkata Knight Riders,0,4,Jos Buttler,Sunil Kumar,Nitish Menon,normal,0
+907,2019-01-01,Eden Gardens,Kolkata,Punjab Kings,bat,Punjab Kings,Punjab Kings,41,0,Suryakumar Yadav,Kumar Dharmasena,Richard Illingworth,normal,0
+908,2020-08-20,Narendra Modi Stadium,Ahmedabad,Mumbai Indians,bat,Mumbai Indians,Chennai Super Kings,0,4,Rohit Sharma,Kumar Dharmasena,Sunil Kumar,normal,0
+909,2024-02-23,Punjab Cricket Association Stadium,Mohali,Punjab Kings,bat,Punjab Kings,Rajasthan Royals,0,3,Sanju Samson,Richard Illingworth,Chris Gaffaney,normal,0
+910,2021-12-19,BRSABV Ekana Stadium,Lucknow,Delhi Capitals,field,Gujarat Titans,Delhi Capitals,0,9,KL Rahul,Kumar Dharmasena,Nitish Menon,normal,0
+911,2023-08-04,BRSABV Ekana Stadium,Lucknow,Kolkata Knight Riders,field,Royal Challengers Bangalore,Royal Challengers Bangalore,29,0,Suryakumar Yadav,Kumar Dharmasena,Sunil Kumar,normal,0
+912,2018-11-22,Sawai Mansingh Stadium,Jaipur,Chennai Super Kings,field,Kolkata Knight Riders,Chennai Super Kings,0,1,KL Rahul,Kumar Dharmasena,Chris Gaffaney,normal,0
+913,2022-12-20,Narendra Modi Stadium,Ahmedabad,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,Royal Challengers Bangalore,21,0,Jasprit Bumrah,Chris Gaffaney,Richard Illingworth,normal,0
+914,2023-03-16,Rajiv Gandhi International Stadium,Hyderabad,Kolkata Knight Riders,bat,Kolkata Knight Riders,Chennai Super Kings,0,5,Rishabh Pant,Sunil Kumar,Kumar Dharmasena,normal,1
+915,2018-03-15,Arun Jaitley Stadium,Delhi,Sunrisers Hyderabad,field,Mumbai Indians,Mumbai Indians,52,0,Rashid Khan,Sunil Kumar,Chris Gaffaney,normal,0
+916,2020-01-17,Eden Gardens,Kolkata,Delhi Capitals,bat,Delhi Capitals,Punjab Kings,0,3,Jasprit Bumrah,Sunil Kumar,Sunil Kumar,normal,0
+917,2020-06-03,Narendra Modi Stadium,Ahmedabad,Mumbai Indians,field,Gujarat Titans,Mumbai Indians,0,6,KL Rahul,Chris Gaffaney,Nitish Menon,normal,0
+918,2024-07-29,M. Chinnaswamy Stadium,Bangalore,Chennai Super Kings,bat,Chennai Super Kings,Chennai Super Kings,18,0,Suryakumar Yadav,Nitish Menon,Nitish Menon,normal,0
+919,2023-11-01,Wankhede Stadium,Mumbai,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,Kolkata Knight Riders,0,8,Rashid Khan,Kumar Dharmasena,Sunil Kumar,normal,0
+920,2023-09-21,BRSABV Ekana Stadium,Lucknow,Royal Challengers Bangalore,field,Rajasthan Royals,Royal Challengers Bangalore,0,7,Jasprit Bumrah,Nitish Menon,Chris Gaffaney,normal,0
+921,2019-09-21,Narendra Modi Stadium,Ahmedabad,Punjab Kings,bat,Punjab Kings,Chennai Super Kings,0,6,Hardik Pandya,Nitish Menon,Kumar Dharmasena,normal,0
+922,2020-03-13,M. Chinnaswamy Stadium,Bangalore,Punjab Kings,bat,Punjab Kings,Punjab Kings,41,0,Jos Buttler,Nitish Menon,Kumar Dharmasena,normal,0
+923,2025-05-28,Rajiv Gandhi International Stadium,Hyderabad,Mumbai Indians,field,Delhi Capitals,Mumbai Indians,0,4,Hardik Pandya,Richard Illingworth,Richard Illingworth,normal,0
+924,2022-06-02,Punjab Cricket Association Stadium,Mohali,Delhi Capitals,bat,Delhi Capitals,Delhi Capitals,11,0,David Warner,Kumar Dharmasena,Nitish Menon,normal,0
+925,2024-06-19,Wankhede Stadium,Mumbai,Chennai Super Kings,bat,Chennai Super Kings,Punjab Kings,0,3,Rohit Sharma,Richard Illingworth,Sunil Kumar,normal,0
+926,2019-09-16,Rajiv Gandhi International Stadium,Hyderabad,Delhi Capitals,field,Gujarat Titans,Delhi Capitals,0,7,Jasprit Bumrah,Kumar Dharmasena,Kumar Dharmasena,normal,0
+927,2018-09-02,Narendra Modi Stadium,Ahmedabad,Mumbai Indians,bat,Mumbai Indians,Mumbai Indians,46,0,Rishabh Pant,Sunil Kumar,Richard Illingworth,normal,0
+928,2022-03-22,Eden Gardens,Kolkata,Chennai Super Kings,bat,Chennai Super Kings,Chennai Super Kings,63,0,David Warner,Richard Illingworth,Kumar Dharmasena,normal,0
+929,2022-04-25,Wankhede Stadium,Mumbai,Chennai Super Kings,bat,Chennai Super Kings,Chennai Super Kings,43,0,Shubman Gill,Richard Illingworth,Kumar Dharmasena,normal,0
+930,2019-06-26,Punjab Cricket Association Stadium,Mohali,Mumbai Indians,bat,Mumbai Indians,Sunrisers Hyderabad,0,9,David Warner,Nitish Menon,Nitish Menon,normal,0
+931,2019-03-28,Rajiv Gandhi International Stadium,Hyderabad,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,Royal Challengers Bangalore,27,0,Ravindra Jadeja,Sunil Kumar,Kumar Dharmasena,normal,0
+932,2022-12-03,BRSABV Ekana Stadium,Lucknow,Kolkata Knight Riders,bat,Kolkata Knight Riders,Kolkata Knight Riders,15,0,MS Dhoni,Sunil Kumar,Richard Illingworth,normal,0
+933,2018-06-28,Sawai Mansingh Stadium,Jaipur,Lucknow Super Giants,bat,Lucknow Super Giants,Lucknow Super Giants,21,0,Jasprit Bumrah,Kumar Dharmasena,Chris Gaffaney,normal,0
+934,2020-11-15,BRSABV Ekana Stadium,Lucknow,Kolkata Knight Riders,bat,Kolkata Knight Riders,Sunrisers Hyderabad,0,8,KL Rahul,Richard Illingworth,Kumar Dharmasena,normal,0
+935,2020-04-18,Sawai Mansingh Stadium,Jaipur,Gujarat Titans,bat,Gujarat Titans,Rajasthan Royals,0,1,Jasprit Bumrah,Nitish Menon,Kumar Dharmasena,normal,0
+936,2022-06-17,Wankhede Stadium,Mumbai,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,Royal Challengers Bangalore,96,0,Rishabh Pant,Nitish Menon,Sunil Kumar,normal,0
+937,2022-05-06,Sawai Mansingh Stadium,Jaipur,Delhi Capitals,field,Rajasthan Royals,Delhi Capitals,0,4,Rohit Sharma,Richard Illingworth,Nitish Menon,normal,1
+938,2023-11-04,M. Chinnaswamy Stadium,Bangalore,Chennai Super Kings,bat,Chennai Super Kings,Chennai Super Kings,17,0,Rashid Khan,Kumar Dharmasena,Nitish Menon,normal,0
+939,2024-04-20,Wankhede Stadium,Mumbai,Chennai Super Kings,bat,Chennai Super Kings,Chennai Super Kings,19,0,Suryakumar Yadav,Sunil Kumar,Sunil Kumar,normal,0
+940,2022-03-01,M. Chinnaswamy Stadium,Bangalore,Kolkata Knight Riders,field,Punjab Kings,Punjab Kings,84,0,Suryakumar Yadav,Kumar Dharmasena,Chris Gaffaney,normal,1
+941,2018-03-17,Narendra Modi Stadium,Ahmedabad,Kolkata Knight Riders,field,Mumbai Indians,Mumbai Indians,10,0,Rashid Khan,Chris Gaffaney,Sunil Kumar,normal,0
+942,2023-08-14,Arun Jaitley Stadium,Delhi,Chennai Super Kings,field,Royal Challengers Bangalore,Chennai Super Kings,0,9,Jos Buttler,Kumar Dharmasena,Kumar Dharmasena,normal,0
+943,2022-09-03,Wankhede Stadium,Mumbai,Mumbai Indians,bat,Mumbai Indians,Mumbai Indians,76,0,KL Rahul,Richard Illingworth,Nitish Menon,normal,0
+944,2021-08-04,Eden Gardens,Kolkata,Royal Challengers Bangalore,field,Rajasthan Royals,Royal Challengers Bangalore,0,9,Hardik Pandya,Sunil Kumar,Richard Illingworth,normal,0
+945,2021-12-14,Narendra Modi Stadium,Ahmedabad,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,Punjab Kings,0,4,MS Dhoni,Richard Illingworth,Richard Illingworth,normal,0
+946,2021-12-16,Wankhede Stadium,Mumbai,Delhi Capitals,bat,Delhi Capitals,Chennai Super Kings,0,5,Jasprit Bumrah,Richard Illingworth,Kumar Dharmasena,normal,0
+947,2018-05-12,Rajiv Gandhi International Stadium,Hyderabad,Delhi Capitals,bat,Delhi Capitals,Rajasthan Royals,0,5,Shubman Gill,Kumar Dharmasena,Sunil Kumar,normal,0
+948,2024-02-01,Wankhede Stadium,Mumbai,Royal Challengers Bangalore,field,Sunrisers Hyderabad,Sunrisers Hyderabad,60,0,Sanju Samson,Chris Gaffaney,Nitish Menon,normal,0
+949,2022-12-30,Narendra Modi Stadium,Ahmedabad,Punjab Kings,bat,Punjab Kings,Royal Challengers Bangalore,0,2,Sanju Samson,Nitish Menon,Nitish Menon,normal,0
+950,2024-03-17,Sawai Mansingh Stadium,Jaipur,Kolkata Knight Riders,field,Chennai Super Kings,Kolkata Knight Riders,0,2,Rohit Sharma,Sunil Kumar,Nitish Menon,normal,0
+951,2023-07-31,Eden Gardens,Kolkata,Rajasthan Royals,bat,Rajasthan Royals,Rajasthan Royals,74,0,Rohit Sharma,Chris Gaffaney,Sunil Kumar,normal,0
+952,2024-02-14,M. Chinnaswamy Stadium,Bangalore,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,Royal Challengers Bangalore,0,5,Suryakumar Yadav,Nitish Menon,Nitish Menon,normal,0
+953,2018-07-30,Eden Gardens,Kolkata,Sunrisers Hyderabad,field,Gujarat Titans,Sunrisers Hyderabad,0,1,Ravindra Jadeja,Kumar Dharmasena,Sunil Kumar,normal,0
+954,2023-07-13,Punjab Cricket Association Stadium,Mohali,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,Punjab Kings,0,8,Andre Russell,Sunil Kumar,Nitish Menon,normal,1
+955,2023-10-06,Arun Jaitley Stadium,Delhi,Mumbai Indians,field,Lucknow Super Giants,Mumbai Indians,0,8,Rohit Sharma,Nitish Menon,Kumar Dharmasena,normal,0
+956,2024-09-22,M. Chinnaswamy Stadium,Bangalore,Kolkata Knight Riders,field,Royal Challengers Bangalore,Kolkata Knight Riders,0,8,David Warner,Kumar Dharmasena,Chris Gaffaney,normal,0
+957,2018-06-03,Eden Gardens,Kolkata,Delhi Capitals,bat,Delhi Capitals,Sunrisers Hyderabad,0,3,KL Rahul,Nitish Menon,Chris Gaffaney,normal,0
+958,2018-07-08,Eden Gardens,Kolkata,Sunrisers Hyderabad,field,Gujarat Titans,Gujarat Titans,98,0,Sanju Samson,Kumar Dharmasena,Kumar Dharmasena,tie,0
+959,2021-10-17,Rajiv Gandhi International Stadium,Hyderabad,Lucknow Super Giants,bat,Lucknow Super Giants,Lucknow Super Giants,79,0,Rashid Khan,Kumar Dharmasena,Richard Illingworth,normal,0
+960,2020-05-13,Eden Gardens,Kolkata,Rajasthan Royals,bat,Rajasthan Royals,Lucknow Super Giants,0,6,KL Rahul,Sunil Kumar,Sunil Kumar,normal,0
+961,2024-12-24,Narendra Modi Stadium,Ahmedabad,Gujarat Titans,bat,Gujarat Titans,Gujarat Titans,65,0,Hardik Pandya,Sunil Kumar,Chris Gaffaney,normal,0
+962,2024-01-22,Arun Jaitley Stadium,Delhi,Lucknow Super Giants,field,Royal Challengers Bangalore,Royal Challengers Bangalore,58,0,MS Dhoni,Kumar Dharmasena,Richard Illingworth,normal,0
+963,2024-09-02,Sawai Mansingh Stadium,Jaipur,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,Sunrisers Hyderabad,62,0,Jasprit Bumrah,Chris Gaffaney,Chris Gaffaney,normal,0
+964,2020-03-11,Arun Jaitley Stadium,Delhi,Lucknow Super Giants,field,Gujarat Titans,Lucknow Super Giants,0,2,Jasprit Bumrah,Kumar Dharmasena,Chris Gaffaney,normal,0
+965,2018-06-10,M. Chinnaswamy Stadium,Bangalore,Delhi Capitals,field,Rajasthan Royals,Delhi Capitals,0,9,KL Rahul,Kumar Dharmasena,Nitish Menon,normal,0
+966,2018-09-17,Sawai Mansingh Stadium,Jaipur,Rajasthan Royals,bat,Rajasthan Royals,Rajasthan Royals,97,0,KL Rahul,Richard Illingworth,Kumar Dharmasena,tie,0
+967,2023-10-15,Sawai Mansingh Stadium,Jaipur,Kolkata Knight Riders,bat,Kolkata Knight Riders,Lucknow Super Giants,0,6,KL Rahul,Richard Illingworth,Nitish Menon,normal,1
+968,2021-12-24,Wankhede Stadium,Mumbai,Rajasthan Royals,bat,Rajasthan Royals,Kolkata Knight Riders,0,7,Andre Russell,Richard Illingworth,Nitish Menon,normal,0
+969,2019-09-24,BRSABV Ekana Stadium,Lucknow,Gujarat Titans,bat,Gujarat Titans,Mumbai Indians,0,4,Sanju Samson,Chris Gaffaney,Chris Gaffaney,normal,0
+970,2023-08-31,M. Chinnaswamy Stadium,Bangalore,Punjab Kings,bat,Punjab Kings,Punjab Kings,16,0,Ravindra Jadeja,Sunil Kumar,Richard Illingworth,normal,0
+971,2025-03-09,Wankhede Stadium,Mumbai,Delhi Capitals,field,Mumbai Indians,Mumbai Indians,70,0,Andre Russell,Richard Illingworth,Kumar Dharmasena,normal,0
+972,2021-01-18,Rajiv Gandhi International Stadium,Hyderabad,Chennai Super Kings,bat,Chennai Super Kings,Chennai Super Kings,88,0,Jasprit Bumrah,Chris Gaffaney,Sunil Kumar,normal,0
+973,2020-12-21,Punjab Cricket Association Stadium,Mohali,Kolkata Knight Riders,bat,Kolkata Knight Riders,Kolkata Knight Riders,60,0,Rishabh Pant,Chris Gaffaney,Sunil Kumar,normal,0
+974,2021-02-05,Eden Gardens,Kolkata,Kolkata Knight Riders,field,Delhi Capitals,Kolkata Knight Riders,0,4,Hardik Pandya,Kumar Dharmasena,Sunil Kumar,normal,0
+975,2022-08-15,M. Chinnaswamy Stadium,Bangalore,Rajasthan Royals,bat,Rajasthan Royals,Kolkata Knight Riders,0,5,Jos Buttler,Chris Gaffaney,Sunil Kumar,normal,1
+976,2022-12-15,Wankhede Stadium,Mumbai,Delhi Capitals,bat,Delhi Capitals,Delhi Capitals,40,0,Andre Russell,Richard Illingworth,Nitish Menon,normal,0
+977,2021-10-14,Sawai Mansingh Stadium,Jaipur,Royal Challengers Bangalore,field,Chennai Super Kings,Chennai Super Kings,82,0,Suryakumar Yadav,Nitish Menon,Richard Illingworth,normal,0
+978,2019-05-01,M. Chinnaswamy Stadium,Bangalore,Punjab Kings,bat,Punjab Kings,Punjab Kings,20,0,Jos Buttler,Sunil Kumar,Chris Gaffaney,normal,0
+979,2020-07-04,Wankhede Stadium,Mumbai,Delhi Capitals,bat,Delhi Capitals,Delhi Capitals,95,0,KL Rahul,Chris Gaffaney,Chris Gaffaney,normal,1
+980,2019-04-26,Arun Jaitley Stadium,Delhi,Chennai Super Kings,field,Delhi Capitals,Chennai Super Kings,0,1,Rashid Khan,Sunil Kumar,Nitish Menon,normal,0
+981,2019-10-06,Narendra Modi Stadium,Ahmedabad,Rajasthan Royals,bat,Rajasthan Royals,Rajasthan Royals,35,0,KL Rahul,Sunil Kumar,Nitish Menon,normal,0
+982,2025-05-17,Eden Gardens,Kolkata,Kolkata Knight Riders,field,Delhi Capitals,Kolkata Knight Riders,0,5,KL Rahul,Richard Illingworth,Kumar Dharmasena,normal,0
+983,2018-04-07,Sawai Mansingh Stadium,Jaipur,Rajasthan Royals,field,Delhi Capitals,Rajasthan Royals,0,9,Sanju Samson,Kumar Dharmasena,Richard Illingworth,normal,0
+984,2024-01-15,Punjab Cricket Association Stadium,Mohali,Lucknow Super Giants,bat,Lucknow Super Giants,Gujarat Titans,0,4,Hardik Pandya,Sunil Kumar,Kumar Dharmasena,normal,0
+985,2020-01-25,Punjab Cricket Association Stadium,Mohali,Punjab Kings,bat,Punjab Kings,Sunrisers Hyderabad,0,8,Rishabh Pant,Sunil Kumar,Kumar Dharmasena,normal,0
+986,2018-09-23,M. Chinnaswamy Stadium,Bangalore,Delhi Capitals,field,Rajasthan Royals,Delhi Capitals,0,4,Shubman Gill,Chris Gaffaney,Sunil Kumar,normal,0
+987,2019-12-15,Wankhede Stadium,Mumbai,Punjab Kings,field,Gujarat Titans,Gujarat Titans,83,0,Shubman Gill,Richard Illingworth,Sunil Kumar,normal,0
+988,2023-11-18,Sawai Mansingh Stadium,Jaipur,Lucknow Super Giants,field,Sunrisers Hyderabad,Sunrisers Hyderabad,84,0,MS Dhoni,Nitish Menon,Chris Gaffaney,normal,0
+989,2022-08-11,BRSABV Ekana Stadium,Lucknow,Mumbai Indians,bat,Mumbai Indians,Mumbai Indians,37,0,Rashid Khan,Chris Gaffaney,Sunil Kumar,normal,1
+990,2020-10-29,Narendra Modi Stadium,Ahmedabad,Punjab Kings,field,Delhi Capitals,Punjab Kings,0,3,Hardik Pandya,Chris Gaffaney,Nitish Menon,normal,0
+991,2018-09-06,M. Chinnaswamy Stadium,Bangalore,Kolkata Knight Riders,bat,Kolkata Knight Riders,Chennai Super Kings,0,4,Rohit Sharma,Chris Gaffaney,Sunil Kumar,normal,0
+992,2022-02-11,Eden Gardens,Kolkata,Lucknow Super Giants,field,Kolkata Knight Riders,Lucknow Super Giants,0,2,Sanju Samson,Nitish Menon,Richard Illingworth,normal,0
+993,2019-12-18,M. Chinnaswamy Stadium,Bangalore,Gujarat Titans,field,Sunrisers Hyderabad,Gujarat Titans,0,2,Ravindra Jadeja,Nitish Menon,Sunil Kumar,normal,0
+994,2020-04-18,M. Chinnaswamy Stadium,Bangalore,Mumbai Indians,bat,Mumbai Indians,Mumbai Indians,48,0,Ravindra Jadeja,Richard Illingworth,Richard Illingworth,normal,0
+995,2019-02-03,M. Chinnaswamy Stadium,Bangalore,Delhi Capitals,bat,Delhi Capitals,Rajasthan Royals,0,5,David Warner,Nitish Menon,Chris Gaffaney,normal,0
+996,2022-03-31,M. Chinnaswamy Stadium,Bangalore,Gujarat Titans,bat,Gujarat Titans,Gujarat Titans,80,0,Rashid Khan,Kumar Dharmasena,Kumar Dharmasena,normal,0
+997,2021-06-28,Sawai Mansingh Stadium,Jaipur,Kolkata Knight Riders,field,Delhi Capitals,Delhi Capitals,81,0,Ravindra Jadeja,Kumar Dharmasena,Richard Illingworth,normal,0
+998,2021-10-26,Arun Jaitley Stadium,Delhi,Gujarat Titans,bat,Gujarat Titans,Gujarat Titans,7,0,MS Dhoni,Nitish Menon,Nitish Menon,normal,0
+999,2021-01-13,Arun Jaitley Stadium,Delhi,Punjab Kings,field,Delhi Capitals,Punjab Kings,0,8,Rishabh Pant,Nitish Menon,Chris Gaffaney,normal,0
+1000,2019-04-23,Wankhede Stadium,Mumbai,Kolkata Knight Riders,field,Lucknow Super Giants,Kolkata Knight Riders,0,4,Rashid Khan,Richard Illingworth,Sunil Kumar,normal,0
